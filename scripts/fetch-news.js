@@ -8,6 +8,13 @@ const path = require('path');
 const parser = new Parser({
   timeout: 15000,
   headers: { 'User-Agent': 'Mozilla/5.0 (compatible; DailyNews/1.0)' },
+  customFields: {
+    item: [
+      ['media:content',   'mediaContent'],
+      ['media:thumbnail', 'mediaThumbnail'],
+      ['enclosure',       'enclosure'],
+    ]
+  }
 });
 
 // ===== RSS 來源設定 =====
@@ -53,7 +60,11 @@ async function fetchFeed(source) {
       link:    item.link || item.guid || '',
       source:  source.name,
       pubDate: item.isoDate || item.pubDate || '',
-      description: (item.contentSnippet || item.content || item.summary || '').trim(),
+      description: (item.contentSnippet || item.summary || '').trim(),
+      image:   item.mediaContent?.['$']?.url
+            || item.mediaThumbnail?.['$']?.url
+            || (item.enclosure?.type?.startsWith('image/') ? item.enclosure?.url : '')
+            || '',
     }));
     console.log(`  ✓ ${source.name} — ${items.length} 則`);
     return items;

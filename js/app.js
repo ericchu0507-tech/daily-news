@@ -9,16 +9,18 @@ const CATEGORIES = {
   sports:        { label: '體育', icon: '⚽' },
 };
 
-// WMO 天氣代碼對應
+// 每個時段最多顯示幾則（精選 digest 風格）
+const LIMIT = { today: 5, week: 10 };
+
+// WMO 天氣代碼
 const WEATHER_ICONS = {
-  0: '☀️', 1: '🌤️', 2: '⛅', 3: '☁️',
-  45: '🌫️', 48: '🌫️',
-  51: '🌦️', 53: '🌦️', 55: '🌦️',
-  61: '🌧️', 63: '🌧️', 65: '🌧️',
-  71: '❄️', 73: '❄️', 75: '❄️', 77: '🌨️',
-  80: '🌧️', 81: '🌧️', 82: '⛈️',
-  85: '🌨️', 86: '🌨️',
-  95: '⛈️', 96: '⛈️', 99: '⛈️',
+  0:'☀️', 1:'🌤️', 2:'⛅', 3:'☁️',
+  45:'🌫️', 48:'🌫️',
+  51:'🌦️', 53:'🌦️', 55:'🌦️',
+  61:'🌧️', 63:'🌧️', 65:'🌧️',
+  71:'❄️', 73:'❄️', 75:'❄️', 77:'🌨️',
+  80:'🌧️', 81:'🌧️', 82:'⛈️',
+  95:'⛈️', 96:'⛈️', 99:'⛈️',
 };
 
 let currentCat    = 'taiwan';
@@ -35,9 +37,8 @@ document.addEventListener('DOMContentLoaded', () => {
   setupPeriod();
 });
 
-// ===== 今日日期 =====
 function renderDate() {
-  const weekdays = ['日', '一', '二', '三', '四', '五', '六'];
+  const weekdays = ['日','一','二','三','四','五','六'];
   const now = new Date();
   document.getElementById('today-date').textContent =
     `${now.getFullYear()}年${now.getMonth()+1}月${now.getDate()}日 星期${weekdays[now.getDay()]}`;
@@ -66,7 +67,7 @@ function showUpdateTime(isoString) {
   label.textContent = `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')} 更新`;
 }
 
-// ===== 載入股價（從 GitHub Actions 產生的 stocks.json）=====
+// ===== 載入股價 =====
 async function loadStocks() {
   const ticker = document.getElementById('stock-ticker');
   try {
@@ -81,47 +82,34 @@ async function loadStocks() {
 
 function renderStocks(stocks) {
   const ticker = document.getElementById('stock-ticker');
-  if (stocks.length === 0) {
+  if (!stocks.length) {
     ticker.innerHTML = '<span class="ticker-label">📈</span><span class="ticker-loading">股價暫無資料</span>';
     return;
   }
-
   const parts = stocks.map((s, i) => {
     const up   = s.changePct >= 0;
     const sign = up ? '+' : '';
-    const cls  = up ? 'up' : 'down';
-    const divider = i < stocks.length - 1 ? '<span class="stock-divider">·</span>' : '';
-    return `
-      <span class="stock-item">
-        <span class="stock-name">${escHtml(s.name)}</span>
-        <span class="stock-price">${s.price.toLocaleString()}</span>
-        <span class="stock-change ${cls}">${sign}${s.changePct}%</span>
-      </span>${divider}
-    `;
+    const div  = i < stocks.length - 1 ? '<span class="stock-divider">·</span>' : '';
+    return `<span class="stock-item">
+      <span class="stock-name">${escHtml(s.name)}</span>
+      <span class="stock-price">${s.price.toLocaleString()}</span>
+      <span class="stock-change ${up ? 'up' : 'down'}">${sign}${s.changePct}%</span>
+    </span>${div}`;
   });
-
   ticker.innerHTML = '<span class="ticker-label">📈</span>' + parts.join('');
 }
 
-// ===== 載入灣區天氣（Open-Meteo，免費無需 API key）=====
+// ===== 載入灣區天氣 =====
 async function loadWeather() {
   const widget = document.getElementById('weather-widget');
   try {
-    // San Francisco Bay Area: lat 37.7749, lon -122.4194
     const url = 'https://api.open-meteo.com/v1/forecast?latitude=37.7749&longitude=-122.4194&current=temperature_2m,weather_code&timezone=America%2FLos_Angeles';
-    const res = await fetch(url);
+    const res  = await fetch(url);
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-
-    const temp    = Math.round(data.current.temperature_2m);
-    const code    = data.current.weather_code;
-    const icon    = WEATHER_ICONS[code] || '🌡️';
-
-    widget.innerHTML = `
-      <span class="weather-icon">${icon}</span>
-      <span class="weather-temp">${temp}°C</span>
-      <span class="weather-city">灣區</span>
-    `;
+    const temp = Math.round(data.current.temperature_2m);
+    const icon = WEATHER_ICONS[data.current.weather_code] || '🌡️';
+    widget.innerHTML = `<span>${icon}</span><span class="weather-temp">${temp}°C</span><span class="weather-city">灣區</span>`;
   } catch (_) {
     widget.innerHTML = '<span class="weather-loading">天氣暫無資料</span>';
   }
@@ -151,25 +139,22 @@ function setupPeriod() {
   });
 }
 
-// ===== 切換（淡出動畫）=====
 function switchView() {
   const grid = document.getElementById('news-grid');
   grid.classList.add('fading');
-  setTimeout(() => {
-    grid.classList.remove('fading');
-    renderNews();
-  }, 180);
+  setTimeout(() => { grid.classList.remove('fading'); renderNews(); }, 180);
 }
 
-// ===== 日期過濾 =====
-function filterByPeriod(items) {
+// ===== 日期過濾 + 數量限制 =====
+function filterArticles(items) {
   const cutoff = currentPeriod === 'today'
     ? Date.now() - 24 * 60 * 60 * 1000
     : Date.now() - 7 * 24 * 60 * 60 * 1000;
-  return items.filter(item => {
+  const filtered = items.filter(item => {
     if (!item.pubDate) return currentPeriod === 'week';
     return new Date(item.pubDate).getTime() > cutoff;
   });
+  return filtered.slice(0, LIMIT[currentPeriod]);
 }
 
 // ===== 渲染新聞 =====
@@ -182,44 +167,54 @@ function renderNews() {
   emptyEl.classList.add('hidden');
 
   const allItems = newsData?.categories?.[currentCat] || [];
-  const items    = filterByPeriod(allItems);
+  const items    = filterArticles(allItems);
 
-  if (items.length === 0) {
+  if (!items.length) {
     countEl.classList.add('hidden');
     emptyEl.classList.remove('hidden');
     return;
   }
 
-  const label = currentPeriod === 'today' ? '今日' : '本週';
+  const label = currentPeriod === 'today' ? '今日精選' : '本週精選';
   countEl.classList.remove('hidden');
-  countEl.textContent = `${label} · 共 ${items.length} 則`;
+  countEl.textContent = `${label} · ${items.length} 則`;
 
-  items.forEach((item, i) => {
-    grid.appendChild(createCard(item, currentCat, i === 0));
-  });
+  items.forEach(item => grid.appendChild(createCard(item, currentCat)));
 }
 
-// ===== 建立卡片 =====
-function createCard(item, cat, featured) {
-  const a = document.createElement('a');
-  a.className = 'news-card' + (featured ? ' featured' : '');
-  a.dataset.cat = cat;
-  a.href = item.link || '#';
-  a.target = '_blank';
-  a.rel = 'noopener noreferrer';
+// ===== 建立卡片（digest 風格，內容在頁面上顯示）=====
+function createCard(item, cat) {
+  const card = document.createElement('div');
+  card.className = 'news-card';
+  card.dataset.cat = cat;
 
-  const timeStr = item.pubDate ? relativeTime(item.pubDate) : '';
+  const icon     = CATEGORIES[cat]?.icon || '📰';
+  const hasImage = !!item.image;
+  const timeStr  = item.pubDate ? relativeTime(item.pubDate) : '';
+  const desc     = item.description ? stripHtml(item.description) : '';
 
-  a.innerHTML = `
-    <div class="card-meta">
-      <span class="source-badge">${escHtml(item.source || '')}</span>
-      <span class="card-time">${escHtml(timeStr)}</span>
+  card.innerHTML = `
+    <div class="card-banner ${hasImage ? 'has-image' : ''}">
+      ${hasImage ? `<img class="banner-img" src="${escHtml(item.image)}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.remove('has-image')">` : ''}
+      <span class="banner-emoji">${icon}</span>
     </div>
-    <div class="card-title">${escHtml(item.title || '（無標題）')}</div>
-    <span class="card-arrow">閱讀全文 →</span>
+    <div class="card-body">
+      <div class="card-meta">
+        <span class="source-badge">${escHtml(item.source || '')}</span>
+        <span class="card-time">${escHtml(timeStr)}</span>
+      </div>
+      <div class="card-title">${escHtml(item.title || '（無標題）')}</div>
+      ${desc ? `<div class="card-desc">${escHtml(desc)}</div>` : ''}
+      ${item.link ? `
+      <div class="card-footer">
+        <a class="card-link" href="${escHtml(item.link)}" target="_blank" rel="noopener noreferrer">
+          原文連結 ↗
+        </a>
+      </div>` : ''}
+    </div>
   `;
 
-  return a;
+  return card;
 }
 
 // ===== 相對時間 =====
@@ -234,7 +229,10 @@ function relativeTime(isoString) {
   return `${d.getMonth()+1}/${d.getDate()}`;
 }
 
-// ===== 防 XSS =====
+function stripHtml(str) {
+  return str.replace(/<[^>]*>/g, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+}
+
 function escHtml(str) {
   return String(str)
     .replace(/&/g, '&amp;')
