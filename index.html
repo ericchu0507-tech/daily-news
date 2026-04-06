@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>每日新聞摘要</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="logo-icon">📰</span>
+        <div>
+          <h1>每日新聞</h1>
+          <p class="subtitle">Taiwan · Global · 每天自動更新</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <div id="today-date" class="today-date">載入中...</div>
+        <div id="update-time" class="update-badge">
+          <span class="live-dot"></span>
+          <span id="update-label">更新中...</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="category-nav">
+    <button class="cat-btn active" data-cat="all">
+      <span class="cat-icon">🗞️</span>
+      <span class="cat-label">綜合</span>
+    </button>
+    <button class="cat-btn" data-cat="finance">
+      <span class="cat-icon">💰</span>
+      <span class="cat-label">財經</span>
+    </button>
+    <button class="cat-btn" data-cat="entertainment">
+      <span class="cat-icon">🎬</span>
+      <span class="cat-label">娛樂</span>
+    </button>
+    <button class="cat-btn" data-cat="sports">
+      <span class="cat-icon">⚽</span>
+      <span class="cat-label">體育</span>
+    </button>
+    <button class="cat-btn" data-cat="international">
+      <span class="cat-icon">🌏</span>
+      <span class="cat-label">國際</span>
+    </button>
+  </nav>
+
+  <main>
+    <div id="news-count" class="news-count hidden"></div>
+    <div id="news-grid" class="news-grid"></div>
+    <div id="loading" class="loading-state">
+      <div class="spinner"></div>
+      <p>載入新聞中...</p>
+    </div>
+    <div id="error" class="error-state hidden">
+      <div class="error-icon">⚠️</div>
+      <p>無法載入新聞</p>
+      <small>請稍後重新整理，或等待今日 07:00 自動更新</small>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>資料來源：自由時報 · ETtoday · BBC中文 · 鉅亨網</p>
+      <p>每日 <strong>07:00</strong> 自動更新 · 由 GitHub Actions 驅動</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
