@@ -12,6 +12,27 @@ const CATEGORIES = {
 // 每個時段最多顯示幾則（精選 digest 風格）
 const LIMIT = { today: 5, week: 10 };
 
+// ===== 股票設定 =====
+const FINNHUB_KEY = 'd7a30opr01qn9i7jf8e0d7a30opr01qn9i7jf8eg';
+
+const INDICES = [
+  { symbol: 'SPY',  name: 'S&P 500' },
+  { symbol: 'QQQ',  name: 'NASDAQ'  },
+  { symbol: 'DIA',  name: '道瓊'    },
+];
+
+const MAG7 = [
+  { symbol: 'AAPL',  name: 'Apple'  },
+  { symbol: 'MSFT',  name: 'MSFT'   },
+  { symbol: 'NVDA',  name: 'NVDA'   },
+  { symbol: 'AMZN',  name: 'Amazon' },
+  { symbol: 'GOOGL', name: 'Google' },
+  { symbol: 'META',  name: 'Meta'   },
+  { symbol: 'TSLA',  name: 'Tesla'  },
+];
+
+const ALL_STOCKS = [...INDICES, ...MAG7];
+
 // WMO 天氣代碼
 const WEATHER_ICONS = {
   0:'☀️', 1:'🌤️', 2:'⛅', 3:'☁️',
@@ -31,10 +52,13 @@ let newsData      = null;
 document.addEventListener('DOMContentLoaded', () => {
   renderDate();
   loadNews();
-  loadStocks();
+  loadStocksLive();
   loadWeather();
   setupTabs();
   setupPeriod();
+
+  // 每 60 秒自動刷新股價
+  setInterval(loadStocksLive, 60_000);
 });
 
 function renderDate() {
@@ -67,36 +91,47 @@ function showUpdateTime(isoString) {
   label.textContent = `${d.getMonth()+1}/${d.getDate()} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')} 更新`;
 }
 
-// ===== 載入股價 =====
-async function loadStocks() {
+// ===== 即時股價（Finnhub，全部並行）=====
+async function loadStocksLive() {
   const ticker = document.getElementById('stock-ticker');
+
   try {
-    const res = await fetch(`data/stocks.json?t=${Date.now()}`);
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const data = await res.json();
-    renderStocks(data.stocks || []);
+    const results = await Promise.all(
+      ALL_STOCKS.map(async s => {
+        const res  = await fetch(`https://finnhub.io/api/v1/quote?symbol=${s.symbol}&token=${FINNHUB_KEY}`);
+        const data = await res.json();
+        return {
+          name:      s.name,
+          price:     data.c,
+          changePct: +(((data.c - data.pc) / data.pc) * 100).toFixed(2),
+        };
+      })
+    );
+
+    const divider = '<span class="stock-divider">|</span>';
+    const indices = results.slice(0, INDICES.length);
+    const mag7    = results.slice(INDICES.length);
+
+    const renderGroup = group => group.map(s => {
+      const up   = s.changePct >= 0;
+      const sign = up ? '+' : '';
+      return `<span class="stock-item">
+        <span class="stock-name">${escHtml(s.name)}</span>
+        <span class="stock-price">${s.price?.toLocaleString() ?? '--'}</span>
+        <span class="stock-change ${up ? 'up' : 'down'}">${sign}${s.changePct}%</span>
+      </span>`;
+    }).join('');
+
+    ticker.innerHTML =
+      '<span class="ticker-label">📈</span>' +
+      renderGroup(indices) +
+      divider +
+      '<span class="ticker-section-label">Mag 7</span>' +
+      renderGroup(mag7);
+
   } catch (_) {
     ticker.innerHTML = '<span class="ticker-label">📈</span><span class="ticker-loading">股價暫無資料</span>';
   }
-}
-
-function renderStocks(stocks) {
-  const ticker = document.getElementById('stock-ticker');
-  if (!stocks.length) {
-    ticker.innerHTML = '<span class="ticker-label">📈</span><span class="ticker-loading">股價暫無資料</span>';
-    return;
-  }
-  const parts = stocks.map((s, i) => {
-    const up   = s.changePct >= 0;
-    const sign = up ? '+' : '';
-    const div  = i < stocks.length - 1 ? '<span class="stock-divider">·</span>' : '';
-    return `<span class="stock-item">
-      <span class="stock-name">${escHtml(s.name)}</span>
-      <span class="stock-price">${s.price.toLocaleString()}</span>
-      <span class="stock-change ${up ? 'up' : 'down'}">${sign}${s.changePct}%</span>
-    </span>${div}`;
-  });
-  ticker.innerHTML = '<span class="ticker-label">📈</span>' + parts.join('');
 }
 
 // ===== 載入灣區天氣 =====

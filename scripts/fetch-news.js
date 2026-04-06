@@ -98,23 +98,23 @@ async function main() {
   const cutoffMs = Date.now() - DAYS_TO_KEEP * 24 * 60 * 60 * 1000;
   const result   = { updated: new Date().toISOString(), categories: {} };
 
-  for (const [cat, sources] of Object.entries(SOURCES)) {
-    console.log(`[${cat}]`);
+  // 所有分類、所有來源同時並行抓取
+  await Promise.all(
+    Object.entries(SOURCES).map(async ([cat, sources]) => {
+      console.log(`[${cat}] 開始...`);
 
-    const fresh = [];
-    for (const source of sources) {
-      fresh.push(...await fetchFeed(source));
-    }
+      const fresh = (await Promise.all(sources.map(fetchFeed))).flat();
 
-    const old = (existing.categories?.[cat] || [])
-      .filter(a => a.pubDate && new Date(a.pubDate).getTime() > cutoffMs);
+      const old = (existing.categories?.[cat] || [])
+        .filter(a => a.pubDate && new Date(a.pubDate).getTime() > cutoffMs);
 
-    const freshLinks = new Set(fresh.map(a => a.link).filter(Boolean));
-    const merged = [...fresh, ...old.filter(a => a.link && !freshLinks.has(a.link))];
+      const freshLinks = new Set(fresh.map(a => a.link).filter(Boolean));
+      const merged = [...fresh, ...old.filter(a => a.link && !freshLinks.has(a.link))];
 
-    result.categories[cat] = sortByDate(merged);
-    console.log(`  → 共 ${result.categories[cat].length} 則（含 ${old.length} 則歷史）\n`);
-  }
+      result.categories[cat] = sortByDate(merged);
+      console.log(`[${cat}] → 共 ${result.categories[cat].length} 則`);
+    })
+  );
 
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, JSON.stringify(result, null, 2), 'utf-8');
