@@ -3,25 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>每日新聞摘要</title>
+  <title>每日新聞</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+  <!-- ===== Header ===== -->
   <header>
     <div class="header-inner">
       <div class="header-brand">
         <span class="logo-icon">📰</span>
         <div>
           <h1>每日新聞</h1>
-          <p class="subtitle">Taiwan · Global · 每天自動更新</p>
+          <p class="subtitle">Taiwan · USA · Global · 每天自動更新</p>
         </div>
       </div>
-      <div class="header-meta">
+      <div class="header-right">
         <div id="today-date" class="today-date">載入中...</div>
-        <div id="update-time" class="update-badge">
+        <div class="update-badge">
           <span class="live-dot"></span>
           <span id="update-label">更新中...</span>
         </div>
@@ -29,46 +30,65 @@
     </div>
   </header>
 
-  <nav class="category-nav">
-    <button class="cat-btn active" data-cat="all">
-      <span class="cat-icon">🗞️</span>
-      <span class="cat-label">綜合</span>
-    </button>
-    <button class="cat-btn" data-cat="finance">
-      <span class="cat-icon">💰</span>
-      <span class="cat-label">財經</span>
-    </button>
-    <button class="cat-btn" data-cat="entertainment">
-      <span class="cat-icon">🎬</span>
-      <span class="cat-label">娛樂</span>
-    </button>
-    <button class="cat-btn" data-cat="sports">
-      <span class="cat-icon">⚽</span>
-      <span class="cat-label">體育</span>
-    </button>
-    <button class="cat-btn" data-cat="international">
-      <span class="cat-icon">🌏</span>
-      <span class="cat-label">國際</span>
-    </button>
-  </nav>
+  <!-- ===== Info Bar: 股價 + 天氣 ===== -->
+  <div class="info-bar">
+    <div class="stock-ticker" id="stock-ticker">
+      <span class="ticker-label">📈</span>
+      <span class="ticker-loading">載入股價...</span>
+    </div>
+    <div class="weather-widget" id="weather-widget">
+      <span class="weather-loading">🌡️ 載入天氣...</span>
+    </div>
+  </div>
 
+  <!-- ===== Controls: 分類 + 今日/本週 ===== -->
+  <div class="controls-bar">
+    <nav class="category-nav">
+      <button class="cat-btn active" data-cat="taiwan">🇹🇼 台灣</button>
+      <button class="cat-btn" data-cat="usa">🇺🇸 美國</button>
+      <button class="cat-btn" data-cat="international">🌏 國際</button>
+      <button class="cat-btn" data-cat="finance">💰 財經</button>
+      <button class="cat-btn" data-cat="tech">💻 科技</button>
+      <button class="cat-btn" data-cat="entertainment">🎬 娛樂</button>
+      <button class="cat-btn" data-cat="sports">⚽ 體育</button>
+    </nav>
+    <div class="period-toggle">
+      <button class="period-btn active" data-period="today">今日</button>
+      <button class="period-btn" data-period="week">本週</button>
+    </div>
+  </div>
+
+  <!-- ===== Main ===== -->
   <main>
     <div id="news-count" class="news-count hidden"></div>
     <div id="news-grid" class="news-grid"></div>
-    <div id="loading" class="loading-state">
-      <div class="spinner"></div>
-      <p>載入新聞中...</p>
+
+    <!-- Skeleton loading -->
+    <div id="loading" class="skeleton-grid">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
     </div>
+
     <div id="error" class="error-state hidden">
-      <div class="error-icon">⚠️</div>
+      <div class="state-icon">⚠️</div>
       <p>無法載入新聞</p>
       <small>請稍後重新整理，或等待今日 07:00 自動更新</small>
+    </div>
+
+    <div id="empty" class="empty-state hidden">
+      <div class="state-icon">📭</div>
+      <p>今日尚無新聞</p>
+      <small>切換到「本週」查看近期新聞</small>
     </div>
   </main>
 
   <footer>
     <div class="footer-inner">
-      <p>資料來源：自由時報 · ETtoday · BBC中文 · 鉅亨網</p>
+      <p>新聞來源：自由時報 · ETtoday · BBC中文 · RFI中文 · 鉅亨網 · iThome · 科技新報</p>
       <p>每日 <strong>07:00</strong> 自動更新 · 由 GitHub Actions 驅動</p>
     </div>
   </footer>

@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "每日新聞自動摘要 — RSS + GitHub Actions + GitHub Pages",
   "scripts": {
-    "fetch": "node scripts/fetch-news.js"
+    "fetch": "node scripts/fetch-news.js",
+    "fetch:stocks": "node scripts/fetch-stocks.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
