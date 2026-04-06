@@ -1,9 +1,10 @@
 name: Fetch Daily News
 
 on:
-  # 每天 UTC 23:00 = 台灣時間 07:00（美股收盤後）
+  # 每天兩次：UTC 00:00 = 加州 17:00 PDT，UTC 12:00 = 加州 05:00 PDT
+  # 冬令時（PST）會差 1 小時（16:00 & 04:00）
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 0,12 * * *'
   # 也可手動在 GitHub Actions 頁面點「Run workflow」
   workflow_dispatch:
 
