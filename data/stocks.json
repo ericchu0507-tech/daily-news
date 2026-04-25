@@ -1,29 +1,29 @@
 {
-  "updated": "2026-04-24T15:58:15.622Z",
+  "updated": "2026-04-25T06:07:45.375Z",
   "stocks": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
       "short": "SPX",
-      "price": 7161.17,
-      "change": 52.77,
-      "changePct": 0.74
+      "price": 7165.08,
+      "change": 56.68,
+      "changePct": 0.8
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ",
       "short": "NDQ",
-      "price": 24795.25,
-      "change": 356.75,
-      "changePct": 1.46
+      "price": 24836.6,
+      "change": 398.1,
+      "changePct": 1.63
     },
     {
       "symbol": "^DJI",
       "name": "道瓊",
       "short": "DJI",
-      "price": 49249.61,
-      "change": -60.71,
-      "changePct": -0.12
+      "price": 49230.71,
+      "change": -79.61,
+      "changePct": -0.16
     },
     {
       "symbol": "^TWII",
