@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T01:52:50.753Z",
+  "updated": "2026-05-04T01:50:23.492Z",
   "stocks": [
     {
       "symbol": "^GSPC",
@@ -29,9 +29,9 @@
       "symbol": "^TWII",
       "name": "台灣加權",
       "short": "TWI",
-      "price": 38926.63,
-      "change": -376.87,
-      "changePct": -0.96
+      "price": 40143.16,
+      "change": 1216.53,
+      "changePct": 3.13
     }
   ]
 }
