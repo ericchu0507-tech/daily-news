@@ -1,7 +1,167 @@
 {
-  "updated": "2026-05-13T14:02:03.254Z",
+  "updated": "2026-05-14T01:59:00.167Z",
   "categories": {
     "usa": [
+      {
+        "title": "網路犯罪從線上延伸到線下，涉及人身威脅的案例暴增",
+        "link": "https://www.bbc.com/zhongwen/articles/clypgkrze6jo/trad?at_medium=RSS&at_campaign=rss",
+        "source": "BBC中文",
+        "pubDate": "2026-05-14T00:30:01.000Z",
+        "description": "過去，黑客多以潛入電腦系統為主要手段，如今對受害者進行恐嚇威脅的情況則越發常見。",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg"
+      },
+      {
+        "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+        "link": "https://www.bbc.com/zhongwen/articles/c1j2pl97p1zo/trad?at_medium=RSS&at_campaign=rss",
+        "source": "BBC中文",
+        "pubDate": "2026-05-14T00:28:35.000Z",
+        "description": "今年是文革發動60週年、結束50週年，BBC中文梳理過去歷史，整理出十個關鍵點，從人物組織的崛起與沒落、形勢演變，回顧這場文化浩劫。",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d278/live/1ec66db0-49f2-11f1-a9e7-0f8f590f205b.jpg"
+      },
+      {
+        "title": "路透社分析：特朗普施压中国手段有限，很难说服中方推动结束伊朗战争",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E8%B7%AF%E9%80%8F%E7%A4%BE%E5%88%86%E6%9E%90-%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%AE%B5%E6%9C%89%E9%99%90%EF%BC%8C%E5%BE%88%E9%9A%BE%E8%AF%B4%E6%9C%8D%E4%B8%AD%E6%96%B9%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T23:08:28.000Z",
+        "description": "路透社周三（5月13日）发布的分析文章指出，美国总统特朗普本周与中国国家主席习近平会晤时，预计将寻求中方协助解决他所推动的、代价高昂且在国内引发通胀的伊朗战争。但分析人士认为，他很可能无法获得中国的支持。",
+        "image": "https://s.rfi.fr/media/display/23739342-4ede-11f1-9a3e-005056bf30b7/w:1024/p:16x9/AP26133482202170.jpg"
+      },
+      {
+        "title": "“被”改名、马杜罗式运动服：卢比奥独特对华的沟通策略",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E6%94%B9%E5%90%8D-%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%BC%8F%E8%BF%90%E5%8A%A8%E6%9C%8D-%E5%8D%A2%E6%AF%94%E5%A5%A5%E7%8B%AC%E7%89%B9%E5%AF%B9%E5%8D%8E%E7%9A%84%E6%B2%9F%E9%80%9A%E7%AD%96%E7%95%A5",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T21:33:41.000Z",
+        "description": "周三13日晚，《国际邮报》电子版登出由贝尼亚米诺·莫兰特执笔报道说，美国总统特朗普当晚抵达北京，将与中国国家主席习近平举行会谈。陪同他出访的官员其一是国务卿马可·卢比奥。卢比奥受到中国制裁。不过，北京当局找到了一种变通办法，修改了国务卿名字汉译中的一个字。",
+        "image": "https://s.rfi.fr/media/display/8b3b2d1e-4f06-11f1-9d79-005056bfb2b6/w:1024/p:16x9/images-187.jpg"
+      },
+      {
+        "title": "特习会北京登场有哪些看点？",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%8C%97%E4%BA%AC%E7%99%BB%E5%9C%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T20:16:36.000Z",
+        "description": "美国总统特朗普（Donald Trump）13日抵达北京，准备与中国国家主席习近平展开备受瞩目的“特习会”。",
+        "image": "https://s.rfi.fr/media/display/f0e21a3c-4ed5-11f1-817d-005056a90284/w:1024/p:16x9/AP26133446655827.jpg"
+      },
+      {
+        "title": "法国世界报： 特朗普似乎在向习近平寻求帮助，以解决他自己造成的问题",
+        "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260513-%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%BC%E4%B9%8E%E5%9C%A8%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AF%BB%E6%B1%82%E5%B8%AE%E5%8A%A9%EF%BC%8C%E4%BB%A5%E8%A7%A3%E5%86%B3%E4%BB%96%E8%87%AA%E5%B7%B1%E9%80%A0%E6%88%90%E7%9A%84%E9%97%AE%E9%A2%98",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T20:03:36.000Z",
+        "description": "特朗普访华，这是今天法国世界报关注的一个重点。特朗普访问中国的时间点，正值美国在国际舞台上的信誉正受到侵蚀的时刻。报纸说，伊朗战争引发的全球能源和贸易危机导致原定于3月下旬的访问推迟，这令北京方面颇感意外，因为中国不喜欢外交礼仪被打乱。",
+        "image": "https://s.rfi.fr/media/display/78520942-1160-11ea-ba64-005056a99247/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg"
+      },
+      {
+        "title": "特习会即将举行 有美国国会议员致信特朗普 再次发声挺台湾",
+        "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C-%E6%9C%89%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E8%87%B4%E4%BF%A1%E7%89%B9%E6%9C%97%E6%99%AE-%E5%86%8D%E6%AC%A1%E5%8F%91%E5%A3%B0%E6%8C%BA%E5%8F%B0%E6%B9%BE",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T20:02:52.000Z",
+        "description": "美国总统特朗普周三已经到达北京，预计周四与中国国家主席习近平会面。就在这之前，美国联邦众议院国安相关委员会多名民主党首席议员致函特朗普，敦促他批准延期中的140亿美元对台军售案。",
+        "image": "https://s.rfi.fr/media/display/23739342-4ede-11f1-9a3e-005056bf30b7/w:1024/p:16x9/AP26133482202170.jpg"
+      },
+      {
+        "title": "特朗普对伊朗战争的代价高昂，美国生活成本大幅攀升",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9A%84%E4%BB%A3%E4%BB%B7%E9%AB%98%E6%98%82%EF%BC%8C%E7%BE%8E%E5%9B%BD%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E5%A4%A7%E5%B9%85%E6%94%80%E5%8D%87",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T19:52:54.000Z",
+        "description": "特朗普在伊朗发动的战争代价高昂。美国劳工统计局于5月12日（周二）公布的4月份通胀数据显示，受能源价格上涨的推动，美国生活成本大幅攀升，环比上涨0.6%，同比上涨3.8%。这些数据令白宫担忧，白宫正寻求解决方案。",
+        "image": "https://s.rfi.fr/media/display/30204a5c-3103-11f1-905b-005056bfb2b6/w:1024/p:16x9/AP26092050876495.jpg"
+      },
+      {
+        "title": "若中国在月球探测方面领先美国及其盟友 或构成经济威胁",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E8%8B%A5%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E6%96%B9%E9%9D%A2%E9%A2%86%E5%85%88%E7%BE%8E%E5%9B%BD%E5%8F%8A%E5%85%B6%E7%9B%9F%E5%8F%8B-%E6%88%96%E6%9E%84%E6%88%90%E7%BB%8F%E6%B5%8E%E5%A8%81%E8%83%81",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T19:44:20.000Z",
+        "description": "各位听众，美国学者托德·哈里森在接受法国快讯周刊的专访中警告说：“在北京和华盛顿之间的竞争中，太空已经成为新的战场！” 他并指出：“如果中国在月球探测方面领先于美国及其盟友，可能会构成经济威胁。这将使中国在开发当地资源方面获得显著优势。”",
+        "image": "https://s.rfi.fr/media/display/f0cc3920-3539-11f1-aeb7-005056bfb2b6/w:1024/p:16x9/2026-04-11T000133Z-2129363338-RC2OMKA01MOM-RTRMADP-3-SPACE-MOON-ARTEMIS.jpg"
+      },
+      {
+        "title": "美联储换帅：凯文·沃什接替鲍威尔，外界担忧迎合特朗普偏好进而加剧通胀",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E7%BE%8E%E8%81%94%E5%82%A8%E6%8D%A2%E5%B8%85-%E5%87%AF%E6%96%87%C2%B7%E6%B2%83%E4%BB%80%E6%8E%A5%E6%9B%BF%E9%B2%8D%E5%A8%81%E5%B0%94%EF%BC%8C%E5%A4%96%E7%95%8C%E6%8B%85%E5%BF%A7%E6%81%90%E8%BF%8E%E5%90%88%E7%89%B9%E6%9C%97%E6%99%AE%E5%81%8F%E5%A5%BD%E8%BF%9B%E8%80%8C%E5%8A%A0%E5%89%A7%E9%80%9A%E8%83%80",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T19:42:49.000Z",
+        "description": "美国参议院周三（5月13日）确认由总统特朗普提名的凯文·沃什（Kevin Warsh）将出任美联储主席。",
+        "image": "https://s.rfi.fr/media/display/aec76a66-4f03-11f1-94f0-005056bfb2b6/w:1024/p:16x9/AP26111617036649.jpg"
+      },
+      {
+        "title": "伊朗战争导致油墨供应紧张，日本部分零食包装改为黑白设计",
+        "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260513-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%AF%BC%E8%87%B4%E6%B2%B9%E5%A2%A8%E4%BE%9B%E5%BA%94%E7%B4%A7%E5%BC%A0%EF%BC%8C%E6%97%A5%E6%9C%AC%E9%83%A8%E5%88%86%E9%9B%B6%E9%A3%9F%E5%8C%85%E8%A3%85%E5%B0%86%E6%94%B9%E4%B8%BA%E9%BB%91%E7%99%BD%E8%AE%BE%E8%AE%A1",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T19:24:56.000Z",
+        "description": "美联社周三（5月13日）消息称，由于伊朗战争扰乱了用于彩色油墨生产的原料供应，日本部分零食包装开始变成简约的黑白设计。总部位于东京的卡乐比公司（Calbee Inc.）表示，产品内容本身没有变化。据悉，卡乐比的经典轻盐薯片原本使用亮橙色包装，印有黄色薯片图案以及戴帽子的土豆形象吉祥物，而新的包装则仅保留黑白文字设计。",
+        "image": "https://s.rfi.fr/media/display/3a9a49e4-4eca-11f1-8bf3-005056a90284/w:1024/p:16x9/AP26133108914975.jpg"
+      },
+      {
+        "title": "伊朗战争的导弹消耗凸显关键矿产重要性，美国寻求加速建立稀土供应链",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9A%84%E5%AF%BC%E5%BC%B9%E6%B6%88%E8%80%97%E5%87%B8%E6%98%BE%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%8A%A0%E9%80%9F%E5%BB%BA%E7%AB%8B%E7%A8%80%E5%9C%9F%E4%BE%9B%E5%BA%94%E9%93%BE",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T19:08:55.000Z",
+        "description": "一台电视机或一部笔记本电脑只需要几克稀土元素，但一枚“战斧”巡航导弹或“爱国者”导弹则需要数百克。法新社的分析指出，中东战争让美国寻求加速建立自己的稀土供应链。华盛顿希望借此摆脱对中国的依赖，而目前中国仍是这一领域不可替代的关键力量。",
+        "image": "https://s.rfi.fr/media/display/72a4f588-4c58-11f1-b17e-005056a90284/w:1024/p:16x9/000-97WL4GM-1.jpg"
+      },
+      {
+        "title": "特朗普访华之际，泽连斯基指责俄罗斯“故意”向乌克兰发射至少800架无人机",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%B9%8B%E9%99%85%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8C%87%E8%B4%A3%E4%BF%84%E7%BD%97%E6%96%AF-%E6%95%85%E6%84%8F-%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8F%91%E5%B0%84%E8%87%B3%E5%B0%91800%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T18:39:32.000Z",
+        "description": "乌克兰总统泽连斯基周三表示，俄罗斯当天向乌克兰发射了至少“800架无人机”，造成至少6人死亡，并指责莫斯科是在美国总统特朗普抵达中国之际“故意发动攻击”。",
+        "image": "https://s.rfi.fr/media/display/f649eb86-1eaa-11f1-b691-005056a90284/w:1024/p:16x9/Le-pr%C3%A9sident-ukrainien-Volodymyr-Zelensky-s-adresse-%C3%A0-la-presse-conjointement-avec-son-homologue-roumain-au-palais-de-Cotroceni-r%C3%A9sidence-officielle-du-pr%C3%A9sident-roumain-%C3%A0-Bucarest-le-12-mars-2026.jpg"
+      },
+      {
+        "title": "乘坐1700多人英国邮轮因发生疑似病毒传染至死病例而停靠法国波尔多进行检查",
+        "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260513-%E4%B9%98%E5%9D%901700%E5%A4%9A%E4%BA%BA%E8%8B%B1%E5%9B%BD%E9%82%AE%E8%BD%AE%E5%9B%A0%E5%8F%91%E7%94%9F%E7%96%91%E4%BC%BC%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E8%87%B3%E6%AD%BB%E7%97%85%E4%BE%8B%E8%80%8C%E5%81%9C%E9%9D%A0%E6%B3%95%E5%9B%BD%E6%B3%A2%E5%B0%94%E5%A4%9A%E8%BF%9B%E8%A1%8C%E6%A3%80%E6%9F%A5",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T18:37:07.000Z",
+        "description": "周三（5月13日），一艘英国邮轮因发生疑似具高度传染性的诺如病毒（Norovirus）病例，而停泊在法国西部城市波尔多（Bordeaux）港口进行检查。",
+        "image": "https://s.rfi.fr/media/display/5b24eb2e-4ef2-11f1-abf5-005056bfb2b6/w:1024/p:16x9/AP26133592051445.jpg"
+      },
+      {
+        "title": "中国AI盈利变现难：阿里巴巴一季度AI业务收入大增38%，但总体营收仅同比增3%",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E4%B8%AD%E5%9B%BDai%E7%9B%88%E5%88%A9%E5%8F%98%E7%8E%B0%E9%9A%BE-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%B8%80%E5%AD%A3%E5%BA%A6ai%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5%E5%A4%A7%E5%A2%9E38-%EF%BC%8C%E4%BD%86%E6%80%BB%E4%BD%93%E8%90%A5%E6%94%B6%E4%BB%85%E5%90%8C%E6%AF%94%E5%A2%9E3",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T18:30:04.000Z",
+        "description": "中国科技巨头阿里巴巴称，在人工智能热潮推动下，公司最新季度的人工智能与云计算业务增长进一步加速。数据显示，今年1月至3月，该公司旗下专注于云计算与AI发展的“云智能集团”（Cloud Intelligence Group）收入同比大增38%。这一增速高于此前两个季度（分别是36%和34%）。不过，该公司整体营收仅同比增长3%，达到2430亿元人民币（约合360亿美元）。",
+        "image": "https://s.rfi.fr/media/display/946fb724-0924-11f1-b157-005056bfb2b6/w:1024/p:16x9/2026-02-13T135549Z-157776499-RC2TOGA1K1QU-RTRMADP-3-USA-TRUMP-CHINA.jpg"
+      },
+      {
+        "title": "伊朗战争推动亚洲太阳能销售激增，中国或成最大受益者",
+        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8E%A8%E5%8A%A8%E4%BA%9A%E6%B4%B2%E5%A4%AA%E9%98%B3%E8%83%BD%E9%94%80%E5%94%AE%E6%BF%80%E5%A2%9E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T18:07:07.000Z",
+        "description": "美联社的一篇报道指出，由于伊朗战争导致燃料成本飙升，深受冲击的亚洲消费者正纷纷转向屋顶太阳能发电。这一趋势很可能成为中国的巨大商机，因为中国是全球最大的太阳能技术供应国。",
+        "image": "https://s.rfi.fr/media/display/752a1678-40e9-11f1-9f9f-005056bf30b7/w:1024/p:16x9/000-76UA682-1.jpg"
+      },
+      {
+        "title": "中国外交官称对欧洲拟限制中国投资“非常失望”，并警告这会促使中国对“对欧洲关上大门”",
+        "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E7%A7%B0%E5%AF%B9%E6%AC%A7%E6%B4%B2%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84-%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B-%EF%BC%8C%E5%B9%B6%E8%AD%A6%E5%91%8A%E8%BF%99%E4%BC%9A%E4%BF%83%E4%BD%BF%E4%B8%AD%E5%9B%BD%E5%AF%B9-%E5%AF%B9%E6%AC%A7%E6%B4%B2%E5%85%B3%E4%B8%8A%E5%A4%A7%E9%97%A8",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T17:18:10.000Z",
+        "description": "中国驻西班牙大使馆商务代表屈浔周三（5月13日）在马德里一场会议上表示，北京方面对欧洲计划限制中国投资“非常失望”，并警告称，此类措施将促使中国“对欧洲关上大门”。",
+        "image": "https://s.rfi.fr/media/display/77cd8a72-4021-11f1-b485-005056bf30b7/w:1024/p:16x9/relations-commerciales-UE-Chine-922x516.jpg"
+      },
+      {
+        "title": "荷兰已向美方表达反对进一步限制阿斯麦在华运营相关法案",
+        "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260513-%E8%8D%B7%E5%85%B0%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90%E5%88%B6%E9%98%BF%E6%96%AF%E9%BA%A6%E5%9C%A8%E5%8D%8E%E8%BF%90%E8%90%A5%E7%9B%B8%E5%85%B3%E6%B3%95%E6%A1%88",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T16:09:26.000Z",
+        "description": "荷兰政府已表达反对美国国会的一项拟议法案，该法案将进一步限制半导体设备巨头阿斯麦（ASML）向中国销售产品并为中国客户提供服务。",
+        "image": "https://s.rfi.fr/media/display/c2757f30-d38a-11ef-b8a7-005056bfb2b6/w:1024/p:16x9/2024-01-24T063430Z_1_LYNXMPEK0N05K_RTROPTP_3_ASML-RESULTS.jpg"
+      },
+      {
+        "title": "特习会前 一艘中国超级油轮驶出霍尔木兹海峡 未缴通行费",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D-%E4%B8%80%E8%89%98%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E6%B2%B9%E8%BD%AE%E9%A9%B6%E5%87%BA%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E6%9C%AA%E7%BC%B4%E9%80%9A%E8%A1%8C%E8%B4%B9",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T14:55:44.000Z",
+        "description": "伊朗和美国双重封锁导致霍尔木兹海峡局势升级后，首艘中国超级油轮成功驶出海峡。当地时间周三上午，中国籍31万吨级超大型油轮“远花湖”号成功从波斯湾驶出了霍尔木兹海峡，其通过海峡时满载从伊拉克阿巴克港装运的原油。据悉，与其一同驶出海峡的还有一艘大型汽车运输船“湘江口”号。这两艘船舶均属于中国航运央企中远海运集团。",
+        "image": "https://s.rfi.fr/media/display/8532ab2a-4edb-11f1-b19f-005056bfb2b6/w:1024/p:16x9/Capture-3478.jpg"
+      },
+      {
+        "title": "泽连斯基：望特朗普访华期间提及结束俄对乌战争问题",
+        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%9C%9F%E9%97%B4%E6%8F%90%E5%8F%8A%E7%BB%93%E6%9D%9F%E4%BF%84%E5%AF%B9%E4%B9%8C%E6%88%98%E4%BA%89%E9%97%AE%E9%A2%98",
+        "source": "RFI中文",
+        "pubDate": "2026-05-13T14:04:25.000Z",
+        "description": "乌克兰总统泽连斯基（Volodymyr Zelenskyy）周三敦促美国总统特朗普（Donald Trump）在本周与中国国家主席习近平的会晤中讨论结束俄罗斯对乌克兰的入侵。",
+        "image": "https://s.rfi.fr/media/display/a46ee638-3e01-11f1-bc39-005056bfb2b6/w:1024/p:16x9/AP26105555710017.jpg"
+      },
       {
         "title": "不再试图改变中国经济？美贸易代表口中的“贸易委员会”现端倪",
         "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260513-%E4%B8%8D%E5%86%8D%E8%AF%95%E5%9B%BE%E6%94%B9%E5%8F%98%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%E5%8F%A3%E4%B8%AD%E7%9A%84-%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%98%E4%BC%9A-%E7%8E%B0%E7%AB%AF%E5%80%AA",
@@ -48,7 +208,7 @@
         "source": "RFI中文",
         "pubDate": "2026-05-13T10:48:52.000Z",
         "description": "大家好，欢迎收听法国报纸摘要，今天是5月13日，全球拭目以待的美国总统特朗普将于今晚抵达北京成为《回声报》与《解放报》等各大日报关注焦点。《十字架报》台北通讯员报道侧重在台湾对于特习会的焦虑，因为今年2月，特朗普承认在与习近平的通话中讨论了美国对台军售问题”，据国际危机组织中国外交政策分析师杨伟文（William Yang）回溯指出，“这加剧了人们对美台关系稳固性的怀疑”。《费加罗报》则在美国总统代表团抵华前，提及中美两国代表团在韩国启动经贸磋商。",
-        "image": "https://s.rfi.fr/media/display/3c07bdb8-4ec3-11f1-a8f7-005056bf30b7/w:1024/p:16x9/Capture-3476.jpg"
+        "image": "https://s.rfi.fr/media/display/be51be8a-4f14-11f1-a191-005056a90284/w:1024/p:16x9/2026-05-13T122033Z-1802346782-RC2C8LADFSP1-RTRMADP-3-CHINA-USA-TRUMP-ARRIVAL.jpg"
       },
       {
         "title": "沈伯洋參選台北市長，其「獨派」色彩會否帶來外溢效應？",
@@ -1675,118 +1835,6 @@
         "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png"
       },
       {
-        "title": "转播权谈不拢 中国球迷担心错过美加墨世界杯",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E8%BD%AC%E6%92%AD%E6%9D%83%E8%B0%88%E4%B8%8D%E6%8B%A2-%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E6%8B%85%E5%BF%83%E9%94%99%E8%BF%87%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T22:53:50.000Z",
-        "description": "距离美加墨世界杯开赛只剩一月，中国央视仍未与国际足联关于世界杯转播权达成共识。",
-        "image": "https://s.rfi.fr/media/display/5fb92078-499e-11f1-aa8f-005056bf30b7/w:1024/p:16x9/2026-05-04T104852Z-785430119-RC2111AU23QA-RTRMADP-3-SOCCER-FIFA-INDIA-CHINA.jpg"
-      },
-      {
-        "title": "特朗普访华前伊朗战事能终结吗",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%89%8D%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E8%83%BD%E7%BB%88%E7%BB%93%E5%90%97",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T22:29:54.000Z",
-        "description": "美国总统特朗普访华行程逼近，虽然中方尚未官宣，美军4架运输机已提早飞赴北京，卸下先遣物资，这似乎显示此行不可逆了 !",
-        "image": "https://s.rfi.fr/media/display/063bfe10-499b-11f1-aab4-005056bf30b7/w:1024/p:16x9/2026-05-06T090212Z-1938307016-RC2E3LAD890L-RTRMADP-3-IRAN-CRISIS-CHINA-ARAQCHI.jpg"
-      },
-      {
-        "title": "特朗普称伊朗战事可能在他访华前结束",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%8F%AF%E8%83%BD%E5%9C%A8%E4%BB%96%E8%AE%BF%E5%8D%8E%E5%89%8D%E7%BB%93%E6%9D%9F",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T21:44:35.000Z",
-        "description": "美国总统唐纳德·特朗普（Donald Trump）6日表示，美国与伊朗达成协议“机会非常大”，甚至可能在他下周出访中国前敲定协议。不过他同时警告，若谈判破裂，美方将恢复大规模军事打击，显示外交与军事压力并行的策略仍在持续。",
-        "image": "https://s.rfi.fr/media/display/b775ab60-4994-11f1-9013-005056bf30b7/w:1024/p:16x9/2026-05-06T132352Z-92743249-RC2N3LAPBWQ2-RTRMADP-3-IRAN-CRISIS-EMIRATES-PORTS.jpg"
-      },
-      {
-        "title": "中国商会：欧盟禁用中企电信设备或面临3678亿欧元损失",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E4%B8%AD%E5%9B%BD%E5%95%86%E4%BC%9A-%E6%AC%A7%E7%9B%9F%E7%A6%81%E7%94%A8%E4%B8%AD%E4%BC%81%E7%94%B5%E4%BF%A1%E8%AE%BE%E5%A4%87%E6%88%96%E6%8D%9F%E5%A4%B13678%E4%BA%BF%E6%AC%A7%E5%85%83",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T21:43:40.000Z",
-        "description": "代表中国企业在欧洲利益的中国欧盟商会周三(5月6日）公布的一项研究称，如果欧盟按照布鲁塞尔提出的方案，将中国电信设备供应商排除出欧洲市场，欧盟27国到2030年可能面临高达3678亿欧元的累计经济损失。",
-        "image": "https://s.rfi.fr/media/display/a1be9b7e-4994-11f1-9d3a-005056a97e36/w:1024/p:16x9/000-37266DH.jpg"
-      },
-      {
-        "title": "汉坦病毒：载有患者的医疗专机抵达荷兰 欧洲疾控中心：疫情仍存“诸多不确定性”",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92-%E8%BD%BD%E6%9C%89%E6%82%A3%E8%80%85%E7%9A%84%E5%8C%BB%E7%96%97%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E8%8D%B7%E5%85%B0-%E6%AC%A7%E6%B4%B2%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83-%E7%96%AB%E6%83%85%E4%BB%8D%E5%AD%98-%E8%AF%B8%E5%A4%9A%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T21:40:05.000Z",
-        "description": "一架载有汉坦病毒感染乘客的医疗专机周三（5月6日）晚抵达荷兰阿姆斯特丹。此前，荷兰籍极地探险邮轮“洪迪厄斯”号（MV Hondius）在佛得角附近海域暴发汉坦病毒疫情，并展开紧急医疗转运行动。欧洲疾病预防与控制中心（ECDC）当天警告称，此次疫情仍存在“诸多不确定性”，但强调汉坦病毒对欧洲普通民众构成的整体风险“仍然非常低”，现阶段预计不会出现大范围传播。",
-        "image": "https://s.rfi.fr/media/display/2158a970-4994-11f1-ad58-005056a97e36/w:1024/p:16x9/2026-05-06T191225Z-1875553373-RC2T3LAQUC8S-RTRMADP-3-CRUISESHIP-HANTAVIRUS-NETHERLANDS.jpg"
-      },
-      {
-        "title": "法国派遣“戴高乐”号航母前往红海 马克龙呼吁伊朗把握“机会窗口”",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E6%B3%95%E5%9B%BD%E6%B4%BE%E9%81%A3-%E6%88%B4%E9%AB%98%E4%B9%90-%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E7%BA%A2%E6%B5%B7-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%91%BC%E5%90%81%E4%BC%8A%E6%9C%97%E6%8A%8A%E6%8F%A1-%E6%9C%BA%E4%BC%9A%E7%AA%97%E5%8F%A3",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T21:35:57.000Z",
-        "description": "法国军方周三(5月6日）宣布，法国海军“戴高乐”号航空母舰战斗群已穿越苏伊士运河，正驶往亚丁湾，为法国与英国推动的霍尔木兹海峡多国安全倡议进行预部署。法国总统马克龙呼吁伊朗把握霍尔木兹海峡“机会窗口”。",
-        "image": "https://s.rfi.fr/media/display/8e127fc4-4993-11f1-879d-005056bfb2b6/w:1024/p:16x9/27086af82000aa8075e8dbc22d0f28a0.jpg"
-      },
-      {
-        "title": "特朗普：与伊朗“非常可能”达成协议 伊朗评估美国新提案",
-        "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260506-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%8E%E4%BC%8A%E6%9C%97-%E9%9D%9E%E5%B8%B8%E5%8F%AF%E8%83%BD-%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-%E4%BC%8A%E6%9C%97%E8%AF%84%E4%BC%B0%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8F%90%E6%A1%88",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T21:29:51.000Z",
-        "description": "美国总统特朗普周三(5月6日）表示，与伊朗达成和平协议“非常可能”，但同时继续以恢复轰炸相威胁。伊朗称，正研究美国提出的新方案。路透社援引多名消息人士透露，华盛顿与德黑兰正接近达成一份“一页纸”备忘录，以结束当前海湾地区冲突，而包括伊朗核计划在内的棘手问题将留待后续谈判处理。",
-        "image": "https://s.rfi.fr/media/display/b30aa76c-4992-11f1-85c5-005056a90284/w:1024/p:16x9/2026-05-06T170238Z-1221059145-RC2S3LAMXFRR-RTRMADP-3-USA-TRUMP.jpg"
-      },
-      {
-        "title": "法国二战胜利日：印度支那士兵与法国本土女性的混血后代口述历史",
-        "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260506-%E6%B3%95%E5%9B%BD%E4%BA%8C%E6%88%98%E8%83%9C%E5%88%A9%E6%97%A5-%E5%8D%B0%E5%BA%A6%E6%94%AF%E9%82%A3%E5%A3%AB%E5%85%B5%E4%B8%8E%E6%B3%95%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%A5%B3%E6%80%A7%E7%9A%84%E6%B7%B7%E8%A1%80%E5%90%8E%E4%BB%A3%E5%8F%A3%E8%BF%B0%E5%8E%86%E5%8F%B2",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T19:09:30.000Z",
-        "description": "各位好，本期出刊的法国世界报头版关注点如下：法国总理勒科尔尼调整政策，应对中东战争对法国经济与政府预算造成的影响、特朗普暂停霍尔木兹海峡“自由航行”任务、法国政府调查委员会对法国公营广电集团的调查报告结果引发法国电视集团主席的谴责、卢浮宫新任负责人介绍其上任后的主要目标、俄罗斯指责人权捍卫者玛丽亚·伯恩茨勒为叛徒、法国政界不同派别为2027年总统选举做准备等。",
-        "image": "https://s.rfi.fr/media/display/eadcec90-497e-11f1-8bc0-005056a90284/w:1024/p:16x9/AP400926049.jpg"
-      },
-      {
-        "title": "西班牙政府同意爆发汉坦病毒的邮轮停靠，居民忧类似新冠情景再现",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260506-%E8%A5%BF%E7%8F%AD%E7%89%99%E6%94%BF%E5%BA%9C%E5%90%8C%E6%84%8F%E7%88%86%E5%8F%91%E6%B1%89%E5%A1%94%E7%97%85%E6%AF%92%E7%9A%84%E9%82%AE%E8%BD%AE%E5%81%9C%E9%9D%A0%EF%BC%8C%E5%B1%85%E6%B0%91%E5%BF%A7%E7%B1%BB%E4%BC%BC%E6%96%B0%E5%86%A0%E6%83%85%E6%99%AF%E5%86%8D%E7%8E%B0",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T18:49:44.000Z",
-        "description": "西班牙加那利群岛正面临一起引发关注的公共卫生事件。“洪迪乌斯号”（MV Hondius）豪华邮轮因暴发汉坦病毒疫情，自周日起滞留在佛得角附近海域。在疫情已造成3人死亡、多人感染或疑似感染的背景下，这艘船预计将于本周内驶达西班牙特内里费岛。此前，尽管当地政府提出抗议，但西班牙中央政府方面同意了世界卫生组织的请求，允许该船停靠。",
-        "image": "https://s.rfi.fr/media/display/48098516-497c-11f1-92c1-005056bf30b7/w:1024/p:16x9/2026-05-06T162243Z-779442542-RC2M3LAFMRTN-RTRMADP-3-CRUISESHIP-HANTAVIRUS-EXPLAINER.jpg"
-      },
-      {
-        "title": "法国货船在霍尔木兹海峡遭袭 戴高乐航母驶向亚丁湾 巴黎要求美伊单独处理海峡问题",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260506-%E6%B3%95%E5%9B%BD%E8%B4%A7%E8%88%B9%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%81%AD%E8%A2%AD-%E6%88%B4%E9%AB%98%E4%B9%90%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%BA%9A%E4%B8%81%E6%B9%BE-%E5%B7%B4%E9%BB%8E%E8%A6%81%E6%B1%82%E7%BE%8E%E4%BC%8A%E5%8D%95%E7%8B%AC%E5%A4%84%E7%90%86%E6%B5%B7%E5%B3%A1%E9%97%AE%E9%A2%98",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T16:26:43.000Z",
-        "description": "法国一艘集装箱船周二在霍尔木兹海峡受到袭击，法国戴高乐航母战斗群目前正驶向亚丁湾。同时巴黎呼吁美伊双方在谈判中将霍尔木兹海峡与其他问题分开处理。",
-        "image": "https://s.rfi.fr/media/display/0e04edd8-4968-11f1-b12c-005056bfb2b6/w:1024/p:16x9/AP26126553338133.jpg"
-      },
-      {
-        "title": "G7贸易部长对稀土等经济胁迫深感担忧 同意采取更有力应对措施",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260506-g7%E8%B4%B8%E6%98%93%E9%83%A8%E9%95%BF%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%AD%89%E7%BB%8F%E6%B5%8E%E8%83%81%E8%BF%AB%E6%B7%B1%E6%84%9F%E6%8B%85%E5%BF%A7-%E5%90%8C%E6%84%8F%E9%87%87%E5%8F%96%E6%9B%B4%E6%9C%89%E5%8A%9B%E5%BA%94%E5%AF%B9%E6%8E%AA%E6%96%BD",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T15:36:59.000Z",
-        "description": "七国集团（G7）贸易部长周三对“经济胁迫”表示深切担忧，这种胁迫主要表现为对稀土出口的“任意限制”，并一致同意针对当前全球失衡问题采取更强有力的应对措施。",
-        "image": "https://s.rfi.fr/media/display/2b0fa9b0-4961-11f1-a4b4-005056bfb2b6/w:1024/p:16x9/2026-05-06T090523Z-2099168113-RC2I3LAIUAOQ-RTRMADP-3-G7-TRADE.jpg"
-      },
-      {
-        "title": "一艘游轮出现汉坦病毒 已知8人感染3人死亡",
-        "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260506-%E4%B8%80%E8%89%98%E6%B8%B8%E8%BD%AE%E5%87%BA%E7%8E%B0%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92-%E5%B7%B2%E7%9F%A58%E4%BA%BA%E6%84%9F%E6%9F%933%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T14:51:16.000Z",
-        "description": "从阿根廷前往非洲西海岸佛得角的一艘游轮爆发致命汉坦病毒（hantavirus）感染，据介绍这种病毒可引起严重的肺部疾病。据世卫组织总干事表示，当前局势与新冠疫情初期并不“相似”。",
-        "image": "https://s.rfi.fr/media/display/58ceee4a-4959-11f1-a2ad-005056a97e36/w:1024/p:16x9/AP26126409107830.jpg"
-      },
-      {
-        "title": "中东危机对亚洲能源供给冲击将是菲律宾东盟峰会重要话题",
-        "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260506-%E4%B8%AD%E4%B8%9C%E5%8D%B1%E6%9C%BA%E5%AF%B9%E4%BA%9A%E6%B4%B2%E8%83%BD%E6%BA%90%E4%BE%9B%E7%BB%99%E5%86%B2%E5%87%BB%E5%B0%86%E6%98%AF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%9C%E7%9B%9F%E5%B3%B0%E4%BC%9A%E9%87%8D%E8%A6%81%E8%AF%9D%E9%A2%98",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T14:46:31.000Z",
-        "description": "第48届东南亚国家联盟领导人峰会5月7日-8日在菲律宾城市宿务市举行。主办国自6日起已明显提升了警力部署。宿务市国际媒体中心附近主要街道和公共街区都有保安人员巡逻、盘查。鉴于持续两月有余的中东危机对亚洲地区能源供给带来的冲击，预计能源供给安全会是此次会议的重要议题。",
-        "image": "https://s.rfi.fr/media/display/b779837c-fcd5-11f0-98a2-005056a90284/w:1024/p:16x9/AP26029074603019.jpg"
-      },
-      {
-        "title": "视频 俄罗斯回归  威尼斯双年展在紧张的气氛中开幕",
-        "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260506-%E8%A7%86%E9%A2%91-%E4%BF%84%E7%BD%97%E6%96%AF%E5%9B%9E%E5%BD%92-%E5%A8%81%E5%B0%BC%E6%96%AF%E5%8F%8C%E5%B9%B4%E5%B1%95%E5%9C%A8%E7%B4%A7%E5%BC%A0%E7%9A%84%E6%B0%94%E6%B0%9B%E4%B8%AD%E5%BC%80%E5%B9%95",
-        "source": "RFI中文",
-        "pubDate": "2026-05-06T14:32:21.000Z",
-        "description": "自2022年以来缺席威尼斯双年展的俄罗斯，今年首次重返，不过莫斯科馆不对公众开放，其展览仅在预展期间对媒体开放，请看France24报道。",
-        "image": "https://s.rfi.fr/media/display/bfc4686a-4953-11f1-8c18-005056bf30b7/w:1024/p:16x9/Biennalede-Venise-2026-05-06-155743.png"
-      },
-      {
         "title": "「AI妄想」：為何他們深信自己「被追殺」甚至襲擊枕邊人？",
         "link": "https://www.bbc.com/zhongwen/articles/c9d35dww693o/trad?at_medium=RSS&at_campaign=rss",
         "source": "BBC中文",
@@ -1801,14 +1849,6 @@
         "pubDate": "2026-05-06T05:08:10.000Z",
         "description": "美國和伊朗決心繼續向對方施壓，這導致脆弱的海灣停火協議岌岌可危。",
         "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a283/live/cfeeea60-4879-11f1-ac78-2112837ce2aa.jpg"
-      },
-      {
-        "title": "中國發布東海海底科研報告   展示「軍民融合」戰略巨大彈性",
-        "link": "https://www.bbc.com/zhongwen/articles/clyp71jkqlvo/trad?at_medium=RSS&at_campaign=rss",
-        "source": "BBC中文",
-        "pubDate": "2026-05-06T01:45:03.000Z",
-        "description": "中國發布東海海底化學元素圖集，基於近20年調查資料，強調用於資源勘探與環境保護，但有專家指其軍民融合戰略強化東海主權主張，蒐集潛艇戰關鍵數據，同時向日本及展現實力。",
-        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d5a/live/98201f80-4858-11f1-9db4-19df36ab272c.jpg"
       },
       {
         "title": "「房間裏的大象」——歐洲各國謀求團結，但特朗普「陰霾不散」",
@@ -1852,6 +1892,294 @@
       }
     ],
     "taiwan": [
+      {
+        "title": "竹縣議員吳旭智宣布參選竹北市長 主打「拆掉隱形的牆」啟動縣市一體",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436427",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:53:45.000Z",
+        "description": "新竹縣議員吳旭智今天正式宣布，將爭取國民黨提名參選竹北市長。吳旭智表示，市民最在意的交通、人行安全、市容及教育問題，有許多障礙卡在縣府公所權責的縫隙中；竹北市不能單打獨鬥，他參...…",
+        "image": ""
+      },
+      {
+        "title": "台股被MSCI點名 ! 台灣有望吸金725億 亞洲國家居冠",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436347",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:52:00.000Z",
+        "description": "〔財經頻道／綜合報導〕隨著MSCI最新一輪全球股票指數調整出爐，亞太市場將迎來新一波資金重新配置。高盛指出，澳洲、台灣與南韓可望吸引數十億美元被動資金流入，在亞洲國家中冠；相對地，日本、印尼與印...…",
+        "image": ""
+      },
+      {
+        "title": "都市更新常見迷思 苗縣府：都更不是1坪換1坪",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436367",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:51:50.000Z",
+        "description": "隨著老舊建築逐年增加，都市更新成為改善居住安全與生活環境的重要方式。不過，部分民眾在討論都市更新時，常會以「1坪換1坪」作為判斷標準，認為原本有多少坪數，更新後就應分回相...…",
+        "image": ""
+      },
+      {
+        "title": "如何因應川習會變局?  陳其邁：美中「兩個不變」、台灣應「這麼做」",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436421",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:51:40.000Z",
+        "description": "民進黨籍高市議員林智鴻今質詢時、詢問市長陳其邁台灣應如何因應川習會？陳其邁解析美中關係有「兩個不變」，台灣可在國際上扮演更積極正面角色，證明台灣存在的必要性，也是確保台灣安全最...…",
+        "image": ""
+      },
+      {
+        "title": "再喊蓋蘆社大橋 李四川提雙北軌道建設構想：成30分鐘生活圈",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436428",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:51:02.000Z",
+        "description": "新北市長選戰持續升溫，國民黨市長參選人李四川今（14）日接受媒體專訪，提出他對雙北交通的構想，他也再度強調如當選一定會蓋「蘆社大橋」，連接新北市蘆洲區與台北市社子島。李四川說，...…",
+        "image": ""
+      },
+      {
+        "title": "Meta推AI無痕聊天！祖克柏暗酸：其他平台不算真正私密",
+        "link": "https://3c.ltn.com.tw/news/66065",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:50:48.000Z",
+        "description": "Meta宣布推出「Incognito Chat with Meta AI（無痕聊天）」功能，宣稱這是「首個不會在伺服器保存對話紀錄的大型AI產品」，主打「完全私密」的AI對話體驗。該功能將在未來幾個月內，陸續推送至Meta AI與WhatsApp…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》世界健身-KY：Q1獲利創新高 市場驚豔",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436426",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:50:18.000Z",
+        "description": "世界健身-KY（2762）第一季淨利2.19億元，年增約345％，每股稅後盈餘2.01元，創單季歷史新高，今天開盤股價一度強攻至85元、漲幅逾7%，截至9:36分，股價暫...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》世芯：亞馬遜包下今年私募 開高走低",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436422",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:49:17.000Z",
+        "description": "IC設計廠世芯-KY（3661）公告今年私募增資認購股數為55萬7325股，由世芯大客戶亞馬遜（Amazon）全部包下，私募價為每股4239元，亞馬遜斥資約23.62億元...…",
+        "image": ""
+      },
+      {
+        "title": "南投觀音瀑布7月重新開放 主打蝴蝶自然生態教育",
+        "link": "https://news.ltn.com.tw/news/life/breakingnews/5436382",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:48:43.000Z",
+        "description": "南投縣埔里鎮老字號的知名景點觀音瀑布，經多年封閉整修，工程已完工，針對議員關切觀音瀑布何時重新開放，縣府觀光處長陳志賢表示，目前正進行景觀樓梯塔植栽優化工程，預計7月開放，未來...…",
+        "image": ""
+      },
+      {
+        "title": "徐巧芯譏沈伯洋妝髮遭酸「詞窮」 網笑：巧芯急了伯洋穩了",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436307",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:48:41.000Z",
+        "description": "國民黨立委徐巧芯13日在社群談及民進黨台北市長參選人沈伯洋，譏笑沈的「參選起手式」是髮型、老鼠、敷面膜。對此政治工作者周軒表示，沈伯洋勤保養、換髮型相當合理，老鼠也絕不是他的問題...…",
+        "image": ""
+      },
+      {
+        "title": "學界攜手在地產業 青年創意重新詮釋木柵在地文化",
+        "link": "https://news.ltn.com.tw/news/life/breakingnews/5436417",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:48:34.000Z",
+        "description": "台北市木柵區農會與明志科技大學數位行銷設計學程共同辦理的「產學合作成果展-登」，在台北市鐵觀音包種茶研發推廣中心正式展出，本次成果展集結學生歷時一年深入木柵地方訪查、規劃與創意...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》 智邦：思科財報帶動 買盤湧進",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436400",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:47:15.000Z",
+        "description": "網通廠智邦（2345）昨日股價殺尾盤，但受到思科cisco在美股盤後公布的財測優於預期、盤後飆漲18%激勵，智邦今日股價開高走高後攻上漲停2675元，截至9:16分，股價...…",
+        "image": ""
+      },
+      {
+        "title": "中職》兄弟王牌鄭浩均被打爆後「嘻嘻哈哈」 前旅日好手痛罵：不尊重球迷",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436379",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:47:01.000Z",
+        "description": "中信兄弟本土王牌鄭浩均昨晚大爆炸，僅投0.1局狂失9分，而他下場後與隊友互動的模樣，也被拿出來討論，前旅日好手、現任軟銀球團亞洲區球探代表李杜軒痛批：「我替兄弟球迷感到不值...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》群聯：獲利超驚人 前4月暴賺逾10個股本",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436383",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:46:00.000Z",
+        "description": "NAND控制晶片暨NAND儲存解決方案廠群聯（8299）昨日應主管機關要求公布4月合併自結數，單月歸屬母公司淨利76.4億元，每股稅後盈餘（EPS）為34.56元，累積前...…",
+        "image": ""
+      },
+      {
+        "title": "川習會將登場 彭博：台灣不該成為美中貿易協議的籌碼 點出這關鍵",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436337",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:45:02.000Z",
+        "description": "〔財經頻道／綜合報導〕美國總統川普昨（13）日晚間搭機抵達北京，展開不到三天的短暫國是訪問，彭博專欄作家瓦斯瓦尼（Karishma Vaswani）撰文表示，華府在與中國打交道時，首要原則是了解...…",
+        "image": ""
+      },
+      {
+        "title": "黃金跌勢擋不住！但華爾街最新預測超狂",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436392",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:44:05.000Z",
+        "description": "〔財經頻道／綜合報導〕中東戰火帶來的通膨升溫疑慮，持續打壓降息預期，市場在川習會登場前也保持戒心，週三（13日）黃金價格連續第2個交易日下跌，不過華爾街對金價在2026年剩餘時間的展望，依然十分...…",
+        "image": ""
+      },
+      {
+        "title": "美摩聯合搜救行動落幕 尋回2名美軍士兵遺體",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436353",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:43:34.000Z",
+        "description": "美國2名士兵在摩洛哥參加「非洲之獅2026」（African Lion 2026）軍事演習期間於大西洋岸邊一處懸崖附近失蹤。美軍10日證實，9日在距離失蹤地點不到1.6公里的水...…",
+        "image": ""
+      },
+      {
+        "title": "涉閃兵求刑2年6月 金鐘影帝薛仕凌首開庭",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436365",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:43:19.000Z",
+        "description": "金鐘影帝薛仕凌涉嫌於2011年間斥資30萬元，勾結閃兵集團首腦陳志明，以憋氣提高血壓、讓陳嫌冒名配戴24小時血壓機等方式，取得「中度高血壓」診斷證明而免役，且在藝人王大陸...…",
+        "image": ""
+      },
+      {
+        "title": "藍白砍無人機「害慘雙北近百廠」 民進黨：蔣萬安和李四川頻閃躲",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436398",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:41:51.000Z",
+        "description": "藍白主導立法院會三讀通過國防特別條例，匡列預算上限降為新台幣7800億元，排除商購及委製案項，無人機項目也遭殃。對此，民進黨今（14日）指出，藍白大砍無人機預算，新北市有52家...…",
+        "image": ""
+      },
+      {
+        "title": "川習會登場 盧秀燕喊話賴總統召開國安會議",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436416",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:41:03.000Z",
+        "description": "美國總統川普與中國國家主席習近平今天上午10時將展開「川習會」，因是時隔9年後再有美國總統訪問中國，引起國際高度關切，對台灣有何影響也備受關注；台中市長盧秀燕指出，「川習會」對...…",
+        "image": ""
+      },
+      {
+        "title": "喊淡江大橋機車道寬度要改善 李四川：雙北橋樑機車分隔島要重新檢討",
+        "link": "https://news.ltn.com.tw/news/life/breakingnews/5436411",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:40:18.000Z",
+        "description": "淡江大橋通車，交通部的公關爭議、機車道安全爭議仍懸而未決。國民黨新北市長參選人李四川今（14）日接受專訪時強調，機車道過窄問題必然要改善；淡江大橋是斜張橋，可以更動的就是快車道...…",
+        "image": ""
+      },
+      {
+        "title": "川習會談今登場 伊朗、貿易與台海兩岸議題成關鍵焦點",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436387",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:39:51.000Z",
+        "description": "美國總統川普與中國國家主席習近平今天將在北京會面，預計針對分歧重大的議題展開討論，包括伊朗、貿易與台海兩岸議題等。\r\n\r\n綜合法新社和路透社報導，習近平今天上午10時將在「人民大會堂」與川普...…",
+        "image": ""
+      },
+      {
+        "title": "基隆市長選舉民調  童子瑋知名度提升到87％、網路聲量高於謝國樑",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436389",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:37:25.000Z",
+        "description": "民進黨針對2026基隆市長選舉最新民調出爐，結果顯示，民進黨基隆市長參選人童子瑋與國民黨籍現任市長謝國樑的支持度差距拉近，同時發現童子瑋的知名度再提升到87%，顯示近日政策奏效...…",
+        "image": ""
+      },
+      {
+        "title": "邀黃國昌加入競辦？ 李四川：「太委屈他」因他需要全國輔選",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436366",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:36:39.000Z",
+        "description": "國民黨、民眾黨對今年度新北市長選舉採「藍白合」策略，由國民黨參選人李四川代表出戰。李四川昨日也與民眾黨主席黃國昌與該黨市議員參選人合拍宣傳照。李四川今（14）日接受媒體人王淺秋...…",
+        "image": ""
+      },
+      {
+        "title": "換匯慘遭同鄉強盜30萬 瑞芳警3天瓦解越南失聯移工犯罪集團",
+        "link": "https://news.ltn.com.tw/news/society/breakingnews/5436394",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:35:04.000Z",
+        "description": "新北市瑞芳區越南籍阮姓移工4日欲將來台賺得台幣60萬元血汗錢匯回老家，在臉書上發現范姓業者提供較低的手續費，與對方相約至宿舍內交易；未料，遭對方持開山刀強盜走近30萬元現金，還...…",
+        "image": ""
+      },
+      {
+        "title": "批蘇巧慧反財劃法又提220億政見 李四川：敬老卡部分悠遊卡化預算可控",
+        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5436384",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:34:58.000Z",
+        "description": "新北市長選戰持續升溫，民進黨立委、新北市長參選人蘇巧慧2月提出敬老卡升級1000點的政策後，國民黨參選人李四川於昨日提出600點敬老卡點數300點「悠遊卡化」，雙方交火。李四川...…",
+        "image": ""
+      },
+      {
+        "title": "中國高規格接待川普「勝過普廷」 港媒：以面子換取裡子",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436300",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:33:07.000Z",
+        "description": "美國總統川普昨晚搭乘「空軍一號」專機抵達中國北京首都機場，中國採高規格由國家副主席韓正接機，港媒報導對此分析指出，這樣的接待規格不僅超過川普首次訪中，也超過對待俄羅斯總統普廷的規...…",
+        "image": ""
+      },
+      {
+        "title": "馬克宏挨巴掌內幕？他爆料「伊朗女星簡訊」讓第一夫人氣炸",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436330",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:31:36.000Z",
+        "description": "法國總統馬克宏（Emmanuel Macron）去年5月訪問越南時，被鏡頭捕捉到遭妻子碧姬（Brigitte Macron）推打臉部。如今一本新書指稱，這個舉動的導火線是碧姬發現...…",
+        "image": ""
+      },
+      {
+        "title": "挺謝衣鳯選彰化縣長！　詹江村喊捐10萬：國民黨別被地方諸侯綁架",
+        "link": "https://www.ettoday.net/news/20260514/3165624.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-14T01:31:00.000Z",
+        "description": "國民黨13日徵召前考紀會主委魏平政參選彰化縣長，早已表態的國民黨立委謝衣鳯確定出局。國民黨則回應，因為牽涉到家族等複雜因素，所以很可惜她無法代表國民黨角逐縣長。對此，國民黨桃園市議員詹江村今（14日）表示，明明謝衣鳯才有機會贏，根本無需仰賴家族，國民黨該有民進黨魄力，否則永遠被地方諸侯綁架，輸掉縣長選舉，又輸掉全台灣選民信心。他也強調「謝衣鳯參選我捐10萬」。 《詳全文...》",
+        "image": ""
+      },
+      {
+        "title": "新冠疫苗高雄長輩接種率僅2成4 衛生局呼籲高風險族群打起來",
+        "link": "https://news.ltn.com.tw/news/life/breakingnews/5436399",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:30:01.000Z",
+        "description": "5月梅雨季節氣候多變且環境濕度高，呼吸道病毒相對活躍，高雄市衛生局統計，高雄市65歲以上長者接種「新冠疫苗」與「肺炎鏈球菌疫苗」僅有24.3%與37.6%，超過半數處於保護力空...…",
+        "image": ""
+      },
+      {
+        "title": "光陽雙新車上市倒數！G7、RTS R 165 油耗成績曝光",
+        "link": "https://auto.ltn.com.tw/news/31734",
+        "source": "自由時報",
+        "pubDate": "2026-05-14T01:30:00.000Z",
+        "description": "光陽除了準備上市的 G7 之外，另外 RTS R 165 小改款也預備在 6 月登場。兩款車在上市之前，油耗數據也已揭曉，G7 為二級能效，RTS R 165 拿下一級能效。…",
+        "image": ""
+      },
+      {
+        "title": "吳怡農無緣市長還是有角色！　沈伯洋：我要找他一起打北市選戰",
+        "link": "https://www.ettoday.net/news/20260514/3165620.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-14T01:29:00.000Z",
+        "description": "民進黨確定由不分區立委沈伯洋選台北市長，無緣代表民進黨參選台北市長的壯闊台灣聯盟創辦人吳怡農昨表態，會全力支持並協助接下來的選戰。沈伯洋今（14日）表示，會找吳怡農進入團隊一起打這場選戰，但角色部分還在討論。 《詳全文...》",
+        "image": ""
+      },
+      {
+        "title": "陸要求停止對台軍售　我國安官員：在野黨大砍軍購恐混淆美國認知",
+        "link": "https://www.ettoday.net/news/20260514/3165600.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-14T00:36:00.000Z",
+        "description": "川習會14日於北京登場之際，大陸國台辦明確表示，堅決反對美國向「中國台灣地區」出售武器，應遵守一個中國原則和中美三個聯合公報，停止售台武器。對此，我國安官員受訪表示，要擔心的是中國藉著上週台灣在野黨大砍軍購的表決結果，混淆美國認知，以為台灣人沒有自我防衛決心，「這會是未來幾天要警惕的一件事」。\r\n\r\n\r\n 《詳全文...》",
+        "image": ""
+      },
+      {
+        "title": "尹立被點名「19標19中」反擊了　曝協會曾服務藍營大咖",
+        "link": "https://www.ettoday.net/news/20260514/3165591.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-14T00:09:00.000Z",
+        "description": "台電LOGO案持續延燒，粉專「Ｗetalk高雄」爆料，高雄市議員參選人、陳菊市府時期文化局長尹立才是「王牌奪標手」，「十九標、十九中」，總金額高達2409萬3000元。對此，尹立回應，設計師協會接案不等於他個人接案，這根本是「烏龍抹黑」。 《詳全文...》",
+        "image": ""
+      },
+      {
+        "title": "沈伯洋參選台北市長　藍議員貼「綠營32年名單」酸：王小二過年",
+        "link": "https://www.ettoday.net/news/20260514/3165579.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-13T23:41:00.000Z",
+        "description": "民進黨13日正式徵召不分區立委沈伯洋參選2026台北市長，對決國民黨籍、力拚連任的現任市長蔣萬安。國民黨台北市議員秦慧珠列出民進黨32年來的台北市長參選人名單，包含陳水扁、李應元、謝長廷、蘇貞昌等人，直指「民進黨市長參選人一代不如一代」，甚至用「王小二過年，一年不如一年」來形容這次沈伯洋的提名。 《詳全文...》",
+        "image": ""
+      },
+      {
+        "title": "曾喊「沈伯洋參選」就發雞排　謝寒冰證實：下週準備發1000份",
+        "link": "https://www.ettoday.net/news/20260514/3165514.htm",
+        "source": "ETtoday",
+        "pubDate": "2026-05-13T17:57:00.000Z",
+        "description": "民進黨13日正式徵召不分區立委沈伯洋，代表民進黨參選2026台北市長選戰，由於媒體人謝寒冰先前曾喊話，如果沈伯洋選台北市長就要發雞排，許多網友關注謝寒冰何時兌現承諾。對此，謝寒冰13日回應，預計下週會分別在中天、TVBS發雞排，如果沈伯洋到現場，他會請對方吃牛排。 《詳全文...》",
+        "image": ""
+      },
       {
         "title": "AsiaYo攜手麗星郵輪推「週末派對去日本」  免請假、超優惠價閃現沖繩",
         "link": "https://news.ltn.com.tw/news/art/breakingnews/5436165",
@@ -2137,7 +2465,7 @@
         "link": "https://www.ettoday.net/news/20260513/3165410.htm",
         "source": "ETtoday",
         "pubDate": "2026-05-13T09:59:00.000Z",
-        "description": "民進黨今（13日）正式提名立委、黑熊學院榮譽會長沈伯洋參選台北市長。對此，黑熊學院發出聲明表示，院長與內部人員充分告知此事，「榮譽院長」是無給職的榮譽職位，不會因參選而有所變化，此事也不會影響學院既有工作，他們仍持續努力推廣民防準備，同時，避免年底選舉活動影響學院業務，相關課程、活動，學院婉謝候選人、擬參選人的參與。 《詳全文...》",
+        "description": "民進黨今（13日）正式提名立委、黑熊學院榮譽院長沈伯洋參選台北市長。對此，黑熊學院發出聲明表示，院長與內部人員充分告知此事，「榮譽院長」是無給職的榮譽職位，不會因參選而有所變化，此事也不會影響學院既有工作，他們仍持續努力推廣民防準備，同時，避免年底選舉活動影響學院業務，相關課程、活動，學院婉謝候選人、擬參選人的參與。 《詳全文...》",
         "image": ""
       },
       {
@@ -2153,7 +2481,7 @@
         "link": "https://www.ettoday.net/news/20260513/3165284.htm",
         "source": "ETtoday",
         "pubDate": "2026-05-13T08:55:00.000Z",
-        "description": "民進黨今（13日）正式提名立委沈伯洋參選台北市長，而國民黨則由現任市長蔣萬安力拼連任，沈蔣大戰已成定局。從學經歷方面觀察，兩人都有法律專才、都曾擔任律師，沈伯洋取得賓州大學法學碩士、加州大學爾灣分校法律社會學博士學位；蔣萬安則為賓夕法尼亞大學法學碩士、法律博士。特別的是，兩人在家庭背景都曾爆出爭議，沈伯洋父親被爆料「賺紅錢」、蔣萬安蔣家後代身世背景，過去在選戰中也成為攻防焦點。《ETtoday新聞雲》特別從年齡、星座、家庭、學經歷等方面，供讀者進一步了解兩人的背景。 《詳全文...》",
+        "description": "民進黨今（13日）正式提名立委沈伯洋參選台北市長，而國民黨則由現任市長蔣萬安力拼連任，沈蔣大戰已成定局。從學經歷方面觀察，兩人都具法律專才，沈伯洋取得賓州大學法學碩士、加州大學爾灣分校法律社會學博士學位；蔣萬安則為賓夕法尼亞大學法學碩士、法律博士。特別的是，兩人在家庭背景方面都曾爆出爭議，沈伯洋父親被爆料「賺紅錢」，蔣萬安蔣家後代身世，過去在選戰中也成為攻防焦點。 《詳全文...》",
         "image": ""
       },
       {
@@ -5427,265 +5755,265 @@
         "pubDate": "2026-05-07T04:46:00.000Z",
         "description": "台北市鼠患問題引發各界關注，市長蔣萬安重申會全力防治、全力滅鼠，也反擊綠營、側翼的指控是認知作戰。對此，行政院發言人李慧芝今（7日）說，的確是注意到很多台北市民有目擊到老鼠出沒，被老鼠驚嚇，「所以老鼠的議題應該是『鼠實』」；環境部則建議，除了「不讓鼠來、不讓鼠住、不讓鼠吃」三不政策，也希望優先採用物理性防治方法，若不得已要使用藥劑，應使用中央核可的鼠藥，在投放時也要注意。 《詳全文...》",
         "image": ""
-      },
-      {
-        "title": "iPhone 18 Pro爆料續用鋁合金　果粉憂掉漆、變色災情重演",
-        "link": "https://3c.ltn.com.tw/news/65946",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:46:42.000Z",
-        "description": "蘋果iPhone 17 Pro系列捨棄鈦金屬邊框，改採鋁合金材質，雖然帶來更好的散熱表現，但自去年上市以來，耐用度問題也引發不少討論，像是機身容易出現刮痕、掉漆，甚至宇宙橙還傳出變色災情。然而，最新消息指出，新一代 iPhone 18 Pro 系列仍將繼續沿用鋁合金設計…",
-        "image": ""
-      },
-      {
-        "title": "焦點股》台燿：5大外資狂升目標價  漲停再創新高",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428420",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:45:10.000Z",
-        "description": "銅箔基板（CCL）廠台燿（6274）首季財報亮眼，獲利年增87.52%，每股稅後盈餘4.36元，5大外資出具最新報告調高目標價，最高上看1888元，台燿今日挾著財報利多，...…",
-        "image": ""
-      },
-      {
-        "title": "台北傳統市場節職人料理對決！《黑白大廚》金度潤將坐鎮評審",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428409",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:44:27.000Z",
-        "description": "2026台北傳統市場節將在5月16日、17日盛大舉辦，以「市場江湖」為主題，市場攤商化身各路職人高手，地點在花博長廊廣場展開「天下第一攤」職人料理競技對決，透過料理技藝與創意呈...…",
-        "image": ""
-      },
-      {
-        "title": "疑似艾普斯坦遺書公開 揭示生前最後心聲",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428361",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:43:16.000Z",
-        "description": "美國1名法官6日公布1份據稱是淫魔富豪艾普斯坦（Jeffrey Epstein）在紐約監獄去世前幾週寫下的遺書。艾普斯坦的獄友稱，在艾普斯坦於2019年8月去世前幾週，他曾在其...…",
-        "image": ""
-      },
-      {
-        "title": "MLB》洋基王牌左投即將重返大聯盟！布總親曝回歸時間",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428392",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:42:29.000Z",
-        "description": "根據紐約洋基總教練布恩（Aaron Boone）表示，昨天剛投完第3場復健賽的當家王牌左投羅冬（Carlos Rodón），有望美國時間周日對上密爾瓦基釀酒人時重返大聯盟。...…",
-        "image": ""
-      },
-      {
-        "title": "台灣好市多開賣機車輪胎！最便宜千元有找 網友卻不買單",
-        "link": "https://auto.ltn.com.tw/news/31675",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:40:00.000Z",
-        "description": "機車族除了可以去機車行買輪胎並進行更換，現在美式賣場好市多（Costco）不只賣汽車輪胎，現在也開始賣機車輪胎，一條從 985 元起跳。…",
-        "image": ""
-      },
-      {
-        "title": "澎湖輪今年首航基隆  迎回猛獸超跑車隊",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428416",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:39:57.000Z",
-        "description": "馬公至高雄定期交通船澎湖輪，今年首航基隆，延續去年藍色公路嘉年華行程，為澎湖迎來號稱陸地最強猛獸部隊大舉登陸，22部嶄新超跑今（7）日在澎湖縣政府前廣場亮相，一字排開不僅價值不...…",
-        "image": ""
-      },
-      {
-        "title": "愛爾麗總裁常如山等3人聲押 法院定下午2:30開庭",
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/5428410",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:39:27.000Z",
-        "description": "愛爾麗連鎖醫美新北板橋店，被控在店內裝有煙霧偵測器偽裝的針孔鏡頭；新北地檢署今凌晨依涉「刑法」無故攝錄性影像罪嫌、無故竊錄他人身體隱私部位，及可處1年以上7年以下徒刑的「兒童及...…",
-        "image": ""
-      },
-      {
-        "title": "探索植物生態  台南重溪國小培育鹿角蕨小小職人",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428413",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:36:37.000Z",
-        "description": "台南市柳營區重溪國小推動環境教育，去年邀請「台灣蕨類教父」郭城孟教授到校舉辦「閱讀自然」講座後，激發學生對植物觀察與探索的興趣。今年舉辦「重溪鹿角蕨比賽」，鼓勵學生培育鹿角蕨展...…",
-        "image": ""
-      },
-      {
-        "title": "台中烏日41歲男深夜田邊持槍 與警對峙後自戕",
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/5428368",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:34:53.000Z",
-        "description": "首次上稿 05-07 09:06更新時間 05-07 09:34\r\n台中市烏日區溪南路昨天深夜11時許傳出槍響，41歲謝男疑因家庭因素導致情緒不佳，不知為何有槍，竟持槍出現在工...…",
-        "image": ""
-      },
-      {
-        "title": "台股飆破4萬點漲太兇？吳嘉隆：根本還沒漲完、台積電行情還沒到頂",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428390",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:34:12.000Z",
-        "description": "台股近日衝破4萬點大關，引發各界關注，針對是否漲太兇，總體經濟學家吳嘉隆發文直言，「台灣的股市雖然很強勁，站上4萬點的歷史新高，但是根本還沒有漲完」，並指「台積電的行情根本...…",
-        "image": ""
-      },
-      {
-        "title": "蕭芳芳蟬聯2屆金馬影后   豁達面對遺傳雙耳失聰多年",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428363",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:33:28.000Z",
-        "description": "港星蕭芳芳在1995年和1996年，以電影《女人四十》、《虎度門》蟬聯2屆金馬獎最佳女主角獎，日前驚喜現身電影《撞到正》4K數碼修復版全球首映禮，已屆79歲的她昔日風采依...…",
-        "image": ""
-      },
-      {
-        "title": "MiLB》入選《棒球美國》百大新秀榜！ 林維恩寫台灣史上第4人壯舉",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428366",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:32:31.000Z",
-        "description": "權威美媒《棒球美國》公布最新百大新秀榜，效力運動家2A的台灣強投林維恩首度進入榜單，位居第93名。\n\n\n林維恩成為繼胡金龍之後，18年來首位獲得此殊榮的台灣球員，而歷來能登...…",
-        "image": ""
-      },
-      {
-        "title": "逼近台北101！阿拉斯加山崩掀481米海嘯 全球史上第2高",
-        "link": "https://news.ltn.com.tw/news/novelty/breakingnews/5428288",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:32:19.000Z",
-        "description": "氣候危機也帶來海嘯風險！科學家表示，去年8月，阿拉斯加一座山發生崩塌，大量岩石瞬間墜入峽灣，在一處經常有郵輪造訪的狹長水域引發巨型海嘯（megatsunami），浪高達481公尺...…",
-        "image": ""
-      },
-      {
-        "title": "焦點股》研華：邊緣AI進展優於預期 飆歷史天價",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428407",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:32:06.000Z",
-        "description": "工業電腦大廠研華（2395）昨日法說會報喜，旗下邊緣AI營收目標「略優於預期」，主要原因在於先進AI應用正從大型資料中心逐步往邊緣場域延伸，激勵今日股價大漲，開盤一度創下...…",
-        "image": ""
-      },
-      {
-        "title": "孩子坐不住狂吞魚油？  醫：沒缺Omega-3 吃再多也未必有效",
-        "link": "https://health.ltn.com.tw/article/breakingnews/5428403",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:30:05.000Z",
-        "description": "孩子上課坐不住、容易分心，不少家長第一時間會幫孩子補充魚油，希望改善注意力不足過動症（ADHD）症狀。不過，醫師提醒，魚油並非對所有ADHD孩子都有效，關鍵在於孩子體內是否...…",
-        "image": ""
-      },
-      {
-        "title": "自由開講》安全之名 誰的安全？從公館圓環再思人本交通",
-        "link": "https://talk.ltn.com.tw/article/breakingnews/5421120",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:30:00.000Z",
-        "description": "去年9月13日深夜，四百多名市民聚集公館圓環，試圖守護這座承載共同記憶與公共價值的交通設施。有人堅持到最後，有人唱著〈末班車〉，有人淚流滿面，更多的是夏夜的汗水。當工程車開始將沙土傾倒...…",
-        "image": ""
-      },
-      {
-        "title": "泰國正妹遊基隆彩色屋遭偷拍 色漁工躲觀景台攝裙底被判刑",
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/5428370",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:29:20.000Z",
-        "description": "基隆網紅景點正濱漁港「彩色屋」驚傳偷拍案。一名30多歲張姓漁工，見泰國籍正妹旅客小寧（化名）穿著短裙在觀景台取景，被控躲在觀景台下方，由下往上偷拍裙底4次，偷拍過程被在對面餐廳...…",
-        "image": ""
-      },
-      {
-        "title": "又見毒駕攔檢不停衝撞員警 北市警連夜南下台中逮人送辦",
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/5428405",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:29:08.000Z",
-        "description": "又見毒駕攔查不停衝撞員警事件！39歲萬姓男子昨晚駕駛白色BMW轎車行經台北市中山區時，遇警攔檢，先假意停車，再加速衝出攔檢點，現場員警雖連開7槍制止，仍被竄逃；台北市警中山分局...…",
-        "image": ""
-      },
-      {
-        "title": "防洪韌性再提升！新北金山月眉下游完成排水瓶頸改善、補強護岸",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428396",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:27:30.000Z",
-        "description": "前年10月山陀兒及康芮颱風接連侵襲，新北市金山區單日累積雨量突破600毫米，造成月眉排水長興宮旁護岸受損，新北市水利局去年完成長興宮復建工程後，再針對下游瓶頸河段自籌890萬元...…",
-        "image": ""
-      },
-      {
-        "title": "苗縣府推苗栗幣數位點數平台7/9日啟用  吸引商家加入創商機",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428394",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:26:39.000Z",
-        "description": "苗栗縣政府積極推動「苗栗幣數位點數平台」，預計於7月9日上線啟用，為協助縣內店家了解平台運作方式並順利申請成為特約店家，規劃「苗栗幣特約店家招商說明會」，之前舉辦說明會中，已有...…",
-        "image": ""
-      },
-      {
-        "title": "知人知面？分析沈伯洋「面相」 趙曉慧：剛正不阿兼具暖男能量",
-        "link": "https://news.ltn.com.tw/news/politics/breakingnews/5428321",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:26:32.000Z",
-        "description": "民進黨立委沈伯洋參選台北市長呼聲高，沈伯洋近期也頻頻針對台北市政發表看法。對此，作家趙曉慧分析沈伯洋的面相，直言如果代表民進黨參選台北市長，會是蔣萬安強勁的對手，即使沒有勝選，台...…",
-        "image": ""
-      },
-      {
-        "title": "緬籍男疑不滿同鄉索討機車維修費 持水果刀刺頸重傷落網",
-        "link": "https://news.ltn.com.tw/news/society/breakingnews/5428389",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:25:20.000Z",
-        "description": "新北市中和區華新街今天清晨6時許發生持刀砍人案，緬甸籍21歲李姓男子疑因不滿同鄉32歲李姓男子將機車弄壞，向其索賠時雙方爆發口角，李嫌盛怒之下持刀刺向李男，警、消獲報趕抵時，發...…",
-        "image": ""
-      },
-      {
-        "title": "志工媽結伴擺攤忐忑不安 朴子就業中心助返職場再領6萬獎金",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428372",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:23:58.000Z",
-        "description": "嘉義縣「小羽」與「小麗」2名媽媽同在孩子學校擔任志工而結識，因面臨家庭經濟壓力，一同自助擺攤賣小點心，但收入不穩，內心忐忑，朴子就業中心外展人員主動關懷詢問需求，引導運用勞動部...…",
-        "image": ""
-      },
-      {
-        "title": "男大生AI造謠「開箱開到老鼠」 業者轟：提告求償1000萬元",
-        "link": "https://news.ltn.com.tw/news/life/breakingnews/5428284",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:23:40.000Z",
-        "description": "台北市鼠患問題在近期引發民眾關注，在網路上卻有人濫用AI造謠，有服飾品牌近日就發文控訴，有網友宣稱購物後「開福袋開到老鼠」並露出該品牌服飾的標誌，業者批評此為AI造假抹黑，並揚言...…",
-        "image": ""
-      },
-      {
-        "title": "黃金狂飆至「1高點紀錄」！這些貴金屬也漲瘋了",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428386",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:23:19.000Z",
-        "description": "〔財經頻道／綜合報導〕週三（6日）黃金價格上漲至逾一週高點，美國和伊朗可望達成和平協議的消息，緩解了市場對通膨加劇和利率長期居高不下的擔憂。此外，白銀上漲6%，鉑金、鈀金也有超過3%漲幅。\n\n\n...…",
-        "image": ""
-      },
-      {
-        "title": "打臉川普！南韓貨輪爆炸起火 伊朗駐韓大使館否認攻擊",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428359",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:23:01.000Z",
-        "description": "本月4日，一艘南韓企業旗下船隻在荷姆茲海峽（Strait of Hormuz）發生爆炸並起火，美國總統川普指稱，事件與伊朗攻擊有關。對此，伊朗駐南韓大使館6日強烈否認伊朗軍方涉入...…",
-        "image": ""
-      },
-      {
-        "title": "焦點股》台積電：ADR勁揚 創2345元新天價",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428393",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:22:03.000Z",
-        "description": "美國與伊朗有望達成和平協議，激勵周三美股高漲，AI帶動科技與半導體類股強勢噴高，美股標普與那斯達克指數週雙雙創歷史新高，台積電ADR勁揚 6.36%，台積電（2330）今...…",
-        "image": ""
-      },
-      {
-        "title": "任天堂突襲發表！睽違九年《星際火狐》下月發售 Switch 2 遊戲",
-        "link": "https://3c.ltn.com.tw/news/65969",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:20:00.000Z",
-        "description": "作為任天堂代表人物之一的火狐·麥克勞德回來了！任天堂今日凌晨無預警預告，將在 6 月 25 日於 Switch 2 推出最新系列的《星際火狐》作品，給老玩家大驚喜。…",
-        "image": ""
-      },
-      {
-        "title": "MLB》昨天丟故意觸身球遭驅逐出場！老虎左投與教頭都被禁賽",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428333",
-        "source": "自由時報",
-        "pubDate": "2026-05-07T01:17:50.000Z",
-        "description": "昨天因故意觸身球被勒令退場的底特律老虎明星左投瓦德茲（Framber Valdez），今天懲罰結果出爐，最終瓦德茲禁賽5場並被罰款，教頭辛奇（AJ Hinch）也被判禁賽1...…",
-        "image": ""
-      },
-      {
-        "title": "盼支持1.25兆軍購　賴清德：打3折7折對國軍都是沉重打擊",
-        "link": "https://www.ettoday.net/news/20260507/3161683.htm",
-        "source": "ETtoday",
-        "pubDate": "2026-05-06T23:11:00.000Z",
-        "description": "國防特別預算條例朝野黨團遲遲未有共識，綠營堅持1.25兆版本，藍營內部也分成8000億版本及3800億+N版本。總統賴清德6日在社群平台轉分享副總統蕭美琴談論軍購的專訪短片，並表示「無論是打3折或打7折，對於每天在第一線、全年無休的國軍官士兵來說，都是沉重的打擊。」 《詳全文...》",
-        "image": ""
-      },
-      {
-        "title": "與黃國昌傳不正當男女關係　林子宇批不入流：已蒐證",
-        "link": "https://www.ettoday.net/news/20260507/3161663.htm",
-        "source": "ETtoday",
-        "pubDate": "2026-05-06T21:51:00.000Z",
-        "description": "民眾黨新北市板橋區市議員參選人林子宇近日遭影射與創黨主席柯文哲、現任主席黃國昌存在不正當男女關係，她表示，此事已經影響到身邊的人，也對受到波及的2位主席及其家人感到很抱歉，她已經委請律師蒐證，後續會採取法律行動。 《詳全文...》",
-        "image": ""
       }
     ],
     "international": [
+      {
+        "title": "美摩聯合搜救行動落幕 尋回2名美軍士兵遺體",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436353",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:43:34.000Z",
+        "description": "美國2名士兵在摩洛哥參加「非洲之獅2026」（African Lion 2026）軍事演習期間於大西洋岸邊一處懸崖附近失蹤。美軍10日證實，9日在距離失蹤地點不到1.6公里的水...…",
+        "image": ""
+      },
+      {
+        "title": "川習會談今登場 伊朗、貿易與台海兩岸議題成關鍵焦點",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436387",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:39:51.000Z",
+        "description": "美國總統川普與中國國家主席習近平今天將在北京會面，預計針對分歧重大的議題展開討論，包括伊朗、貿易與台海兩岸議題等。\r\n\r\n綜合法新社和路透社報導，習近平今天上午10時將在「人民大會堂」與川普...…",
+        "image": ""
+      },
+      {
+        "title": "中國高規格接待川普「勝過普廷」 港媒：以面子換取裡子",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436300",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:33:07.000Z",
+        "description": "美國總統川普昨晚搭乘「空軍一號」專機抵達中國北京首都機場，中國採高規格由國家副主席韓正接機，港媒報導對此分析指出，這樣的接待規格不僅超過川普首次訪中，也超過對待俄羅斯總統普廷的規...…",
+        "image": ""
+      },
+      {
+        "title": "馬克宏挨巴掌內幕？他爆料「伊朗女星簡訊」讓第一夫人氣炸",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436330",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:31:36.000Z",
+        "description": "法國總統馬克宏（Emmanuel Macron）去年5月訪問越南時，被鏡頭捕捉到遭妻子碧姬（Brigitte Macron）推打臉部。如今一本新書指稱，這個舉動的導火線是碧姬發現...…",
+        "image": ""
+      },
+      {
+        "title": "納坦雅胡稱伊朗戰爭期間他曾「秘訪阿聯」 阿聯急忙否認",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436316",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:29:04.000Z",
+        "description": "以色列總理納坦雅胡辦公室13日表示，納坦雅胡在與伊朗衝突期間秘密訪問阿拉伯聯合大公國，進一步加強以色列與阿聯的關係。不過此項消息一出，阿聯外交部針對「相關報導」予以否認，強調阿聯...…",
+        "image": ""
+      },
+      {
+        "title": "籲莫忘初衷！美12跨黨派參議員致函魯比歐 促延續挺台立場",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436328",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T01:08:48.000Z",
+        "description": "美國總統川普已經抵達中國，預計於14日上午與中國國家主席習近平會面。與此同時，美國跨黨派聯邦參議員13日聯名致函國務卿魯比歐（Marco Rubio），要求表達對《台灣關係法》的...…",
+        "image": ""
+      },
+      {
+        "title": "台灣議題成川習會焦點 前美駐中大使伯恩斯籲川普堅守對台政策",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436293",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T00:45:25.000Z",
+        "description": "美國總統川普昨晚搭機抵達中國，預計今日將與中國國家主席習近平展開「川習會」。前美駐中大使伯恩斯（Nicholas Burns）發文呼籲川普堅守美國過去50年的對台政策，繼續對台軍...…",
+        "image": ""
+      },
+      {
+        "title": "低調助拳川普！路透：波灣「這3國」曾越境轟炸伊朗",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436295",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T00:42:44.000Z",
+        "description": "多名知情人士透露，伊朗戰爭期間，沙烏地阿拉伯戰機曾轟炸受伊朗支持的什葉派民兵組織目標，其位於伊拉克境內；科威特也曾對伊拉克目標發動報復性空襲。截至目前，已知至少3個波斯灣國家曾響...…",
+        "image": ""
+      },
+      {
+        "title": "網路犯罪從線上延伸到線下，涉及人身威脅的案例暴增",
+        "link": "https://www.bbc.com/zhongwen/articles/clypgkrze6jo/trad?at_medium=RSS&at_campaign=rss",
+        "source": "BBC中文",
+        "pubDate": "2026-05-14T00:30:01.000Z",
+        "description": "過去，黑客多以潛入電腦系統為主要手段，如今對受害者進行恐嚇威脅的情況則越發常見。",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg"
+      },
+      {
+        "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+        "link": "https://www.bbc.com/zhongwen/articles/c1j2pl97p1zo/trad?at_medium=RSS&at_campaign=rss",
+        "source": "BBC中文",
+        "pubDate": "2026-05-14T00:28:35.000Z",
+        "description": "今年是文革發動60週年、結束50週年，BBC中文梳理過去歷史，整理出十個關鍵點，從人物組織的崛起與沒落、形勢演變，回顧這場文化浩劫。",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d278/live/1ec66db0-49f2-11f1-a9e7-0f8f590f205b.jpg"
+      },
+      {
+        "title": "聖人「頭骨」被偷了！ 捷克教堂800年天主教聖物失竊",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436305",
+        "source": "自由國際",
+        "pubDate": "2026-05-14T00:22:48.000Z",
+        "description": "捷克北部一座教堂的天主教聖物失竊！警方週三（13日）表示，一名竊賊從教堂展示盒中竊走一顆已有800年歷史的「聖人頭骨」，帶著這件聖物逃離現場。\r\n\r\n綜合外媒報導，這顆頭骨據信屬...…",
+        "image": ""
+      },
+      {
+        "title": "范斯曝美伊談判進展 魯比歐：美國希望中國施壓伊朗",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436279",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T23:36:09.000Z",
+        "description": "美國副總統范斯（JD Vance）13日指出，他相信終結與伊朗敵對行動的談判正取得進展；美國國務卿魯比歐（Marco Rubio）同天透露，美國希望說服中國在勸阻伊朗方面扮演更積...…",
+        "image": ""
+      },
+      {
+        "title": "美國防部長隨行訪中 「川習會」料觸及軍事溝通與核武議題",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436243",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T22:51:01.000Z",
+        "description": "首次上稿 05-14 00:42更新時間 05-14 06:51\r\n美國戰爭部（國防部）部長赫格塞斯（Pete Hegseth），13日隨同總統川普出訪中國，成為數十年來首位...…",
+        "image": ""
+      },
+      {
+        "title": "正值川普訪中  中國油輪成功穿越荷姆茲海峽",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436280",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T22:50:06.000Z",
+        "description": "美國總統川普13日晚間抵達中國北京，預計將在14日上午與中國國家主席習近平會面。正當「川習會」進行之際，一艘載有200萬桶原油的中國油輪「遠花湖號」在受困荷姆茲海峽（Strait...…",
+        "image": ""
+      },
+      {
+        "title": "漫威男星也燒到？台灣超大紫米飯糰爆紅 美國人爭相朝聖",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5435799",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T22:41:16.000Z",
+        "description": "首次上稿 05-13 23:40更新時間 05-14 06:41\r\n飯糰是台灣人最熟悉的台式早餐主角之一，最近在美國加州更有美食部落客開箱台式餐廳販售的大飯糰，帶動風潮，也在台灣...…",
+        "image": ""
+      },
+      {
+        "title": "CNN爆CIA跨境「定點暗殺」毒梟 墨西哥總統痛斥「煽情炒作」",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436248",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T22:13:19.000Z",
+        "description": "針對美國媒體指稱，中央情報局（CIA）情報人員今年3月在墨西哥市郊區針對販毒集團執行一場「定點暗殺」，墨西哥總統薛恩鮑姆（Claudia Sheinbaum）13日強烈駁斥，...…",
+        "image": ""
+      },
+      {
+        "title": "魯比歐「馬杜羅裝」訪中 中國網議",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754748",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "美國國務卿魯比歐隨同美國總統川普訪問中國，白宮通訊主任張振熙在社群平台X發布照片，顯示魯比歐在總統專機「空軍1號」上穿著一套Nike Tech灰色運動服，類似委內瑞拉前總統馬杜羅今年1月被美軍逮捕時的穿著，隨即引發議論。許多中國網友認為，魯比歐的穿著是對中國的「挑釁」、「敵意滿滿」，還有人主張「一定…",
+        "image": ""
+      },
+      {
+        "title": "梅蘭妮亞未隨行 川普率對中鷹派快閃",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754746",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔編譯張沛元／綜合報導〕香港「南華早報」十三日獨家披露，美國總統川普十二日啟程，展開他第二次總統任期的首次中國訪問行程，但數年前曾隨同訪中並造成旋風的第一夫人梅蘭妮亞，此次並未隨行。梅蘭妮亞辦公室已證實這項報導，但並未說明第一夫人為何缺席。專家推測，可能與川普此行過於短暫緊湊有關。\r\n\r\n報導指出，…",
+        "image": ""
+      },
+      {
+        "title": "隔9年訪中 川習各有盤算",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754744",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔國際新聞中心、記者黃靖媗／綜合報導〕美國總統川普在北京時間十三日晚間近八時，搭乘「空軍一號」專機抵達北京首都機場，展開不到三天的短暫國是訪問。川普十四日將與中國國家主席習近平舉行會談，就伊朗戰爭、經貿及美國對台灣軍售等議題交鋒。國際媒體與專家學者普遍認為，川普與習近平或將重演以往展現親善的場面，但…",
+        "image": ""
+      },
+      {
+        "title": "美學者：川普不會在台灣議題讓步",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754747",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔駐日特派員林翠儀／東京十三日報導〕美國總統川普是否會在台灣議題上讓步，以換取更大的利益，成為這次「川習會」的焦點之一。華府智庫「哈德遜研究所」日本事務主席溫斯坦（Kenneth Weinstein）在接受日本媒體訪問時指出，外界批評川普對台灣防衛並不認真，但他認為此說毫無根據，也完全不擔心。\r\n\r…",
+        "image": ""
+      },
+      {
+        "title": "中英對照讀新聞》Peru ministers resign over delayed F-16 jet deal秘魯部長因F-16戰機採購案延宕而辭職",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754698",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "◎國際新聞中心\r\nPeru’s defense and foreign affairs ministers resigned over interim President Jose Maria Balcazar’s decision to defer a major fighter-jet purc…",
+        "image": ""
+      },
+      {
+        "title": "結束伊朗戰爭 川普：無需中國",
+        "link": "https://news.ltn.com.tw/news/world/paper/1754745",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔編譯管淑平／綜合報導〕美國總統川普美東時間十二日出發前往中國訪問，此行在美國與伊朗和談依然懸而未決下進行，不過，川普表示，不需要北京幫忙來結束戰爭。\r\n\r\n\r\n淡化中國角色 美國一定贏\r\n\r\n\r\n川普的談話淡化中國在結束伊朗戰爭可能扮演的角色，「我不認為我們在伊朗問題上需要任何幫忙，不論怎樣，我們…",
+        "image": ""
+      },
+      {
+        "title": "川普提名人選過關　美參院確認華許接掌聯準會",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436273",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T21:21:03.000Z",
+        "description": "美國聯邦參議院今天確認通膨「鷹派」華許將接替鮑爾，成為美國央行聯邦準備理事會（Fed）新任主席。華許上任後將面臨通膨等多重挑戰，使其領導能力與政策取向備受市場關注。\n\n法新社報導，參院以54...…",
+        "image": ""
+      },
+      {
+        "title": "八點檔真實上演！出「悲傷童書」掩飾殺夫 猶他州毒婦面臨終身監禁",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436257",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T20:43:34.000Z",
+        "description": "八點檔演的原來都是真的！美國猶他州一名母親，在丈夫死後出版一本描述悲傷的童書，後來卻被判謀殺親夫罪名成立，恐面臨最嚴重的加重謀殺罪，可判處25年至終身監禁，或終身監禁不得假釋...…",
+        "image": ""
+      },
+      {
+        "title": "美參院否決戰爭權力決議案　挺川普對伊朗動武",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436265",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T19:30:05.000Z",
+        "description": "美國聯邦參議院今天以微弱差距否決一項限制總統川普對伊朗戰爭權力的決議案，這是美伊戰爭60天國會授權期限屆滿後，國會首次就該衝突進行表決。\n\n法新社報導，這項由俄勒岡州聯邦參議員默克利（Jef...…",
+        "image": ""
+      },
+      {
+        "title": "菲律賓參院傳槍響　杜特蒂掃毒大將籲支持者阻逮捕",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436254",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T17:45:05.000Z",
+        "description": "菲律賓參議院今晚槍聲大作，場面一度混亂。在此之前，遭國際刑事法院（ICC）發布逮捕令的現任參議員德拉羅沙號召支持者動員阻止逮捕行動，當局則在現場部署軍警戒備。\n\n路透社報導，菲律賓總統小馬可...…",
+        "image": ""
+      },
+      {
+        "title": "歐盟不明令禁止性傾向扭轉治療 但推動成員國實施",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436228",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T15:47:11.000Z",
+        "description": "歐洲聯盟（EU）今天表示，其將不會下令禁止對同性戀、雙性戀、跨性別和酷兒（LGBTQ）族群的「性傾向扭轉治療」，但將推動成員國採取行動來打擊這類行為。\r\n\r\n法新社報導，歐盟執行委員會（Eu...…",
+        "image": ""
+      },
+      {
+        "title": "菲律賓參院傳槍響！議員被ICC通緝躲議會   小馬可仕否認政府部隊開槍",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436222",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T15:31:25.000Z",
+        "description": "菲律賓參議員德拉羅沙（Ronald Dela Rosa）因涉嫌犯下違反人道罪，被國際刑事法院（ICC）發布通緝令，13日菲國武裝士兵進入參院執行逮捕令後，參院內傳出多起槍響。不...…",
+        "image": ""
+      },
+      {
+        "title": "Netflix紀錄片原型！南卡州知名律師謀殺妻兒案裁定發回重審",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436224",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T15:27:19.000Z",
+        "description": "根據英國廣播公司（BBC）報導，美國南卡羅來納州最高法院於當地時間週三做出重大裁定，正式撤銷了名律師梅鐸克（Alex Murdaugh）於2023年被控謀殺妻兒的定罪判決，並下令...…",
+        "image": ""
+      },
+      {
+        "title": "133年榮譽守則不敵AI  美國普林斯頓大學恢復監考制",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436218",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T15:11:38.000Z",
+        "description": "美國長春藤盟校之一的普林斯頓大學（Princeton University）向來以其有上百年歷史的榮譽守則為榮，即考試時無人在旁監考，只要學生承諾不作弊；但該校教職員11日投票...…",
+        "image": ""
+      },
+      {
+        "title": "爆漢他病毒疫情郵輪22名在英國隔離乘客 已可返家隔離",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436192",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T14:28:51.000Z",
+        "description": "英國衛生安全局今天說，22名從爆發漢他病毒疫情的洪迪亞斯號郵輪撤離並在英格蘭西北部進行隔離的乘客，明天可返家隔離。含20名英國人、1名具英國居民身分德國人及1名日本人。\r\n\r\n法新社報導，罕...…",
+        "image": ""
+      },
+      {
+        "title": "高市6月出席G7峰會前 擬先訪英國和義大利",
+        "link": "https://news.ltn.com.tw/news/world/breakingnews/5436201",
+        "source": "自由國際",
+        "pubDate": "2026-05-13T14:23:53.000Z",
+        "description": "多位日本政府消息人士今天透露，日本首相高市早苗正協調於出席6月15日至17日在法國召開的七大工業國集團（G7）高峰會前訪問英國和義大利。\r\n\r\n共同社報導，預計高市將分別與英國首相施凱爾、義...…",
+        "image": ""
+      },
       {
         "title": "英相施凱爾遭黨內逼宮 傳衛生大臣準備辭職戰黨魁",
         "link": "https://news.ltn.com.tw/news/world/breakingnews/5436148",
@@ -8103,246 +8431,6 @@
         "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b568/live/479e7760-498d-11f1-9cba-7526402c46eb.png"
       },
       {
-        "title": "疑似艾普斯坦遺書公開 揭示生前最後心聲",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428361",
-        "source": "自由國際",
-        "pubDate": "2026-05-07T01:43:16.000Z",
-        "description": "美國1名法官6日公布1份據稱是淫魔富豪艾普斯坦（Jeffrey Epstein）在紐約監獄去世前幾週寫下的遺書。艾普斯坦的獄友稱，在艾普斯坦於2019年8月去世前幾週，他曾在其...…",
-        "image": ""
-      },
-      {
-        "title": "打臉川普！南韓貨輪爆炸起火 伊朗駐韓大使館否認攻擊",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428359",
-        "source": "自由國際",
-        "pubDate": "2026-05-07T01:23:01.000Z",
-        "description": "本月4日，一艘南韓企業旗下船隻在荷姆茲海峽（Strait of Hormuz）發生爆炸並起火，美國總統川普指稱，事件與伊朗攻擊有關。對此，伊朗駐南韓大使館6日強烈否認伊朗軍方涉入...…",
-        "image": ""
-      },
-      {
-        "title": "卡達贈送美國波音747-8i專機 7月4日加入空軍一號機隊",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428297",
-        "source": "自由國際",
-        "pubDate": "2026-05-07T00:53:08.000Z",
-        "description": "卡達先前曾贈送美國1架波音747-8i商務專機，由於新一代「空軍一號」專機交付延宕，川普政府有意將這架747-8i商務專機暫代空軍一號任務。《路透》引述美國官員與一項熟悉此計劃的...…",
-        "image": ""
-      },
-      {
-        "title": "交出濃縮鈾！美媒：川普估1週內解決伊朗問題",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428281",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T23:29:35.000Z",
-        "description": "美國福斯新聞（Fox News）主播拜爾（Bret Baier）6日表示，他不久前曾與總統川普通話，川普預計可能在1週內達成協議，結束與伊朗的戰爭。美國媒體Axios報導，美國與...…",
-        "image": ""
-      },
-      {
-        "title": "精準打擊！  美軍「超級大黃蜂」戰機發射機砲 癱瘓伊朗油輪",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428267",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T22:52:19.000Z",
-        "description": "美國目前仍對伊朗實施海上封鎖，負責掌管中東與中亞美軍部隊的美國中央司令部（CENTCOM）6日發文指出，一架從「林肯號」航空母艦起飛的F/A-18E/F「超級大黃蜂」戰機，在6日...…",
-        "image": ""
-      },
-      {
-        "title": "稱與伊朗談得不錯 川普：訪中前有望達成協議",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428264",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T22:20:16.000Z",
-        "description": "美國與伊朗僵局未解，美國總統川普6日表示，在過去24小時內，美國與伊朗進行了非常良好的會談，川普聲稱：「我們很有可能達成協議。」\r\n\r\n綜合外媒報導，川普6日在白宮橢圓形辦公室向...…",
-        "image": ""
-      },
-      {
-        "title": "割稻尾？法國航艦打擊群赴紅海 準備聯手英國護航荷姆茲",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428239",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T22:17:38.000Z",
-        "description": "首次上稿 05-07 01:03更新時間 05-07 06:17\r\n\r\n法國軍方6日表示，「戴高樂號」（Charles de Gaulle）航空母艦打擊群正向蘇伊士運河（Su...…",
-        "image": ""
-      },
-      {
-        "title": "中英對照讀新聞》Robot ’Ace’ defeats human players in table tennis機器人「Ace」在桌球賽中擊敗人類選手",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753879",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "◎國際新聞中心\r\n\r\nA paddle-wielding robot is so adept at playing table tennis that it is posing a tough challenge to elite human players and sometimes defeat…",
-        "image": ""
-      },
-      {
-        "title": "川習會將談台灣 魯比歐警告中國：勿破壞區域穩定",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753786",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔國際新聞中心／綜合報導〕美國國務卿魯比歐（Marco Rubio）五日警告，在總統川普下週訪問中國之前，不應對台灣採取任何「破壞穩定」的行動。魯比歐強調，維持印太地區的穩定符合美中雙方的共同利益，並確信川普與中國國家主席習近平舉行會談時，將討論台灣議題。\r\n\r\n維持印太穩定 符合美中利益\r\n\r\n川…",
-        "image": ""
-      },
-      {
-        "title": "大西洋郵輪漢他疫情3死 疑似感染者後送荷蘭",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753858",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯管淑平／綜合報導〕懸掛荷蘭旗的郵輪「洪迪亞斯號」（MV Hondius）船上爆發漢他病毒疫情導致三人死亡，郵輪六日在西部非洲島國維德角外海，等待前往西班牙加納利群島。\r\n南非證實驗出「可人傳人」安地斯病毒株\r\n南非衛生部確認，兩名從船上發病並送醫的乘客，感染的是可人傳人的「安地斯病毒株」（An…",
-        "image": ""
-      },
-      {
-        "title": "北韓新憲刪統一表述 金正恩「兩國論」法制化",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753855",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔國際新聞中心／綜合報導〕北韓新修訂的憲法內容六日曝光，將憲法正式名稱從「社會主義憲法」改為「朝鮮民主主義人民共和國憲法」，新設「領土條款」，並刪除「祖國統一」相關表述，被解讀為反映其最高領袖金正恩的「兩國論」路線，持續推動「正常國家化」。\r\n新設領土條款 北接中國與俄羅斯、南接南韓領土\r\n南韓「韓…",
-        "image": ""
-      },
-      {
-        "title": "菲美肩並肩演習 日防相見證自衛隊發射反艦飛彈",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753857",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "菲律賓和美國正舉行年度「肩並肩」聯合軍事演習，6日在菲律賓西北部抱威鎮（Paoay）沙丘舉行海上打擊科目，在日本防衛大臣小泉進次郎見證下，日本自衛隊首次發射2枚88式岸置反艦飛彈，擊沉離岸70公里外的靶艦。日本自衛隊員今年首次派遣戰鬥部隊參與「肩並肩」演習。美軍也透過「海軍／陸戰隊遠征艦隊阻絕系統」…",
-        "image": ""
-      },
-      {
-        "title": "制裁破口 中國無人機零件直送伊朗俄羅斯",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753859",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯張沛元／綜合報導〕華爾街日報六日報導，儘管美國禁止對伊朗與俄羅斯出售德國林巴賀（Limbach）公司的L550無人機發動機，但一家名不見經傳的中國小公司得以將中國製造的L550賣給伊朗，凸顯華府在遏阻軍民兩用物品流入對手手中的挫敗。\r\n\r\nL550是伊朗「見證者-136」（Shahed-136…",
-        "image": ""
-      },
-      {
-        "title": "反制中國擴權南太 澳洲斐濟簽署安全協議",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753856",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯張沛元／綜合報導〕為反制中國在南太平洋地區擴張影響力，該區傳統強權澳洲的外交部長黃英賢與太平洋島嶼事務部長長康洛伊（Pat Conroy）五日訪問斐濟，雙方已同意將簽署一項具有里程碑意義的安全、經濟與政治協議，此為澳洲此前因北京從中作梗未能與萬那杜簽署安全協議後，再度欲透過簽署安全合作協議拉攏…",
-        "image": ""
-      },
-      {
-        "title": "美伊談判露曙光 川普暫停護航行動",
-        "link": "https://news.ltn.com.tw/news/world/paper/1753854",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯管淑平／綜合報導〕美國與伊朗之間的軍事對峙五日出現重大轉機，美國總統川普宣布暫停旨在引導船隻通過荷姆茲海峽的「自由計畫」行動，並表示與德黑蘭當局在達成「完整和最終協議」方面已取得重大進展。網路媒體Axios六日引述消息報導，美伊正接近簽署一份僅有一頁的十四點諒解備忘錄，旨在結束戰爭並為後續的核…",
-        "image": ""
-      },
-      {
-        "title": "福斯新聞：川普預計一週內解決伊朗問題",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428255",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T20:30:05.000Z",
-        "description": "美國福斯新聞（Fox News）主播拜爾今天表示，他不久前曾與總統川普通話，川普預計可能在一週內達成協議，結束與伊朗的戰爭。\n\n拜爾（Bret Baier）指出：「他（川普）對這項協議、這份...…",
-        "image": ""
-      },
-      {
-        "title": "法國派遣戴高樂號航艦至紅海　擬為荷莫茲海峽護航",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428254",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T20:12:03.000Z",
-        "description": "法國今天派遣戴高樂號航艦打擊群至紅海，可能執行確保荷莫茲海峽航運安全的任務。法方同時敦促美國與伊朗考慮其提案，因為雙方相互封鎖已對全球經濟造成衝擊。\n\n路透社報導，法國與英國過去幾週持續推動...…",
-        "image": ""
-      },
-      {
-        "title": "川普：伊朗盼達成協議　美國將從德黑蘭取得濃縮鈾",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428251",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T19:12:03.000Z",
-        "description": "美國總統川普今天表示，伊朗想要談判，並希望達成協議；美國在伊朗的進展非常順利，美方將從伊朗取得濃縮鈾。\n\n路透社報導，川普（Donald Trump）在白宮一場活動中表示：「我們正在與非常希...…",
-        "image": ""
-      },
-      {
-        "title": "美伊傳將達成終戰備忘錄　伊朗：正檢視美方新提案",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428249",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T18:45:05.000Z",
-        "description": "伊朗今天表示，正在檢視美國的新提案。消息人士先前指稱，美伊當局接近達成一份一頁篇幅的備忘錄，旨在終止兩國在波斯灣地區的戰爭，但將延後處理伊朗核計畫等棘手議題。\n\n根據路透社，美國新聞媒體Ax...…",
-        "image": ""
-      },
-      {
-        "title": "G7貿易部長批稀土出口管制　劍指中國經濟脅迫",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428246",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T17:45:05.000Z",
-        "description": "七大工業國集團（G7）貿易部長今天批評某些國家以「經濟脅迫」的手段，對出口實施管制，特別是對關鍵礦產的限制。法新社報導，這項批評明顯劍指中國。\n\nG7貿易部長在法國舉行兩天會議之後發表聲明，...…",
-        "image": ""
-      },
-      {
-        "title": "彭博：伊朗評估美國和平提案　預計兩天內作出回應",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428243",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T17:21:03.000Z",
-        "description": "彭博（Bloomberg News）報導，一位匿名知情人士透露，伊朗正評估美國提出的新方案，以結束雙方持續近10週的戰爭，預計未來兩天內透過調解方巴基斯坦作出回應。\n\n根據這位知情人士，美國...…",
-        "image": ""
-      },
-      {
-        "title": "CNN創辦人特納辭世享壽87歲　川普讚他是廣播史偉人",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428229",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T16:30:05.000Z",
-        "description": "根據特納企業（Turner Enterprises）發布的新聞稿，美國有線電視新聞網（CNN）創辦人特納今天辭世，享壽87歲。美國總統川普發文悼念，讚許特納是「廣播史上的偉人之一」。\n\nCN...…",
-        "image": ""
-      },
-      {
-        "title": "公開場所「翻雲覆雨」事件後 泰國將嚴管觀光客行為",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428164",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:58:04.000Z",
-        "description": "泰國近期發生多起外籍人士在公開場所「翻雲覆雨」的事件，政府今天矢言加強對觀光客行為的監督，同時警告這類行為損害泰國的形象。\r\n\r\n法新社報導，泰國總理辦公室發表聲明指出，遊客若有非法用藥等「...…",
-        "image": ""
-      },
-      {
-        "title": "西班牙官員：爆漢他病毒郵輪3天內將停靠加納利群島",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428160",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:57:04.000Z",
-        "description": "儘管加納利群島自治區首長反對，西班牙衛生部長今天表示，爆發致命漢他病毒，造成3人死亡的郵輪將於「3天內」停靠加納利群島的田尼利夫島。\r\n\r\n法新社報導，這艘郵輪將停靠在田尼利夫島（Tener...…",
-        "image": ""
-      },
-      {
-        "title": "噁男在頭等艙性侵熟睡女子  還留下一張「超毛紙條」",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5427996",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:46:20.000Z",
-        "description": "日前一名法國籍男子在瑞士國際航空（Swiss International Air Lines AG）一架飛往美國的班機上，性侵身旁一名熟睡中的女乘客，得逞後還寫下一張「你睡覺時很...…",
-        "image": ""
-      },
-      {
-        "title": "行刺川普動機浮現！FBI調查嫌犯社群活動 曾多次發文批中東政策",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428211",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:37:39.000Z",
-        "description": "美國國土安全部（DHS）一份內部情報評估報告指出，上個月在白宮記者協會晚宴上企圖暗殺總統川普的嫌犯艾倫（Cole Allen），其犯案動機可能與美國、以色列對伊朗的戰爭有關。...…",
-        "image": ""
-      },
-      {
-        "title": "CNN創辦人泰德透納辭世 享壽87歲",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428215",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:31:29.000Z",
-        "description": "根據透納企業（Turner Enterprise）的新聞稿，創立美國有線電視新聞網（CNN）、特立獨行美國電視新聞人兼慈善家泰德透納（Ted Turner），6日在家人的陪伴下...…",
-        "image": ""
-      },
-      {
-        "title": "荷蘭郵輪爆漢他疫情3死  起源疑似登船前賞鳥行程",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428201",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:21:59.000Z",
-        "description": "懸掛荷蘭旗的郵輪「洪迪亞斯號」（MV Hondius）船上爆發漢他病毒疫情已導致3人死亡，2名阿根廷官員6日透露，該國調查船上疫情起源，目前可能性最高的是一對夫妻登船前即已感染...…",
-        "image": ""
-      },
-      {
-        "title": "普廷政權傳鬆動？ 前CIA官員警告：美英應防範俄國崩潰引發混亂",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428001",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:19:03.000Z",
-        "description": "前美國中央情報局（CIA）高級官員警告，隨著俄羅斯在烏克蘭戰場損失慘重以及國內經濟崩潰，普廷的統治權力正急遽削弱。專家預視，一旦普廷政權崩潰，俄羅斯可能陷入權力真空的混亂狀態，英...…",
-        "image": ""
-      },
-      {
-        "title": "世衛秘書長：郵輪漢他病毒疫情與新冠初期緊急狀態不同",
-        "link": "https://news.ltn.com.tw/news/world/breakingnews/5428193",
-        "source": "自由國際",
-        "pubDate": "2026-05-06T15:14:03.000Z",
-        "description": "世界衛生組織秘書長譚德塞今天接受法新社專訪時表示，他不認為近期在郵輪上爆發、引發國際關切的致命漢他病毒疫情，與新冠肺炎疫情初期有相似之處。\r\n\r\n報導指出，世界衛生組織（WHO）2日接獲3名...…",
-        "image": ""
-      },
-      {
         "title": "「AI妄想」：為何他們深信自己「被追殺」甚至襲擊枕邊人？",
         "link": "https://www.bbc.com/zhongwen/articles/c9d35dww693o/trad?at_medium=RSS&at_campaign=rss",
         "source": "BBC中文",
@@ -8357,14 +8445,6 @@
         "pubDate": "2026-05-06T05:08:10.000Z",
         "description": "美國和伊朗決心繼續向對方施壓，這導致脆弱的海灣停火協議岌岌可危。",
         "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a283/live/cfeeea60-4879-11f1-ac78-2112837ce2aa.jpg"
-      },
-      {
-        "title": "中國發布東海海底科研報告   展示「軍民融合」戰略巨大彈性",
-        "link": "https://www.bbc.com/zhongwen/articles/clyp71jkqlvo/trad?at_medium=RSS&at_campaign=rss",
-        "source": "BBC中文",
-        "pubDate": "2026-05-06T01:45:03.000Z",
-        "description": "中國發布東海海底化學元素圖集，基於近20年調查資料，強調用於資源勘探與環境保護，但有專家指其軍民融合戰略強化東海主權主張，蒐集潛艇戰關鍵數據，同時向日本及展現實力。",
-        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d5a/live/98201f80-4858-11f1-9db4-19df36ab272c.jpg"
       },
       {
         "title": "「房間裏的大象」——歐洲各國謀求團結，但特朗普「陰霾不散」",
@@ -8409,11 +8489,243 @@
     ],
     "finance": [
       {
+        "title": "台股被MSCI點名 ! 台灣有望吸金725億 亞洲國家居冠",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436347",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:52:00.000Z",
+        "description": "〔財經頻道／綜合報導〕隨著MSCI最新一輪全球股票指數調整出爐，亞太市場將迎來新一波資金重新配置。高盛指出，澳洲、台灣與南韓可望吸引數十億美元被動資金流入，在亞洲國家中冠；相對地，日本、印尼與印...…",
+        "image": ""
+      },
+      {
+        "title": "都市更新常見迷思 苗縣府：都更不是1坪換1坪",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436367",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:51:50.000Z",
+        "description": "隨著老舊建築逐年增加，都市更新成為改善居住安全與生活環境的重要方式。不過，部分民眾在討論都市更新時，常會以「1坪換1坪」作為判斷標準，認為原本有多少坪數，更新後就應分回相...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》世界健身-KY：Q1獲利創新高 市場驚豔",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436426",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:50:18.000Z",
+        "description": "世界健身-KY（2762）第一季淨利2.19億元，年增約345％，每股稅後盈餘2.01元，創單季歷史新高，今天開盤股價一度強攻至85元、漲幅逾7%，截至9:36分，股價暫...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》世芯：亞馬遜包下今年私募 開高走低",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436422",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:49:17.000Z",
+        "description": "IC設計廠世芯-KY（3661）公告今年私募增資認購股數為55萬7325股，由世芯大客戶亞馬遜（Amazon）全部包下，私募價為每股4239元，亞馬遜斥資約23.62億元...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》 智邦：思科財報帶動 買盤湧進",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436400",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:47:15.000Z",
+        "description": "網通廠智邦（2345）昨日股價殺尾盤，但受到思科cisco在美股盤後公布的財測優於預期、盤後飆漲18%激勵，智邦今日股價開高走高後攻上漲停2675元，截至9:16分，股價...…",
+        "image": ""
+      },
+      {
+        "title": "焦點股》群聯：獲利超驚人 前4月暴賺逾10個股本",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436383",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:46:00.000Z",
+        "description": "NAND控制晶片暨NAND儲存解決方案廠群聯（8299）昨日應主管機關要求公布4月合併自結數，單月歸屬母公司淨利76.4億元，每股稅後盈餘（EPS）為34.56元，累積前...…",
+        "image": ""
+      },
+      {
+        "title": "川習會將登場 彭博：台灣不該成為美中貿易協議的籌碼 點出這關鍵",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436337",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:45:02.000Z",
+        "description": "〔財經頻道／綜合報導〕美國總統川普昨（13）日晚間搭機抵達北京，展開不到三天的短暫國是訪問，彭博專欄作家瓦斯瓦尼（Karishma Vaswani）撰文表示，華府在與中國打交道時，首要原則是了解...…",
+        "image": ""
+      },
+      {
+        "title": "黃金跌勢擋不住！但華爾街最新預測超狂",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436392",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:44:05.000Z",
+        "description": "〔財經頻道／綜合報導〕中東戰火帶來的通膨升溫疑慮，持續打壓降息預期，市場在川習會登場前也保持戒心，週三（13日）黃金價格連續第2個交易日下跌，不過華爾街對金價在2026年剩餘時間的展望，依然十分...…",
+        "image": ""
+      },
+      {
+        "title": "財富自由》每日最看好股",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436391",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:21:44.000Z",
+        "description": "〔財經頻道／綜合報導〕自由時報電子報新推出《財富自由》頻道，提供最全面的證券財經新聞，精選【每日最看好股】，讓您避雷投資理財更輕鬆！\n\n\n\n…",
+        "image": ""
+      },
+      {
+        "title": "川普赴北京會習近平前夕 Fed再喊升息 國際油價應聲下跌",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436380",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:15:35.000Z",
+        "description": "〔財經頻道／綜合報導〕由於投資人擔憂美國可能進一步升息，並等待美國總統川普（Donald Trump）與中國國家主席習近平在北京舉行的高風險峰會最新進展，國際油價週三（13日）收低。\n\n\n布蘭特...…",
+        "image": ""
+      },
+      {
+        "title": "LinkedIn加入裁員潮擬減5％人力 美科技業今年已裁逾10萬人",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436333",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:13:59.000Z",
+        "description": "〔財經頻道／綜合報導〕知情人士透露，微軟旗下的社群平台領英（LinkedIn）計劃削減5％的員工，預計在週三（13日）通知員工這項消息，原因是公司正在重新組織團隊，並將人員調配到業務成長領域，這...…",
+        "image": ""
+      },
+      {
+        "title": "羅伯特清崎警告：通膨正加速侵蝕你的財富",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436355",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:12:26.000Z",
+        "description": "〔財經頻道／綜合報導〕理財暢銷書《富爸爸，窮爸爸》作者羅伯特清崎（Robert Kiyosaki）今（14日）稍早在社交平台X發文警告，全球通貨膨脹正在加速侵蝕人們財富，呼籲投資人應及早採取行動...…",
+        "image": ""
+      },
+      {
+        "title": "台股開盤》台積電、台光電高價股全力衝刺 指數漲逾830點再返4萬2",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436369",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T01:07:29.000Z",
+        "description": "〔財經頻道／綜合報導〕美國總統川普已抵達中國，將與中國國家主席習近平會面，受此激勵，美股在科技股領漲下，週三標普、那指再創新高，而台積電ADR也跟著上漲，台股週四在台積電、聯電、聯發科、台光電、...…",
+        "image": ""
+      },
+      {
+        "title": "152萬就當農地主人！台南土地標售出現每坪不到7000元行情",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436323",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T00:21:02.000Z",
+        "description": "台南市今年度農地重劃區抵費地及零星集中土地標售共釋出30筆，吸引21封標單投標，最終順利標脫14筆，整體標脫金額約1440萬元，總面積達4591.53平方公尺（約1389坪），...…",
+        "image": ""
+      },
+      {
+        "title": "傳送載具接單旺 家登第1季每股獲利2.55元",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436318",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T00:19:54.000Z",
+        "description": "半導體傳送載具廠家登（3680）公告2026年財報，第1季毛利率42.6%，稅後淨利2.45億元，年增16.11％，稅後每股盈餘2.55元，為近3年同期新高。\n\n\n家登日...…",
+        "image": ""
+      },
+      {
+        "title": "旺矽被新列入MSCI成份股 第1季每股獲利12.53元創新高",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436304",
+        "source": "自由財經",
+        "pubDate": "2026-05-14T00:16:07.000Z",
+        "description": "受惠於AI、高效能運算（HPC）與ASIC市場需求持續強勁，測試介面廠旺矽（6223）受惠測試設備與測試介面產品需求增長，第1季營收達39.33億元，季增2.5％、年增3...…",
+        "image": ""
+      },
+      {
+        "title": "54比45！美參院史上最分歧投票 通過華許接任聯準會主席",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436266",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T23:08:17.000Z",
+        "description": "美國參議院週三正式通過由華許（Kevin Warsh）出任第17任聯邦準備理事會（Fed）主席。這位曾任職於摩根士丹利的銀行家及前聯準會理事，將在全球經濟不確定性日益升高之...…",
+        "image": ""
+      },
+      {
         "title": "金價「這時候」將達6300美元？引發新一輪熱議",
         "link": "https://ec.ltn.com.tw/article/breakingnews/5436154",
         "source": "自由財經",
-        "pubDate": "2026-05-13T13:22:03.000Z",
-        "description": "〔財經頻道／綜合報導〕黃金在恐慌時期歷來表現強勁，當經濟疲軟、戰亂升級或市場陷入不確定性時，投資者往往會轉向這種貴金屬尋求避險。摩根大通認為，這種需求可能將黃金推向歷史新高。到2026年底，黃金...…",
+        "pubDate": "2026-05-13T23:06:03.000Z",
+        "description": "初次上稿05-13 23:02 更新時間05-12 07：06\n\n\n\n\n\n〔財經頻道／綜合報導〕黃金在恐慌時期歷來表現強勁，當經濟疲軟、戰亂升級或市場陷入不確定性時，投資者往往會轉向這種貴金屬尋求避險...…",
+        "image": ""
+      },
+      {
+        "title": "LTN經濟通》美國成德國風險？兩巨頭佳偶變怨偶",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5430191",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T23:04:38.000Z",
+        "description": "美國將自德撤出5000名駐軍\n\n\n〔財經頻道／綜合報導〕從北約軍費、俄烏戰爭、伊朗問題，到汽車關稅與駐德美軍撤離，美國總統川普（Donald Trump）與德國之間的摩擦近年持續升溫。外媒分析指...…",
+        "image": ""
+      },
+      {
+        "title": "指標豪宅大跳水1》前任、現任最貴豪宅  均出現跳水戶",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5435798",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T23:00:00.000Z",
+        "description": "陸續有北市知名豪宅出現大跳水！根據內政部實價網最新揭露，曾登上最貴豪宅寶座的「帝寶」、21樓苦賣9年總算成交，但每坪單價卻跌破200萬元，而甫坐上最貴豪宅寶座的「陶朱隱園...…",
+        "image": ""
+      },
+      {
+        "title": "增設「國防義務特別扣除額」？財政部坦言：直接補助較具實益",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436287",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T22:40:35.000Z",
+        "description": "5月是報稅的季節，民進黨立委王定宇近期向行政院提出書面質詢，建議增設「國防義務特別扣除額」或提高參訓當年度所得稅免稅額度，對此，財政部書面回覆表示，增訂「國防義務特別扣除額」或...…",
+        "image": ""
+      },
+      {
+        "title": "美提案進一步限制艾司摩爾對中出口 荷蘭政府反對",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436252",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T22:16:10.000Z",
+        "description": "荷蘭政府針對美國旨在進一步限制半導體設備巨擘艾司摩爾（ASML）向中國銷售設備，並為當地客戶提供維修服務的法案，正式表達反對意見。\r\n\r\n香港「南華早報」13日報導，ASML...…",
+        "image": ""
+      },
+      {
+        "title": "美股收盤》科技股助攻！標普那指再創新高 台積電ADR上漲",
+        "link": "https://ec.ltn.com.tw/article/breakingnews/5436278",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T22:12:33.000Z",
+        "description": "儘管通膨數據高於預期，聯準會可能繼續維持其緊縮貨幣政策，週三在AI科技類股的上漲提振之下，美股標普500和那斯達克指數扭轉早盤跌勢，再度創下新高，標普上漲0.58%，那指上...…",
+        "image": ""
+      },
+      {
+        "title": "MSCI權重台灣3升 台積電大贏家",
+        "link": "https://ec.ltn.com.tw/article/paper/1754729",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者張慧雯／台北報導〕受到美股重挫影響，台股昨日開盤重挫逾600點，不過，MSCI公告調整最新權重，台灣此次在「MSCI全球市場指數」、「MSCI全球新興市場指數」、「MSCI亞洲除日本指數」3項呈現「3升」，而個股大贏家則是台積電（2330），權重調升幅度最多。\r\n旺矽入列標準指數\r\nMSCI於…",
+        "image": ""
+      },
+      {
+        "title": "上市第2天》00403A大跌5.74% 溢價率回歸正常",
+        "link": "https://ec.ltn.com.tw/article/paper/1754730",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者卓怡君／台北報導〕主動式台股ETF「怪物新人」統一台股升級50主動式ETF（00403A）前天掛牌，造成市場散戶瘋搶，爆出420萬張成交量，溢價幅度高達5.57％；昨日伴隨台股大跌，00403A跟著重挫，溢價率大幅跳水，00403A終場下跌5.74%，收在10.18元，淨值10.11元，溢價率…",
+        "image": ""
+      },
+      {
+        "title": "半導體材料市場 台灣連16年居冠",
+        "link": "https://ec.ltn.com.tw/article/paper/1754727",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者洪友芳／新竹報導〕國際半導體產業協會（SEMI）昨發布最新報告，二〇二五年全球半導體材料市場營收年增六．八％、達七三二億美元，創下歷史新高；其中，台灣營收達二一七億美元，連續第十六年穩居全球最大半導體材料消費市場。\r\nSEMI表示，台灣已連續第十六年是全球最大半導體材料消費市場，中國去年以一五…",
+        "image": ""
+      },
+      {
+        "title": "淨值轉負 森崴能源6月23日下市",
+        "link": "https://ec.ltn.com.tw/article/paper/1754731",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者張慧雯／台北報導〕正崴（2392）、永崴控股（3712）及森崴能源（6806）昨日聯袂召開重大訊息記者會，由於森崴能源子公司富崴能源承包台電離岸二期風場，因認列預期合約損失，慘遭銀行收回約35億元資金額度，無法支應寶崴海事持續營運，再度需認列背書保證等相關損失，森崴能源首季虧損達18.49億元…",
+        "image": ""
+      },
+      {
+        "title": "熱門股》財報報佳音 外資大買英業達",
+        "link": "https://ec.ltn.com.tw/article/paper/1754734",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "電子大廠英業達（2356）受惠首季EPS0.68元傳佳音，加上該公司週二法說會釋出樂觀展望，昨日股價爆量大漲，一度觸及漲停53.5元，終場收在52.8元，漲幅8.42%，成交量13萬8548張。\r\n外資昨大買英業達逾6萬0647張，加上投信、自營商，3大法人合計買超6萬1726張。管理層看好第2季伺…",
+        "image": ""
+      },
+      {
+        "title": "熱門股》AI營收增 臻鼎挑戰新天價",
+        "link": "https://ec.ltn.com.tw/article/paper/1754733",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "PCB廠臻鼎-KY（4958）今年展望樂觀，昨日獲得外資大買2.39萬張，股價大漲8.72%，終場收在442.5元，逼近歷史高點447.5元，成交量逾7萬張。\r\n臻鼎預估，自第2季起客戶下一世代AI平台將陸續進入量產，伺服器／光通訊業務營收可望逐季顯著攀升，全年目標翻倍成長；其中IC載板受惠AI算力…",
+        "image": ""
+      },
+      {
+        "title": "陶朱隱園第2戶賣出 每坪失守250萬",
+        "link": "https://ec.ltn.com.tw/article/paper/1754724",
+        "source": "自由財經",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "去年底賣出的17樓單價364萬 高低樓層價差120萬、全台最大\r\n〔記者徐義平／台北報導〕去年底才坐上全台最貴豪宅、單價首破三〇〇萬元的「陶朱隱園」，根據實價網最新揭露，三樓每坪單價不但跌破三〇〇萬元、還摜破二五〇萬元，與之前揭露的十七樓單坪價差超過一二〇萬元；更較二〇一九年透過「關係戶交易」單價撐…",
         "image": ""
       },
       {
@@ -10431,249 +10743,249 @@
         "pubDate": "2026-05-07T10:23:52.000Z",
         "description": "軸承廠兆利（3548）公告4月合併營收為7.51億元，月增18%，年減30%。兆利表示，本月中系摺疊手機轉軸新品放量，帶動營收創下去年6月以來新高，短期內隨該產品及美系N...…",
         "image": ""
-      },
-      {
-        "title": "台股飆破4萬點漲太兇？吳嘉隆：根本還沒漲完、台積電行情還沒到頂",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428390",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:34:12.000Z",
-        "description": "台股近日衝破4萬點大關，引發各界關注，針對是否漲太兇，總體經濟學家吳嘉隆發文直言，「台灣的股市雖然很強勁，站上4萬點的歷史新高，但是根本還沒有漲完」，並指「台積電的行情根本...…",
-        "image": ""
-      },
-      {
-        "title": "焦點股》研華：邊緣AI進展優於預期 飆歷史天價",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428407",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:32:06.000Z",
-        "description": "工業電腦大廠研華（2395）昨日法說會報喜，旗下邊緣AI營收目標「略優於預期」，主要原因在於先進AI應用正從大型資料中心逐步往邊緣場域延伸，激勵今日股價大漲，開盤一度創下...…",
-        "image": ""
-      },
-      {
-        "title": "黃金狂飆至「1高點紀錄」！這些貴金屬也漲瘋了",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428386",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:23:19.000Z",
-        "description": "〔財經頻道／綜合報導〕週三（6日）黃金價格上漲至逾一週高點，美國和伊朗可望達成和平協議的消息，緩解了市場對通膨加劇和利率長期居高不下的擔憂。此外，白銀上漲6%，鉑金、鈀金也有超過3%漲幅。\n\n\n...…",
-        "image": ""
-      },
-      {
-        "title": "焦點股》台積電：ADR勁揚 創2345元新天價",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428393",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:22:03.000Z",
-        "description": "美國與伊朗有望達成和平協議，激勵周三美股高漲，AI帶動科技與半導體類股強勢噴高，美股標普與那斯達克指數週雙雙創歷史新高，台積電ADR勁揚 6.36%，台積電（2330）今...…",
-        "image": ""
-      },
-      {
-        "title": "財富自由》長線潛力股",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428385",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:12:52.000Z",
-        "description": "〔財經頻道／綜合報導〕自由時報電子報新推出《財富自由》頻道，提供最全面的證券財經新聞，精選【長線潛力股】，讓您投資理財更輕鬆！…",
-        "image": ""
-      },
-      {
-        "title": "再干預？日圓一度急升至10週高點後回落",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428327",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:12:13.000Z",
-        "description": "〔財經頻道／綜合報導〕在日本黃金週假期期間，日圓出現劇烈波動，週三（6日）更一度升至10週以來最高，這一情況再次引發了人們關於日本當局正在干預外匯市場的猜測。\n\n\n綜合外媒報導，週三午後，日圓匯...…",
-        "image": ""
-      },
-      {
-        "title": "美伊不打了？市場情緒瞬間大翻轉 國際油價跌慘了",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428378",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:11:57.000Z",
-        "description": "〔財經頻道／綜合報導〕由於市場對中東戰爭可能結束的樂觀情緒升溫，加上有消息指出美國與伊朗正接近達成初步和平協議，國際油價週三（6日）重挫至2週來低點。\n\n\n布蘭特原油期貨收跌8.60美元，跌幅7...…",
-        "image": ""
-      },
-      {
-        "title": "台股真看不到天花板！台積電飆2345元、指數登42131點 雙創新猷",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428374",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T01:10:00.000Z",
-        "description": "〔財經頻道／綜合報導〕美伊談判樂觀，標普及那指兩大指數週三再創歷史新高，受此激勵，亞股週四跟著同樂，日經飆逾2600點突破62000點，而台股則在台積電開盤大漲直接飆2345元天價，指數開盤漲1...…",
-        "image": ""
-      },
-      {
-        "title": "大行情來了！日經暴漲2500點登62000點新高、韓股也首破7500點",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428319",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:44:32.000Z",
-        "description": "〔財經頻道／綜合報導〕日韓股狂飆！日經平均指數週四（7日）開盤勁揚，早盤漲勢擴大，較黃金週之前、5月1日的收盤價大漲超過2500點，站上62000點水準，一舉突破先前的盤中歷史高點60903點，...…",
-        "image": ""
-      },
-      {
-        "title": "汽車輪圈廠巧新第一季每股賺0.6元 年減逾6成",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428326",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:25:16.000Z",
-        "description": "全球汽車輪圈廠巧新（1563）公布第一季合併營收為18.72億元，稅後淨利為1.31億元，每股盈餘0.6元，較去年同期每股盈餘1.53元減少60.78%。\n\n\n巧新同步公...…",
-        "image": ""
-      },
-      {
-        "title": "全球債務接近353兆美元再創新高！投資人正在拋售「這國」公債",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428300",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:24:39.000Z",
-        "description": "〔財經頻道／綜合報導〕國際金融協會（IIF）週三發布的1份報告顯示，截至3月底，全球債務水平已達到創紀錄的近353兆美元，投資者正表現出減少對美國國債投資的多元化跡象。\n\n\n路透報導，國際金融協...…",
-        "image": ""
-      },
-      {
-        "title": "馬稠後半導體供應鏈園區招商 嘉義縣推前2年免租金",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428320",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:23:47.000Z",
-        "description": "半導體供應鏈南移趨勢加速，嘉義縣政府補強產業生態系，啟動「馬稠後半導體產業供應鏈衛星園區」第2次土地招商，縣府與台糖公司聯手，由縣府向台糖公司採「包租代管」方式，釋出44...…",
-        "image": ""
-      },
-      {
-        "title": "力阻中資入股聯發科！專家憶戰況：否則沒機會做進美系大客戶",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428273",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:23:05.000Z",
-        "description": "2015年一群關心台灣半導體產業的專家學者發起「反紫光運動」，希望扭轉政府開放中資入股台灣IC設計業政策，幸好前總統蔡英文用力踩煞車，守住山海關。「反紫光奇遊團」成員、科技...…",
-        "image": ""
-      },
-      {
-        "title": "Kia Sportage首度導入油電車款 銷售占比估達9成",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428324",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:22:03.000Z",
-        "description": "Kia全新改款的Sportage休旅車正式在台搶市，以109.9萬元起（含汰舊換新與貨物稅減徵）切入中型休旅車市場，首度導入油電動力車款，年銷量將挑戰5000輛的目標，預...…",
-        "image": ""
-      },
-      {
-        "title": "光陽董座柯俊斌親為G7跑旅代言 首場試乘會「歡迎來戰」",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428325",
-        "source": "自由財經",
-        "pubDate": "2026-05-07T00:17:50.000Z",
-        "description": "KYMCO 光陽集團旗下最新旗艦跑旅G7開放預購短短兩週，接單量已達近千台，光陽董事長柯俊斌宣布成為G系列代言人，並喊出5月9日舉辦首場消費者試乘會，「歡迎來戰」。\n\n\n...…",
-        "image": ""
-      },
-      {
-        "title": "提升金融資安韌性、發展可程式化AI  彭金隆揭示這五大招",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428200",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T23:51:39.000Z",
-        "description": "金管會主委彭金隆將於今（7日）赴立法院財委會，就「金融科技發展業務之推動情形與展望」提出專題報告。彭金隆表示，近年積極推動金融科技發展，金管會總計有五大推動重點，包括：「...…",
-        "image": ""
-      },
-      {
-        "title": "忘掉台積電！聯電布局特殊製程突圍  被視為台股低估黑馬",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428182",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T23:25:33.000Z",
-        "description": "初次上稿05-06 23:00 更新時間 05-07 07：25\n\n\n\n\n\n全球晶圓代工龍頭台積電因其無可匹敵的先進製程，在人工智慧（AI）時代成為當紅炸子雞，使得該公司訂單滿...…",
-        "image": ""
-      },
-      {
-        "title": "半導體撐起南韓經濟成長 掩蓋更深結構弱點 台灣可引以為鑑",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428121",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T23:23:28.000Z",
-        "description": "初次上稿05-06 23:16 更新時間05-07 07：23\n\n\n\n\n\n〔財經頻道／綜合報導〕全球人工智慧潮帶動半導體業榮景，台灣和南韓股市市值都已超過英國，兩國的半導體業龍頭台積電、三星和SK海力...…",
-        "image": ""
-      },
-      {
-        "title": "Z世代28歲女把「被淘汰產業」當作副業 每月賺進14萬",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428070",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T23:22:13.000Z",
-        "description": "初次上稿05-06 23:22 更新時間 05-07 07：22\n\n\n\n\n\n〔財經頻道／綜合報導〕在數位時代全面主導的當下，一種看似過時被淘汰的「紙本郵件訂閱」模式，正被Z世代重新翻紅，甚至成為創造穩...…",
-        "image": ""
-      },
-      {
-        "title": "LTN經濟通》昔日瑞典國寶 中企借殼後完全走鐘",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5422198",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T23:00:00.000Z",
-        "description": "Volvo找胡錫進當品牌大使 遭評違反核心價值\n\n\n〔財經頻道／綜合報導〕瑞典汽車製造商富豪汽車（Volvo，中國稱沃爾沃）日前找上中國官媒環球時報前總編輯胡錫進擔任最新品牌大使，由於胡錫進長期...…",
-        "image": ""
-      },
-      {
-        "title": "美股收盤》美伊談判樂觀！AMD狂飆18.6％ 台積電ADR漲逾6％",
-        "link": "https://ec.ltn.com.tw/article/breakingnews/5428265",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T22:00:25.000Z",
-        "description": "伊朗傳出正在檢視美國的新提案，加上美國企業獲利引擎持續強勁，週三美股上漲，道瓊工業指數上漲612.34點、1.24%，逼近50000點大關，標普500指數上漲1.46%，那...…",
-        "image": ""
-      },
-      {
-        "title": "中國經濟抗美檯面化 外企更加卻步",
-        "link": "https://ec.ltn.com.tw/article/paper/1753790",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯魏國金／綜合報導〕過去一週，中國先是否決Meta二十億美元收購中資人工智慧（AI）新創公司Manus的交易，之後再下令中企不得遵守美國對中國煉油廠的制裁措施。《華爾街日報》指出，這些空前之舉顯示，中國不再只是威懾，而是開始真刀真槍應對美中經濟衝突；但有分析認為，中國此舉只會把更多外企拒於門外。…",
-        "image": ""
-      },
-      {
-        "title": "法國端稀土戰略 促G7突破中國壟斷",
-        "link": "https://ec.ltn.com.tw/article/paper/1753788",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "美國籲擁有關鍵礦產國家 合作設立價格下限 阻掠奪性定價\r\n〔編譯魏國金／綜合報導〕七國工業集團（G7）昨在巴黎召開貿易部長會議，尋求在確保關鍵礦產供應，以突破中國壟斷的議題上達成共識。法國外貿部長佛利西耶指出，法國希望關鍵礦產供應是其擔任G7輪值主席國期間，所交出最具體的一項成果，「以保障我們的供應…",
-        "image": ""
-      },
-      {
-        "title": "記憶體缺到明年 威剛、宜鼎4月營收續創高",
-        "link": "https://ec.ltn.com.tw/article/paper/1753887",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者洪友芳／新竹報導〕記憶體模組大廠威剛（3260）昨指出，受惠AI應用從雲端運算延伸至企業端、終端裝置，帶動記憶體需求呈現爆發式成長，DRAM與NAND Flash供需缺口持續擴大，預期今年下半年記憶體價格續上漲，明年記憶體持續缺貨也毫無疑問。\r\n威剛認為，即使中國市場新增產能，對全球供不應求的…",
-        "image": ""
-      },
-      {
-        "title": "中國過剩化學品傾銷 歐投訴案爆量",
-        "link": "https://ec.ltn.com.tw/article/paper/1753789",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔編譯盧永山／綜合報導〕英國《金融時報》報導，歐洲化工企業對中國進口化學品的反傾銷投訴案件創紀錄最高，歐盟過去兩年已對中國廉價進口化學品發動數十起調查。\r\n歐盟官員指出，近十年幾乎沒有來自該產業的投訴後，他們的案件如今占了新案例的一半。這些產品通常是鮮為人知但對生產至關重要的原料；例如用於動物飼料和…",
-        "image": ""
-      },
-      {
-        "title": "熱門股》獲利優 華邦電跳空漲停",
-        "link": "https://ec.ltn.com.tw/article/paper/1753890",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "記憶體廠華邦電（2344）公布第1季獲利繳出佳績，超過市場預期，稅後淨利逾百億元，並預估DRAM供給缺口將延續到2028年以後，第2季價格漲幅會比上季多，SLC NAND Flash及NOR Flash也看漲；法說會利多激勵昨股價開盤跳空漲停，重返百元之上，達108.5元，上漲9.7元，成交量23.…",
-        "image": ""
-      },
-      {
-        "title": "生育補助加碼 每胎10萬 紅包今明入帳",
-        "link": "https://ec.ltn.com.tw/article/paper/1753785",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者李靚慧／台北報導〕今年起，新版生育補助加碼上路，不論投保身分，每生一胎政府補助加碼至十萬元，先前因預算問題未能補足發放，勞動部勞保局六日宣布，國保及未參加相關社會保險的媽媽，將在五月七日入帳，勞保、農保等於五月八日入帳，合計約二萬餘人受惠。\r\n\r\n勞保局強調，之後請領生育補助的媽媽，均將每胎合…",
-        "image": ""
-      },
-      {
-        "title": "財經青紅燈》偏鄉只剩雙老",
-        "link": "https://ec.ltn.com.tw/article/paper/1753888",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "去年第4季全國房屋稅籍住宅平均屋齡已達33.76年，細看各鄉鎮，又以澎湖縣望安鄉平均屋齡最老、高達73.95年，已進入古稀之年，整個鄉住宅數量僅1294宅，其中10年內住宅僅18宅，5年內更只有2宅，反觀40年以上住宅數量有1217宅，光是50年以上就有1035宅、占全鄉住宅比率近8成。\r\n根據戶政…",
-        "image": ""
-      },
-      {
-        "title": "熱門股》漲勢落後 廣達創波段高",
-        "link": "https://ec.ltn.com.tw/article/paper/1753889",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "電子大廠廣達（2382）受惠於AI伺服器出貨動能持續擴大，市場期待即將公布的首季財報開出佳績，以及4月營收可望寫下同期新高，隨著台股持續創高，廣達股價在買盤挹注下，昨日盤中觸及348元的波段新高價，終場收在346.5元，大漲7.94%，成交量4萬3477張。\r\n外資昨日買超廣達1萬7456張、投信賣…",
-        "image": ""
-      },
-      {
-        "title": "竹篙湊菜刀！ 台電︰核三、核四燃料棒不可互用",
-        "link": "https://ec.ltn.com.tw/article/paper/1753792",
-        "source": "自由財經",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者林菁樺／台北報導〕核四燃料棒二〇一八年起分批外運至美國保存，近來核三重啟引發討論，出現燃料棒外運浪費的「竹篙湊菜刀」誤導性說法。台電董事長曾文生昨強調，核三與核四的原廠不同，燃料棒「無法互相流用」，過去外運則是依立法院決議；台電補充，核四燃料棒放國內、國外保存的價格相差一倍，三年已省下四．五億…",
-        "image": ""
       }
     ],
     "entertainment": [
+      {
+        "title": "涉閃兵求刑2年6月 金鐘影帝薛仕凌首開庭",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436365",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T01:43:19.000Z",
+        "description": "金鐘影帝薛仕凌涉嫌於2011年間斥資30萬元，勾結閃兵集團首腦陳志明，以憋氣提高血壓、讓陳嫌冒名配戴24小時血壓機等方式，取得「中度高血壓」診斷證明而免役，且在藝人王大陸...…",
+        "image": ""
+      },
+      {
+        "title": "楊丞琳25週年大作0入圍！ 中國粉絲玻璃心碎：莫名其妙",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436343",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:45:21.000Z",
+        "description": "〔娛樂頻道／綜合報導〕第37屆金曲獎入圍名單於昨（13）日揭曉，幾家歡樂幾家愁。影視歌三棲的天后楊丞琳，去年底推出出道25週年的紀念大作《有且Only in Echoes》，原本被外界看好有望衝...…",
+        "image": ""
+      },
+      {
+        "title": "巴西帥哥愛上台灣！台北車站1幕太震撼：這裡才是我的歸屬",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436331",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:34:21.000Z",
+        "description": "來自巴西、定居台灣多年的帥哥「Dan」鄭佚達近日在《WTO姐妹會》分享自己「離不開台灣」的原因，他透露初到台灣時曾背著大行李在台北車站迷路，沒想到一名台灣人竟直接叫他把行...…",
+        "image": ""
+      },
+      {
+        "title": "A-Lin妝髮一半「光腳衝下樓」！入圍金曲年度歌曲 反應笑翻網友",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436306",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:32:33.000Z",
+        "description": "〔娛樂頻道／綜合報導〕昨（13）日第37屆金曲獎入圍名單揭曉，天后A-Lin憑藉溫暖動人的〈幸福在歌唱〉成功搶下「年度歌曲獎」入場券。入圍當下，A-Lin 正在進行妝髮工作，一聽到名字出現，她完...…",
+        "image": ""
+      },
+      {
+        "title": "《靈異教師神眉》主題曲他們唱的！日本樂團行腳巡禮 番外篇台灣開唱",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436247",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:20:00.000Z",
+        "description": "日本樂團「-真天地開闢集團-慈愚挫愚」（-SKS-ZIGZAG）以「向愚昧之人伸出救贖之手」為核心概念、於2016年正式展開活動的，他們宣布將於10月4日（日）首度登上...…",
+        "image": ""
+      },
+      {
+        "title": "北原山貓、蔣進興邊唱邊聊理財？揭「財富密碼」 連鴻源詐騙案都敢講",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436229",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:10:00.000Z",
+        "description": "隨著報稅季到來，五一勞動節剛過不久，社會對於勞工權益、理財規劃與法律議題的關注同步升溫。原住民族廣播電台致力成為聽眾的「生活神隊友」，推出《Mitengil勞動物語》、...…",
+        "image": ""
+      },
+      {
+        "title": "25部影史傑作一次看！金馬紀念美國電影大師比利懷德120歲冥誕",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436256",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:10:00.000Z",
+        "description": "美國傳奇名導比利懷德今年迎來120歲冥誕，金馬經典影展也宣布推出「2026金馬經典影展：比利懷德120週年紀念展」，將於7、8月巡迴台北、台中兩地，大銀幕重現這位好萊塢殿...…",
+        "image": ""
+      },
+      {
+        "title": "《菜鳥伙房兵》播2集收視衝第一  朴志訓連兩作爆紅",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436244",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-14T00:00:00.000Z",
+        "description": "「百想最佳新人」朴志訓最近才剛靠電影《王命之徒》在南韓狂吸1600萬觀眾，沒想到主演HBO Max新劇《菜鳥伙房兵》才播到第2集，又直接衝上收視冠軍。\n\n\n朴志訓在《菜鳥...…",
+        "image": ""
+      },
+      {
+        "title": "等了12年拍到奇蹟畫面！熊鷹高空「牽爪」求偶超浪漫",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436258",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:55:00.000Z",
+        "description": "台灣生態紀錄片導演梁皆得繼《老鷹想飛》、《尋找神話之鳥》、《守護黑面琵鷺》後，再耗時12年完成最新作品《飛吧！熊鷹》，以台灣最神祕的猛禽「熊鷹」為主角，不僅拍下大量珍稀生態畫面...…",
+        "image": ""
+      },
+      {
+        "title": "蔡依林9項入圍成大贏家！ 網挖6月行程：肯定是為了金曲獎空下來的",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436303",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:46:57.000Z",
+        "description": "〔娛樂頻道／綜合報導〕第37屆金曲獎入圍名單昨（13）日正式揭曉，流行天后蔡依林憑藉專輯《Pleasure》橫掃最佳華語女歌手、最佳華語專輯、年度歌曲等 9 項提名，成為本屆最風光的入圍贏家。除...…",
+        "image": ""
+      },
+      {
+        "title": "迷妹寫Stray Kids同人文遭判「勞動18個月」 網喊：守護台灣神聖帝國",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436251",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:45:00.000Z",
+        "description": "俄羅斯一名粉絲因為撰寫韓團Stray Kids的同人文，沒想到卻遭罰勞動刑，引來台灣網友震驚，直呼「守護神聖無碼帝國」！\n\n\n\n\n\n追星腦補嗑CP，對粉絲來說都是稀疏平常的事情...…",
+        "image": ""
+      },
+      {
+        "title": "坎城影展》《玩命關頭》25週年登坎城影展！保羅沃克愛女合體馮迪索致敬父親",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436255",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:40:00.000Z",
+        "description": "好萊塢人氣飆速系列《玩命關頭》迎來25週年！第79屆坎城影展也特別於午夜放映單元舉辦首集《玩命關頭》放映，「唐老大」馮迪索率領蜜雪兒羅卓奎茲、喬丹娜布魯斯特以及製片尼爾H...…",
+        "image": ""
+      },
+      {
+        "title": "KOSPI衝歷史新高！Gary曝散戶辛酸全網有感",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436245",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:35:00.000Z",
+        "description": "〔娛樂頻道／綜合報導〕南韓股市最近漲到讓不少人懷疑人生，就連韓星Gary也撐不住了。\n\n\n13日，Gary突然在社群貼出KOSPI指數（韓國綜合股價指數）暴衝畫面，還忍不住崩潰發文：「這段時間我...…",
+        "image": ""
+      },
+      {
+        "title": "河智苑校園聯誼畫面流出...年下鮮肉一句話猛撩",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436234",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:30:00.000Z",
+        "description": "〔娛樂頻道／綜合報導〕河智苑最近以「慶熙大學26級新生」設定活躍於網綜《26學年度的新生智苑》，直接參加4對4大學聯誼，還被年下鮮肉當場猛烈直球告白，害她瞬間慌到表情失控。\n\n\n曝光畫面中，河智...…",
+        "image": ""
+      },
+      {
+        "title": "金曲37》太坎坷！她發行11張專輯終於入圍台語歌后 火拚白冰冰秀蘭瑪雅",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436238",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:29:59.000Z",
+        "description": "台語歌手陳怡婷發行11張專輯，首度以專輯《三十幾》入圍台語歌后，她感動表示：「出道至今已經發行11張專輯，以前都很期待會聽到自己的名字，實在失落太多次了，所以雖然知道今天要公布...…",
+        "image": ""
+      },
+      {
+        "title": "怕沒勇氣！王彥程2年前預言文被挖出 台韓球迷淚崩：你做到了",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436253",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:27:45.000Z",
+        "description": "〔娛樂頻道／綜合報導〕韓職（KBO）韓華鷹的台灣投手王彥程討論度居高不下，最近他兩年前的發文被發出，網友淚崩力挺：「你已經做到了！」\n\n\n\n\n\n王彥程兩年前曾經引用一則發文，內容為「一個人不會韓文，完...…",
+        "image": ""
+      },
+      {
+        "title": "《紅人榜》男星27歲胞弟猝逝 捧遺照告別悲慟發聲",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436237",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:25:46.000Z",
+        "description": "〔娛樂頻道／綜合報導〕曾錄製節目《超級紅人榜》、《綜藝大熱門》的藝人蔡恩霖近日痛失至親，他在IG透露胞弟昏迷送醫，家人選擇放手讓弟弟離開。昨天蔡恩霖透露弟弟的告別已經圓滿完成，發聲哀悼：「有天會再相見...…",
+        "image": ""
+      },
+      {
+        "title": "《大君夫人》還沒下檔 《王室死對頭》3天衝Netflix全球第一",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436233",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:19:54.000Z",
+        "description": "韓星林知衍主演的新劇《我的王室死對頭》開播短短3天，直接衝上Netflix全球非英語影集冠軍，順便刷新SBS金土劇史上最快紀錄，氣勢超猛。\n\n\n《我的王室死對頭》一開始其...…",
+        "image": ""
+      },
+      {
+        "title": "金曲37》蔡依林拚第2座歌后！睽違19年「再闖死亡之組」 中國歌手參戰也來搶",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436231",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:17:31.000Z",
+        "description": "第37屆金曲獎昨（13日）公布入圍名單，其中競爭最激烈的「最佳華語女歌手獎」再度被網友封為死亡之組，包括蔡依林、彭佳慧、洪珮瑜、陳嫻靜、劉艾立，以及中國歌手單依純同場廝殺...…",
+        "image": ""
+      },
+      {
+        "title": "嚴正嵐狂摸肚爆有喜？重演許瑋甯懷孕前一幕 急捶肚自證真相",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436226",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:14:48.000Z",
+        "description": "嚴正嵐、夏靖庭、柯素雲等人昨出席大愛新戲《大愛街2巷》首映會，其中女主角嚴正嵐劇中飾演凡事講求標準化流程「SOP女王」，在台上分享拍戲趣事時，卻數度撫摸肚子，讓已有1個兒...…",
+        "image": ""
+      },
+      {
+        "title": "孫芸芸26歲愛女爆未婚生女「近照容貌變了」...親上火線4字回應",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436223",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:12:49.000Z",
+        "description": "〔娛樂頻道／台北報導〕「微風小公主」廖思惟今年3月爆出在澳洲未婚生女，26歲就升格當媽，引發外界熱議。近日她返台過母親節，並在社群分享自拍近照，沒想到卻被網友質疑嘴唇變得更加豐厚，猜測她是否悄悄...…",
+        "image": ""
+      },
+      {
+        "title": "28歲房仲網紅子杰買房1年猝逝！生前拚第一桶金「開計程車16小時」累到爆血",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436219",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:10:32.000Z",
+        "description": "28歲房仲網紅「子杰」日前驚傳在睡夢中猝逝，他生前曾拍片分享買房歷程，坦言自己為了存下人生第一桶金，曾長時間開計程車，一天工時高達15至16小時，甚至累到鼻子爆血。如今，...…",
+        "image": ""
+      },
+      {
+        "title": "恭喜！江老師爆喜訊「台北買房了」 北漂10年圓夢激喊：努力都值得",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436217",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T23:08:51.000Z",
+        "description": "網紅鋼琴家、YouTuber「江老師」江宇婷近日開心宣布，自己終於在台北買房了！長年往返台中、台北工作近10年的她，坦言過去為了省住宿費，經常扛著大包小包搭高鐵趕末班車，...…",
+        "image": ""
+      },
+      {
+        "title": "財富自由看這一波！未來90天「4生肖」貴人加持、財福雙至",
+        "link": "https://ent.ltn.com.tw/news/breakingnews/5436210",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:55:00.000Z",
+        "description": "〔娛樂頻道／綜合報導〕是小人還是貴人，全在一念之間！\n\n\n塔羅牌專家艾菲爾提醒，當水星與木星形成六分相，加上海王星合月帶來的靈感與感受力，整體能量開始從「悶著做事」轉向「靠交流翻盤」。艾菲爾強調...…",
+        "image": ""
+      },
+      {
+        "title": "坎城影展揭幕 彼得傑克森爽抱(榮譽)金棕櫚 88歲珍芳達感性致詞 朴贊郁笑爆接評審團主席只想5分鐘",
+        "link": "https://ent.ltn.com.tw/news/paper/1754664",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者許世穎／綜合報導〕第79屆坎城影展昨正式揭幕，88歲傳奇影后珍芳達與曾擔任坎城評審的鞏俐一同致詞。長年關注社會議題的珍芳達，不忘提及當今分裂的政治與社會氛圍，直言電影一直是一種抵抗行為，「讓我們一起慶祝大膽、自由與激烈的創作行為！」一席話獲得全場如雷掌聲。\r\n開幕式同時頒發象徵終身成就獎的「榮…",
+        "image": ""
+      },
+      {
+        "title": "〈金曲37入圍〉Jolin爭9金大贏家 新人陳嫺靜搶歌后",
+        "link": "https://ent.ltn.com.tw/news/paper/1754668",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "張震嶽入圍6項 歌王廝殺盧廣仲 周湯豪\r\n\r\n〔記者張釔泠、陽昕翰／台北報導〕第37屆金曲獎入圍名單昨天揭曉，張震嶽、盧廣仲、周湯豪、Gummy B、裘德將拚華語歌王，「Jolin」蔡依林、洪佩瑜、陳嫺靜、彭佳慧、劉艾立、單依純則要爭華語歌后，Jolin更是一口氣叩關9獎，風光成為入圍大贏家\r\nJo…",
+        "image": ""
+      },
+      {
+        "title": "蕭景鴻客串大愛街 闢謠喊收入不缺",
+        "link": "https://ent.ltn.com.tw/news/paper/1754665",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者蕭方綺／台北報導〕「阿弟」蕭景鴻和嚴正嵐等人昨出席大愛新戲《大愛街2巷》首映會，其中阿弟因推出個人新專輯，新戲也上檔，開心直呼「雙喜臨門」，然而自己發專輯算從Energy「單飛」？他點頭認了，並說是出道24年來一直很想做的事，錄製新專輯期間，團員們都曾到錄音室替他打氣。\r\n他有好消息，但去年拿…",
+        "image": ""
+      },
+      {
+        "title": "高雄啤酒音樂節韓星卡司強 RAIN獻首秀",
+        "link": "https://ent.ltn.com.tw/news/paper/1754667",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者廖俐惠／綜合報導〕高雄啤酒音樂節在今年7月一連3天在高雄夢時代前廣場舉行，從韓流天王RAIN到本土天王吳宗憲，富邦韓援雙姝李雅英、李珠珢也會登台演出，令粉絲十分期待。\r\n\r\n韓星陣容火力全開，「台灣LINE」在7月3日集結，TWICE的周子瑜將獻出首度在台個人SOLO演出，台灣囝仔崔立于與姜玗…",
+        "image": ""
+      },
+      {
+        "title": "陳小霞老翅膀獲評審團肯定 屠穎林煌坤得特別貢獻獎",
+        "link": "https://ent.ltn.com.tw/news/paper/1754671",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者陳慧玲／台北報導〕剛過72歲生日的資深創作歌手陳小霞以《老翅膀》專輯獲得金曲獎評審團獎，同名歌曲也入圍年度歌曲大獎。另外本屆特別貢獻獎，由去年11月過世的屠穎以及創作過鄧麗君演唱歌曲《路邊的野花不要採 》等經典歌曲的的林煌坤共享殊榮。\r\n陳小霞寫過無數經典歌曲，像是江蕙唱的《無言花》、陳奕迅的…",
+        "image": ""
+      },
+      {
+        "title": "張惠妹 A-Lin散播愛 好姐妹車拚年度歌曲",
+        "link": "https://ent.ltn.com.tw/news/paper/1754670",
+        "source": "自由娛樂",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者陳慧玲／台北報導〕天后「阿妹」張惠妹已9年沒推出新專輯，去年底台東跨年晚會前突釋出新歌《我的存在就是愛你》，這首溫暖歌曲便入圍本屆金曲獎年度歌曲；而晚會上和她有精彩互動的A-Lin為賣座電影《陽光女子合唱團》演唱的《幸福在歌唱》也入圍同獎項，形成姐妹廝殺場面。\r\n對於入圍年度歌曲，阿妹昨開心表…",
+        "image": ""
+      },
       {
         "title": "84歲影后公開告白木村拓哉 「那雙眼睛」當場心動了",
         "link": "https://ent.ltn.com.tw/news/breakingnews/5436161",
@@ -12793,249 +13105,249 @@
         "pubDate": "2026-05-07T09:07:35.000Z",
         "description": "郎祖筠今領軍陳隨意、郭耀仁、黃浩詠、黃豪平、賴銘偉等人彩排春河劇團在空總的舞台劇《老闆~來碗陽春麵！》，近日醫美診所愛爾麗偷拍風暴延燒，郎祖筠雖從沒做過醫美，但曾遇過偷拍...…",
         "image": ""
-      },
-      {
-        "title": "蕭芳芳蟬聯2屆金馬影后   豁達面對遺傳雙耳失聰多年",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428363",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T01:33:28.000Z",
-        "description": "港星蕭芳芳在1995年和1996年，以電影《女人四十》、《虎度門》蟬聯2屆金馬獎最佳女主角獎，日前驚喜現身電影《撞到正》4K數碼修復版全球首映禮，已屆79歲的她昔日風采依...…",
-        "image": ""
-      },
-      {
-        "title": "愛爾麗針孔偷拍總裁常如山聲押禁見 陳沂補槍「超丟臉」",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428302",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:49:39.000Z",
-        "description": "〔娛樂頻道／綜合報導〕愛爾麗連鎖醫美新北板橋店，遭控在店內裝有煙霧偵測器偽裝的針孔鏡頭，6日啟動第二波行動，並拘提愛爾麗創辦人兼總裁常如山。昨午常如山步入新北地檢署時雖不回應媒體詢問，仍能面帶微...…",
-        "image": ""
-      },
-      {
-        "title": "相隔5年再搭檔！楊紫深夜樹林「太過思念李現」淚崩",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428212",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:40:00.000Z",
-        "description": "楊紫、李現繼《親愛的，熱愛的》後，睽違5年再度合作古裝劇《國色芳華》，楊紫回想當年兩人詮釋的是帶有初戀悸動的情感，如今在《國色芳華》中的他們則轉為成年人式的愛情，也因為難得再結...…",
-        "image": ""
-      },
-      {
-        "title": "破百場放映觀眾全哭翻！《超人再起》未演先轟動口碑爆棚",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428237",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:30:00.000Z",
-        "description": "由曲全立導演執導的紀錄片《超人再起》，在正式上映前即吸引各企業與各界團體熱烈包場，累積逾99場巡演放映、突破16000人次觀影。前天（5日）舉行首映會，正式迎來第100場放映里...…",
-        "image": ""
-      },
-      {
-        "title": "李珠珢直播處女秀！乾爹砸「百萬禮物」洗版",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428316",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:21:15.000Z",
-        "description": "韓籍啦啦隊「AI女神」李珠珢在台人氣高，每回現身都能掀起粉絲追捧。昨晚她迎來首場個人直播，不僅在直播開始前就有忠實粉絲送出整個平台最貴的禮物「百萬花魁」，一場直播產生的禮物...…",
-        "image": ""
-      },
-      {
-        "title": "加拿大歌手愛上台灣夜市 朱諾獎得主欣賞拍謝少年與戴曉君",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428248",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:20:00.000Z",
-        "description": "香港裔加拿大創作歌手Tennyson King第三度來台巡演，對台灣夜市文化很有好感，笑說：「台灣人對美食的熱情讓我印象深刻，加拿大真的需要多一些夜市！」\n\n\n\n\n\n另外曾經兩...…",
-        "image": ""
-      },
-      {
-        "title": "劉寶傑同框醫藥名嘴 破天荒沒談政治聊大腸癌",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428303",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:15:41.000Z",
-        "description": "醫藥名嘴、基隆長庚紀念醫院胃腸肝膽科主治醫師錢政弘常上電視健康節目分享醫療常識，6日在臉書曬出同框62歲東森財經新聞台談話節目《寶傑點兵》主持人劉寶傑，觀眾一定很意外，印...…",
-        "image": ""
-      },
-      {
-        "title": "就是今天！《真人快打II》「每一幕都有彩蛋」寵粉無極限",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428241",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:10:00.000Z",
-        "description": "遊戲改編電影《真人快打》暌違五年推出續作《真人快打 II》評價更上一層樓，從角色招式、經典台詞到風格多變的遊戲場景，各種細節都全面還原，讓熟悉遊戲的觀眾每一幕都有驚喜，細心程度...…",
-        "image": ""
-      },
-      {
-        "title": "陳天仁絕美婚紗現身！日籍尪當場淪陷：謝謝妳嫁給我",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428298",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:04:26.000Z",
-        "description": "陳天仁飛往日本富士山拍攝婚紗照，換上一席絕美白紗當場驚艷日籍老公河村一樹，對方不僅當場看呆，更感性告白「謝謝妳嫁給我！」夫妻互動甜翻大批網友。\n\n\n陳天仁與日籍YouTu...…",
-        "image": ""
-      },
-      {
-        "title": "口碑狂飆成年度驚喜！休傑克曼《綿羊偵探團》三度感動落淚大讚超動人",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428242",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-07T00:00:00.000Z",
-        "description": "2026年最讓人驚喜的電影即將上映！全新話題電影《綿羊偵探團》自國際首映後口碑持續延燒，不僅在知名影評網站爛番茄開出高達95%新鮮度，更被多家外媒包括Collider盛讚...…",
-        "image": ""
-      },
-      {
-        "title": "記者也下場抗爭！鹿港反杜邦內幕曝 當事人現身全說了",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428231",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:50:00.000Z",
-        "description": "1986年「鹿港反杜邦運動」迎來40週年，當年那場讓外商撤資的環保抗爭，如今透過紀錄片《鹿港反杜邦之後：一些社會運動工作者的畫像》數位修復版，在台灣國際紀錄片影展（TIDF）世...…",
-        "image": ""
-      },
-      {
-        "title": "《紅人榜》蔡恩霖胞弟猝逝 一度奇蹟救回仍放手",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428278",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:40:02.000Z",
-        "description": "〔娛樂頻道／綜合報導〕活躍於舞台劇演出的本土演員蔡恩霖，同時兼歌手身分，5日難過在IG透露胞弟昏迷送醫，家人昨選擇放手讓弟弟離開。\n\n\n蔡恩霖5日發文透露胞弟到醫院時已無心跳，臉色蒼白無血色，醫...…",
-        "image": ""
-      },
-      {
-        "title": "摯愛碰上車禍病床動人離別....蘇晏霈哭到眼淚都流乾",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428209",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:30:27.000Z",
-        "description": "羅子惟在民視八點檔《豆腐媽媽》經歷父子追逐與逃家波折後，不幸遭遇重大車禍，在病榻前與劇中摯愛蘇晏霈告別，正式宣告殺青。這場虐心戲碼不僅讓觀眾守在電視機前噴淚，兩位主演在拍攝現場...…",
-        "image": ""
-      },
-      {
-        "title": "（影音）日本傳奇歌姬中森明菜  60歲完全沒變",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428279",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:25:17.000Z",
-        "description": "〔娛樂頻道／綜合報導〕日本歌壇傳奇歌姬中森明菜今年60歲，年初在暌違多年推出新專輯，並錄製全新單曲，近日罕見接受東京電視台經濟節目《WBS（World Business Satellite）》獨...…",
-        "image": ""
-      },
-      {
-        "title": "好想大S！小S深夜重翻「30年前高中合照」 忍淚懷念：當時我們好快樂",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428220",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:20:00.000Z",
-        "description": "「小S」徐熙娣昨（6日）深夜曬出2張跨越多年時光的合照，一張是她與「大S」徐熙媛、「阿雅」柳翰雅高中時期，在華岡藝校的青澀舊照，另一張則是她與阿雅近日重返華岡藝校的最新合影，看...…",
-        "image": ""
-      },
-      {
-        "title": "裘莉暌違五年重返台灣大銀幕 新片巧合共鳴現實理念",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428234",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:13:45.000Z",
-        "description": "奧斯卡得主安潔莉娜裘莉繼2021年《永恆族》後，暌違近五年，終於以最新作品《高訂人生》於重返台灣大銀幕。\n\n\n該片由法國導演艾莉絲溫諾克爾執導，聚焦時尚產業幕後默默耕耘的...…",
-        "image": ""
-      },
-      {
-        "title": "國民暖男撐不住了！離開南韓原因曝...全網心疼",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428223",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:09:53.000Z",
-        "description": "被封為「國民好感代表」、「南韓暖男歌手」的Eric Nam，近來親口揭開笑容背後的黑暗時刻，讓粉絲瞬間心疼炸裂。\n\n\nEric Nam在節目中坦言，當年在南韓活動時幾乎全...…",
-        "image": ""
-      },
-      {
-        "title": "貝克漢兒控「被操控人生」 維多莉亞反擊：我不是強勢媽",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428230",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:07:34.000Z",
-        "description": "〔娛樂頻道／綜合報導〕「豪門家庭崩壞中！」維多莉亞貝克漢與長子布魯克林持續開戰，從私下冷戰升級成公開互槓，連「貝克漢品牌」都被拖下水！\n\n\n事情起源於布魯克林一紙長達6頁的震撼聲明，直接點名父母...…",
-        "image": ""
-      },
-      {
-        "title": "百想人氣獎出爐！潤娥票數58％輾壓孫藝真 李俊昊遭逆轉出局",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428222",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:05:44.000Z",
-        "description": "南韓影視界盛事「第62屆百想藝術大賞」人氣投票結果正式出爐！女星方面，「少女時代」潤娥輾壓式奪冠，男星由限定男團Wanna One成員、電影《王命之徒》主角朴志訓登頂。\n\n\n\n...…",
-        "image": ""
-      },
-      {
-        "title": "淚揭柬埔寨監獄黑暗面  晚安小雞點出關鍵字「錢」",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428280",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T23:03:24.000Z",
-        "description": "〔娛樂頻道／綜合報導〕網紅晚安小雞在柬埔寨經歷2年鐵窗生涯，已於3月19日返台並在近日接受藝人薔薔節目專訪，入獄首晚上就遇上被人持鉛筆插入肛門攪動，拔出後更以此刷他牙的畢生恥辱。\n\n\n對於在柬埔...…",
-        "image": ""
-      },
-      {
-        "title": "晚安小雞柬國入獄首晚   被逼脫光鉛筆插肛拔出刷牙",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428277",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T22:49:47.000Z",
-        "description": "〔娛樂頻道／綜合報導〕在柬埔寨經歷2年鐵窗生涯的網紅晚安小雞，3月19日返台並在近日接受藝人薔薔節目專訪，回憶剛入獄時遭逢人生最黑暗屈辱經歷。\n\n\n晚安小雞想起一入獄被警察完成必要檢查，但在獄中...…",
-        "image": ""
-      },
-      {
-        "title": "媽祖疼你！5月9日天后聖誕   命理師揭「5生肖」貴人財氣雙收",
-        "link": "https://ent.ltn.com.tw/news/breakingnews/5428199",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:55:00.000Z",
-        "description": "〔娛樂頻道／綜合報導〕農曆3月23日（即國曆5月9日）星期六，是天上聖母聖誕，全台各地廟宇會舉辦隆重的祝壽、繞境進香活動，形成「三月瘋媽祖」的盛況。\n\n\n除了要以虔敬的心態敬奉媽祖，命理達人艾菲...…",
-        "image": ""
-      },
-      {
-        "title": "台北電影節揭開閉幕片 祖先鬼搞笑祖孫情催淚",
-        "link": "https://ent.ltn.com.tw/news/paper/1753776",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者鍾志均／台北報導〕2026台北電影節昨揭曉開、閉幕片，從「祖先亂入、鬼魂搞事」的荒謬喜劇，一路到「祖孫對弈、情感和解」的催淚親情，帶給影展觀眾豐富的觀影體驗。\r\n開幕片《怎麼可能我家的祖先是你家的鬼》由金鐘演員蘇達首度自編自導自演，劇情從日本天后來台尋根開始，卻被祖靈與鬼魂攪局，變成一場荒謬到…",
-        "image": ""
-      },
-      {
-        "title": "五月天為何一直開演唱會？ 阿信：來看看就知道",
-        "link": "https://ent.ltn.com.tw/news/paper/1753779",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者陳慧玲／台北報導〕五月天宣布7月3日起重返台北大巨蛋舉辦7場「5525+2回到那一天25週年巡迴演唱會台北站重回大巨蛋版」巡演，粉絲都相當興奮，尤其這次加入許多新的內容，也讓五迷充滿期待。\r\n常有網友好奇「為什麼五月天一直在開演唱會？」阿信在轉發大巨蛋演出資訊時主動提到這一點，他也給了答案：「…",
-        "image": ""
-      },
-      {
-        "title": "周湯豪香港合唱盧瀚霆 提前陪比莉過母親節",
-        "link": "https://ent.ltn.com.tw/news/paper/1753780",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者張釔泠／台北報導〕周湯豪日前現身香港，與人氣男團MIRROR成員「Anson Lo」盧瀚霆驚喜合體演出《Turn Up》，兩人從多年「網友」關係到首次正式同台，話題與默契兼具，嗨翻了香港流行音樂頒獎典禮現場。\r\n這趟香港行，周湯豪的媽媽比莉也同行，雖然工作滿檔，他仍不忘「儀式感」，貼心準備了蛋…",
-        "image": ""
-      },
-      {
-        "title": "林心如9月開拍新作 暫不考慮霍建華入戲",
-        "link": "https://ent.ltn.com.tw/news/paper/1753774",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者蕭方綺／台北報導〕林心如昨出席品牌代言活動，身為金牌製作人的她預計9月開拍新作，這齣家庭戲將由她參與演出，老公霍建華先前曾客串她製作的《華燈初上》，這齣新戲會夫妻合體？林心如瞪大眼回：「蛤？不會吧！因為沒有適合的角色。」或許也可來客串路人甲？她笑說：「有需要我會提出請求。」\r\n除了演員工作，她…",
-        "image": ""
-      },
-      {
-        "title": "羅子惟車禍領便當 豆腐媽媽飆收視 百味人生楚翔自打嘴巴 寶島西米樂何宜珊太操勞",
-        "link": "https://ent.ltn.com.tw/news/paper/1753773",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者蕭方綺／台北報導〕八點檔收視率戰場天天開打，民視《豆腐媽媽》前晚收視3.24居冠、三立《百味人生》退步到1.45，台視《寶島西米樂》為0.91，各台卯足勁搶救收視率。\r\n《豆腐媽媽》祭出羅子惟在經歷父子追逐與逃家波折後，遭遇重大車禍，在病榻前與摯愛蘇晏霈告別，他的戲份也正式宣告殺青。這場虐心戲…",
-        "image": ""
-      },
-      {
-        "title": "鼓鼓珍惜陪伴失智媽 讚老婆貼心",
-        "link": "https://ent.ltn.com.tw/news/paper/1753781",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者陳慧玲／台北報導〕母親節將至，「鼓鼓」呂思緯談到罹患阿茲海默症的母親說：「每次帶她出去就像過母親節，跟我出門滿爽的，讓她吃雞排、珍奶、雞蛋糕。」鼓鼓透露媽媽現在連名字也沒辦法寫，屬重度狀態，「更珍惜和媽媽的每次相處。」 \r\n鼓鼓將推出新專輯《Vitamin G》，他受邀擔任Hit Fm聯播網5…",
-        "image": ""
-      },
-      {
-        "title": "陳德森堅信名氣有助公益 挺伍宗德製作網紅實境秀",
-        "link": "https://ent.ltn.com.tw/news/paper/1753775",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者傅茗渝／台北報導〕曾執導《十月圍城》的香港金像獎導演陳德森，受好友、導演伍宗德之邀，5日抵台擔任公益實境節目《網紅與善的距離》首集評審。兩人擁有35年深厚交情，陳德森感性表示，當初執導電視劇的契機正是由伍宗德引薦，足見兩人亦師亦友的緊密連結。\r\n陳德森與台灣公益緣分由來已久。一年多前，他為罕病…",
-        "image": ""
-      },
-      {
-        "title": "〈母親節前夕完成心願〉白冰冰和祖先溝通成功 將女兒牌位迎回家",
-        "link": "https://ent.ltn.com.tw/news/paper/1753778",
-        "source": "自由娛樂",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者林欣穎／台北報導〕白冰冰女兒白曉燕過世29年，母親節曾是白冰冰最痛的傷口。今年她終於完成多年的心願，順利將女兒的牌位移入白家祖先牌位中，讓女兒正式「回家」不再孤單。\r\n白冰冰提到，在傳統習俗中，未出嫁的女兒不能進入祖先牌位，過去白冰冰屢次擲筊請示祖先都遭拒，今年她特別與白家祖先進行一場「溝通」…",
-        "image": ""
       }
     ],
     "sports": [
+      {
+        "title": "中職》兄弟王牌鄭浩均被打爆後「嘻嘻哈哈」 前旅日好手痛罵：不尊重球迷",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436379",
+        "source": "自由體育",
+        "pubDate": "2026-05-14T01:47:01.000Z",
+        "description": "中信兄弟本土王牌鄭浩均昨晚大爆炸，僅投0.1局狂失9分，而他下場後與隊友互動的模樣，也被拿出來討論，前旅日好手、現任軟銀球團亞洲區球探代表李杜軒痛批：「我替兄弟球迷感到不值...…",
+        "image": ""
+      },
+      {
+        "title": "MLB》巨人「不雅」 慶祝動作遇引反彈 改鞠躬致意獲教頭好評",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436338",
+        "source": "自由體育",
+        "pubDate": "2026-05-14T01:12:24.000Z",
+        "description": "巨人隊在前天擊敗道奇後，3名外野手在外野「扭腰擺臀互撞」的慶祝動作引起網友議論，隔天就改成用鞠躬致意的慶祝方式。巨人總教練維特洛（Tony Vitello）昨天受訪說，「我...…",
+        "image": ""
+      },
+      {
+        "title": "MLB》大谷翔平開轟後連休2天！ 道奇主帥透露背後考量",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436335",
+        "source": "自由體育",
+        "pubDate": "2026-05-14T01:10:10.000Z",
+        "description": "道奇日本巨星大谷翔平預計今、明兩天都不會上場打擊，對此總教練羅伯斯（Dave Roberts）點出考量。\n\n\n近期打擊狀態低迷的大谷，雖然昨天敲出本季第7轟，但今天仍按照原...…",
+        "image": ""
+      },
+      {
+        "title": "MLB》領17億約的今井達也防禦率破9 太空人總管仍有期待：我不擔心",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436308",
+        "source": "自由體育",
+        "pubDate": "2026-05-14T00:30:24.000Z",
+        "description": "太空人日籍投手今井達也昨天傷癒歸隊面對水手，先發4局失掉6分，吞旅美生涯首敗，開季4場先發的防禦率是偏高的9.24。對於今井的狀況，太空人總管布朗（Dana Brown）今...…",
+        "image": ""
+      },
+      {
+        "title": "MiLB》最速158公里！台灣火球男潘文輝三振秀無失分 投7.2局狂飆16K",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436315",
+        "source": "自由體育",
+        "pubDate": "2026-05-14T00:18:58.000Z",
+        "description": "效力費城人體系的台灣火球男潘文輝，今天迎來高階1A首場復健賽，後援1局猛飆2次三振無失分。\n\n\n潘文輝在2024年11月接受手肘韌帶置換手術（俗稱Tommy John或TJ...…",
+        "image": ""
+      },
+      {
+        "title": "MLB》慘不忍睹！天使一直輸球狂吞28敗 戰績大聯盟最爛",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436302",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:48:55.000Z",
+        "description": "天使打線嚴重熄火，今以2：4不敵守護者，陷入3連敗泥淖，戰績持續低迷。\n\n\n天使火力遭封鎖，全場只在5局上半靠內托（Zach Neto）開轟攻下2分，難以和美聯中區龍頭守護...…",
+        "image": ""
+      },
+      {
+        "title": "MLB》洋基69億王牌佛里德投3局就傷退！條紋軍1安慘遭金鶯完封",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436298",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:37:19.000Z",
+        "description": "洋基王牌左投佛里德（Max Fried）今天先發僅投3局失3分就因手肘痠痛退場，條紋軍全場只出現1支安打，最後在客場以0比7遭金鶯完封。佛里德目前初步診斷為左手肘後側痠痛，...…",
+        "image": ""
+      },
+      {
+        "title": "網球》魯德秀出胯下擊球美技 挪威一哥重返羅馬紅土4強",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436263",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:10:13.000Z",
+        "description": "魯德（Casper Ruud）歷經3盤激戰，還秀出胯下擊球美技，終以6：1、1：6、6：2力退俄國勁敵哈查諾夫（Karen Khachanov），挪威一哥職業生涯第4度勇...…",
+        "image": ""
+      },
+      {
+        "title": "網球》義國名將穆塞蒂大腿受傷 無緣法網球星再添一人",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436262",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:09:57.000Z",
+        "description": "義大利名將穆塞蒂（Lorenzo Musetti）日前在羅馬網賽男單16強落敗，如今更因大腿傷勢被迫放棄5月24日開打的法國公開賽，使得紅土大滿貫退賽球星名單再添一人。\n...…",
+        "image": ""
+      },
+      {
+        "title": "網球》謝淑薇羅馬女雙16強止步 攜手王欣瑜再戰法網",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436261",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:09:46.000Z",
+        "description": "羅馬網賽受雨神影響打打停停，謝淑薇與中國搭檔王欣瑜陷入苦戰，5：7、2：6敗給俄國對手安德烈耶娃（Mirra Andreeva）／施奈德（Diana Schnaider）...…",
+        "image": ""
+      },
+      {
+        "title": "中職》隊友猛灌13分！ 李東洺援護率躍升 和兄弟悲情王牌呈對比",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436250",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:07:19.000Z",
+        "description": "富邦悍將昨首局就猛灌平隊史紀錄13分，終場17:2擊敗中信兄弟，投5局失2分的李東洺，拿到本季個人第4勝。\n\n\n李東洺本季6場先發、31局，在隊友2局合計14分援護後，李...…",
+        "image": ""
+      },
+      {
+        "title": "大谷翔平登板先發戰巨人、樂天台鋼本土王牌對決 今日賽事預告與轉播",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436024",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T23:06:18.000Z",
+        "description": "大家早安，自由體育為您獻上今日精彩賽事預告與轉播！\n\n\nMLB有2場轉播，小熊在客場出戰勇士，由今永昇太對決瑞奇（JR Ritchie）。另一場是道奇對戰巨人，大谷翔平「只投不打」，挑戰本季第3...…",
+        "image": ""
+      },
+      {
+        "title": "隊友致命失誤 黃子鵬0責失吞敗",
+        "link": "https://sports.ltn.com.tw/news/paper/1754770",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者羅志朋／綜合報導〕守備決勝負！台鋼雄鷹右外野手紀慶然昨6局上出現致命接球失誤，讓樂天桃猿點燃單局3分攻勢，也讓黃子鵬繳7局0責失優質先發悲情吞敗，最終樂天就以3：1擊敗台鋼，台鋼在嘉義市球場苦吞跨季5連敗。\r\n紀慶然漏接 桃猿逆轉勝\r\n台鋼在2局下靠2次保送和曾子祐適時安打先馳得點，樂天打線前…",
+        "image": ""
+      },
+      {
+        "title": "打爆美美 悍將首局狂得13分",
+        "link": "https://sports.ltn.com.tw/news/paper/1754771",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者林宥辰／台中報導〕中信兄弟前晚在新莊1分飲恨，昨回洲際主場再戰富邦悍將，卻在首局大崩盤，單局被鯨吞13分，「洲際慘案」就此定調，中信兄弟終場2:17慘遭血洗，富邦則歷經6度2連勝之後，本季首度3連勝。\r\n鄭浩均0.1局失9分 \r\n生涯最慘\r\n兄弟先發投手鄭浩均，上月曾和隊友合力締造無安打比賽，…",
+        "image": ""
+      },
+      {
+        "title": "泰國羽球公開賽》周天成大秀逆轉 挺進16強",
+        "link": "https://sports.ltn.com.tw/news/paper/1754790",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者粘藐云／綜合報導〕台灣一哥周天成昨在超級500系列泰國羽球公開賽首輪，以10：21、21：16、21：10逆轉丹麥好手霍爾姆，挺進16強。\r\n手法變化+速度差\r\n54分鐘解決小8歲霍爾姆\r\n世界排名第6的周天成本季最佳成績為4月份亞錦賽銅牌，冠軍尚未開張，他2019年曾在泰國公開賽奪冠，前年則…",
+        "image": ""
+      },
+      {
+        "title": "不離不棄！獅2000勝 林泓弦早預感奪MVP",
+        "link": "https://sports.ltn.com.tw/news/paper/1754767",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "中職唯一不曾缺席的統一獅達成2000勝的隊史里程碑，尤其在今年才進駐亞太新主場締造更具意義。中職歷經5次職棒簽賭，唯有統一獅堅持崗位，不離不棄，曾有多次，只要獅隊有一絲不玩的想法，中職聯盟必將走入歷史，就不會有現在票房場均逾萬的榮景。粗估統一獅37年來至少投入50億台幣，陪著獅迷奮戰3885場，走過…",
+        "image": ""
+      },
+      {
+        "title": "大學空窗1年 童堉誠感恩這位「伯樂」",
+        "link": "https://sports.ltn.com.tw/news/paper/1754772",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "大二肩膀動刀 影響規劃\r\n〔記者林宥辰／台中報導〕穿著前洋砲邦力多遺留的「00」背號，富邦悍將自培出身的26歲新人童堉誠，今年拚得正式球員資格，身為前中職名將童琮輝之子，他正走出自己的棒球路。大學因傷肩膀動刀後，他曾空窗1年，能重回棒球路，他也感謝台北興富發總教練呂明賜。\r\n童堉誠畢業自北科附工、開…",
+        "image": ""
+      },
+      {
+        "title": "雲豹羅德爾 獲TPBL年度教練",
+        "link": "https://sports.ltn.com.tw/news/paper/1754786",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者盧養宣／台北報導〕TPBL昨公布年度教練，由本季率領桃園雲豹在不被看好下登上例行賽龍頭的德籍總教練羅德爾獲得肯定。\r\n雲豹去年無緣季後賽\r\n 本季成頭號種子\r\n57歲的羅德爾曾率領德國男籃闖進東京奧運8強，擁有豐富執教經歷，本季首度來台擔任主帥便為雲豹建立鮮明風格與高度競爭力，讓季初僅獲1%球…",
+        "image": ""
+      },
+      {
+        "title": "日本T聯賽開幕戰來台 門票快售罄",
+        "link": "https://sports.ltn.com.tw/news/paper/1754789",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者粘藐云／台北報導〕日本最高層級職業桌球聯賽Nojima T.LEAGUE 蛋牌2026-27球季開幕戰，7月25日將在新竹縣立體育館點燃戰火，屆時將可看到台灣一哥林昀儒率領東京木下出擊，表演嘉賓則是台灣女星徐若瑄，目前門票熱賣，只剩2％的票券，獲得台灣球迷高度關注。\r\n7/25竹縣開打\r\n球迷…",
+        "image": ""
+      },
+      {
+        "title": "TPBL季後賽》米勒三分球全中 雲豹扳平國王",
+        "link": "https://sports.ltn.com.tw/news/paper/1754785",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者盧養宣／桃園報導〕桃園雲豹昨在TPBL季後賽首輪第2戰，靠手感發燙的米勒單場轟下6記三分球、貢獻29分領軍，以114：92輕取新北國王，團隊單場得分締造聯盟季後賽新猷，扳平系列賽，雙方明晚在和平籃球館力拚聽牌。\r\n打破季後賽100%命中紀錄\r\n以頭號種子之姿挺進季後賽的雲豹，首戰出師不利遭國王…",
+        "image": ""
+      },
+      {
+        "title": "獅隊史首勝搭檔 杜福明、曾智偵讚球團",
+        "link": "https://sports.ltn.com.tw/news/paper/1754769",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "對中職發展功不可沒\r\n\r\n〔記者羅志朋／綜合報導〕1990年3月17日中華職棒歷史性首戰，統一獅在台北市立棒球場以4：3擊敗兄弟象拿下隊史首勝，杜福明登板先發6.1局失1分奪下勝投，與搭檔捕手曾智偵一同載入史冊，歷經1萬3207個日子，統一昨達成隊史2000勝里程碑，兩大創隊元老除了感嘆時光飛逝，也…",
+        "image": ""
+      },
+      {
+        "title": "辜家第四代 參選籃協理事長",
+        "link": "https://sports.ltn.com.tw/news/paper/1754788",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者盧養宣／台北報導〕籃球協會理事長將在5月底進行改選，國際中橡集團董事長辜公怡正式宣布參選，他盼能建立制度，擔任溝通與整合的橋樑，籃協昨也完成號次抽籤。\r\n中橡董座辜公怡\r\n盼建立制度\r\n籃協現任理事長謝典霖任期將屆滿，第14屆理事長、理事、監事選舉將於5月31日在彰化縣議會舉行，理事長共3人角…",
+        "image": ""
+      },
+      {
+        "title": "不可思議旅程 餅總1人參與539勝",
+        "link": "https://sports.ltn.com.tw/news/paper/1754768",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "球員33勝129救援 \r\n執教377勝\r\n〔記者龔乃玠／台南報導〕統一獅成為中職首支2000勝隊伍，對教頭林岳平來說是不可思議的奇幻之旅，從2007年心臟手術可能離開球場，因前總裁林蒼生的全力支持而努力復出，在球員時期進帳33勝129救援，執教又貢獻隊史最多的377勝，獅隊有539場的勝利跟餅總有關…",
+        "image": ""
+      },
+      {
+        "title": "NBA季後賽》斑馬上陣 馬刺擊敗灰狼聽牌",
+        "link": "https://sports.ltn.com.tw/news/paper/1754787",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T21:30:00.000Z",
+        "description": "〔記者粘藐云／綜合報導〕馬刺球星「斑馬」溫班亞瑪揮別前役遭驅逐出場的陰霾，昨繳出27分、17籃板、5助攻、3火鍋全能數據，率隊以126：97痛宰灰狼，贏下「天王山之戰」，系列賽3：2聽牌。\r\n\r\n第5戰獲勝\r\n贏系列賽機率逾8成\r\n\r\n溫班亞瑪前役因對里德揮肘，生涯首度遭驅逐，連帶影響球隊戰力，吞下…",
+        "image": ""
+      },
+      {
+        "title": "中職》談首輪大物王念好的成長 後藤：想法有進步",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436214",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:49:26.000Z",
+        "description": "富邦悍將今天打擊大爆發，17:2大勝中信兄弟，近期頗有表現的2023年首輪大物王念好，今天首局就上演單局雙安、包括一支三壘打，單場3安猛打賞、3打點，奪下MVP。\n\n\n開...…",
+        "image": ""
+      },
+      {
+        "title": "中職》見證單局得分平隊史紀錄 後藤光尊當下反而擔心一件事",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436207",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:38:41.000Z",
+        "description": "中信兄弟今天回主場洲際再戰富邦悍將，首局就遭「魯閣」，被富邦寫下平隊史單局最多得分13分紀錄。終場，富邦就以17:2贏球，近期3連勝。\n\n\n鄭浩均前4打席面對池恩齊、林澤...…",
+        "image": ""
+      },
+      {
+        "title": "中職》「身體夠硬」挨球吻沒大礙 王念好猛打賞後報平安",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436206",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:27:18.000Z",
+        "description": "富邦悍將今天首局狂攻13分，終場17:2大勝中信兄弟。首局的13分平了隊史單局最多紀錄，也讓中信兄弟寫下多項慘紀錄。\n\n\n富邦打者群發揮都優異，池恩齊、林澤彬和王念好都完...…",
+        "image": ""
+      },
+      {
+        "title": "TPBL》獲雲豹續約後又勇奪年度教練  羅德爾專注備戰季後賽",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436195",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:21:07.000Z",
+        "description": "TPBL今公布年度教練，由本季率領桃園雲豹登上例行賽龍頭的羅德爾獲得肯定，他坦言，現在還不是慶祝的時候，畢竟仍專注在季後賽，但獲獎仍別具意義。\n\n\n57歲的羅德爾執教經歷...…",
+        "image": ""
+      },
+      {
+        "title": "中職》統一獅1紀錄逼近隊史超狂壯舉 餅總有話要說",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436194",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:18:30.000Z",
+        "description": "今年是獅隊在亞太主球場的元年，即便開幕首戰就奪勝，卻在4月10至12日被龍隊3戰橫掃，一度吞下主場5連敗，沒想到從4月24日大轉變，連續在3連戰系列賽橫掃台鋼和樂天，本週...…",
+        "image": ""
+      },
+      {
+        "title": "中職》超神奇！統一獅九棒二壘手 勇奪1000勝、2000勝MVP",
+        "link": "https://sports.ltn.com.tw/news/breakingnews/5436187",
+        "source": "自由體育",
+        "pubDate": "2026-05-13T14:12:25.000Z",
+        "description": "昨天就知道要接下聽牌2000勝之戰的先發二壘手，統一獅20歲小將林泓弦有預感會成為MVP，今晚果真在3局下擊出生涯首支三壘安打，點燃單局2分逆轉攻勢，搭配先發投手銳力獅7...…",
+        "image": ""
+      },
       {
         "title": "網球》紅土女王史薇泰克橫掃佩古拉 羅馬第4冠就差2勝",
         "link": "https://sports.ltn.com.tw/news/breakingnews/5436166",
@@ -15187,247 +15499,191 @@
         "pubDate": "2026-05-07T04:18:16.000Z",
         "description": "海盜塞揚王牌史基斯（Paul Skenes）狀態絕好調，今天繳出8局7K無失分本季代表作，率隊1：0擊敗響尾蛇。\n\n\n海盜首局靠著洛爾（Brandon Lowe）敲陽春砲先...…",
         "image": ""
-      },
-      {
-        "title": "MLB》洋基王牌左投即將重返大聯盟！布總親曝回歸時間",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428392",
-        "source": "自由體育",
-        "pubDate": "2026-05-07T01:42:29.000Z",
-        "description": "根據紐約洋基總教練布恩（Aaron Boone）表示，昨天剛投完第3場復健賽的當家王牌左投羅冬（Carlos Rodón），有望美國時間周日對上密爾瓦基釀酒人時重返大聯盟。...…",
-        "image": ""
-      },
-      {
-        "title": "MiLB》入選《棒球美國》百大新秀榜！ 林維恩寫台灣史上第4人壯舉",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428366",
-        "source": "自由體育",
-        "pubDate": "2026-05-07T01:32:31.000Z",
-        "description": "權威美媒《棒球美國》公布最新百大新秀榜，效力運動家2A的台灣強投林維恩首度進入榜單，位居第93名。\n\n\n林維恩成為繼胡金龍之後，18年來首位獲得此殊榮的台灣球員，而歷來能登...…",
-        "image": ""
-      },
-      {
-        "title": "MLB》昨天丟故意觸身球遭驅逐出場！老虎左投與教頭都被禁賽",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428333",
-        "source": "自由體育",
-        "pubDate": "2026-05-07T01:17:50.000Z",
-        "description": "昨天因故意觸身球被勒令退場的底特律老虎明星左投瓦德茲（Framber Valdez），今天懲罰結果出爐，最終瓦德茲禁賽5場並被罰款，教頭辛奇（AJ Hinch）也被判禁賽1...…",
-        "image": ""
-      },
-      {
-        "title": "MiLB》猛！台灣英雄「費仔」超暴力長打3度上壘 初速高達172公里",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428331",
-        "source": "自由體育",
-        "pubDate": "2026-05-07T00:42:04.000Z",
-        "description": "效力守護者3A的台灣混血強打「費仔」費爾柴德（Stuart Fairchild），今天有長打表現，單場3度上壘，連3戰敲安手感火燙。\n\n\n費爾柴德面對小熊3A打第4棒守右外...…",
-        "image": ""
-      },
-      {
-        "title": "MLB》大谷翔平夯長打+雙安、帕赫斯狂轟3響砲 道奇14安打爆太空人",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428291",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T23:53:58.000Z",
-        "description": "道奇打線今天火力大爆發，大谷翔平終結連5場繳白卷敲出雙安，帕赫斯（Andy Pages）狂轟3響砲，終場以12：2打趴太空人，2勝1敗贏下系列賽。\n\n\n大谷首打席遭三振，3...…",
-        "image": ""
-      },
-      {
-        "title": "台東大學曾文駿競技體操「逃亡」10年復出 全大運獨攬3金1銀3銅",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428285",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T23:16:12.000Z",
-        "description": "115全國大專校院運動會於5月2日至6日在中央大學舉行，台東大學代表隊在體操、柔道、游泳等項目表現亮眼，共勇奪4金2銀11銅，展現長年深耕競技運動的厚實成果。其中，競技體...…",
-        "image": ""
-      },
-      {
-        "title": "TPBL》特攻連兩季無緣季後賽教練團將調整 劉志威點出阿巴西可進步之處",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428240",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T23:10:00.000Z",
-        "description": "中信特攻昨晚在季後賽挑戰賽最後一戰不敵新北國王，連續兩季無緣季後賽。球隊總經理劉志威針對這賽季做總結，他提到，休賽季勢必會做調整，教練團部分也有討論空間；至於陣中「黑豹」...…",
-        "image": ""
-      },
-      {
-        "title": "全大運游泳》北市大男團7連霸、女團5連后 後勤團隊與贊助商加持",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428250",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T23:08:53.000Z",
-        "description": "115年全國大專校院運動會落幕，由前奧運國手許志傑領軍的台北市大游泳隊豪奪21面金牌，再度成為公開組男、女團體總冠軍，而且男團7連霸、女團5連后，教練許志傑特地感謝專業後...…",
-        "image": ""
-      },
-      {
-        "title": "尼克G2大戰七六人、馬刺對決灰狼拚扳平戰局 今日賽事預告與轉播",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428000",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T23:06:36.000Z",
-        "description": "大家早安，自由體育為您獻上今日精彩賽事預告與轉播！\n\n\nMLB有2場轉播，老虎在主場迎戰紅襪，由佛雷爾提（Jack Flaherty）對決明星右投葛雷（Sonny Gray），台灣怪力男李灝宇能...…",
-        "image": ""
-      },
-      {
-        "title": "NBA季後賽》活塞力退騎士 第二輪開門紅",
-        "link": "https://sports.ltn.com.tw/news/paper/1753881",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者盧養宣／綜合報導〕頭號種子活塞昨在東部季後賽次輪首戰先發5人得分都超過雙位數，主將坎寧安貢獻全隊最高23分，以111：101力退騎士，搶下開門紅。\r\n先發5人得分上雙 坎寧安大功臣\r\n活塞首輪克服1：3絕境在驚濤駭浪中淘汰魔術，昨首節打出37：21攻勢，末節雖在倒數5分28秒被追到93：93，…",
-        "image": ""
-      },
-      {
-        "title": "美職MLB》投手大谷重回防禦王 隊友不給力",
-        "link": "https://sports.ltn.com.tw/news/paper/1753883",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者林宥辰／綜合報導〕道奇二刀流球星大谷翔平昨再度「只投不打」，面對太空人隊交出7局8K失2分好投，賽後以防禦率0.97重回大聯盟防禦率王。不過，道奇終場1：2輸球，大谷苦吞本季第2敗。\r\n連兩場優質先發\r\n道奇皆吞敗\r\n大谷2局被太空人C.沃克敲出左外野陽春砲，本季首度挨轟，3局下太空人休梅克又…",
-        "image": ""
-      },
-      {
-        "title": "全大運》體操新星廖奕淳 抱走3金1銀",
-        "link": "https://sports.ltn.com.tw/news/paper/1753882",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者盧養宣／新北報導〕115年全國大專校院運動會昨畫下句點，代表政治大學的體操新星廖奕淳走過傷勢陰霾，在競技體操公開女子組勇奪全能、跳馬與高低槓3面金牌，接下來將備戰名古屋亞運國手決選。\r\n兼顧訓練與課業\r\n時間管理大師\r\n廖奕淳去年10月在雲林全運會地板賽前練習造成左膝韌帶拉傷，目前傷勢恢復約7…",
-        "image": ""
-      },
-      {
-        "title": "後藤品管一年 童堉誠拚自培升格",
-        "link": "https://sports.ltn.com.tw/news/paper/1753895",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者龔乃玠／新北報導〕中職名將童琮輝之子童堉誠昨隨隊一軍，近日有望從自主培訓轉為正式選手，成為林威助上任富邦悍將球團副領隊以來首位自培升格，希望他能複製在二軍的強大砲火，為球隊挹注邦力多離隊的外野攻擊火力。\r\n童堉誠曾在中職選秀會落榜2次，去年落選後，有多隊報價自主培訓合約，又以富邦悍將動作最迅速…",
-        "image": ""
-      },
-      {
-        "title": "悍將擅打首局 李東洺吞定心丸",
-        "link": "https://sports.ltn.com.tw/news/paper/1753894",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "先發5.2局 \r\n奪生涯新高第3勝\r\n〔記者龔乃玠／新北報導〕富邦悍將打線昨天首局就猛攻一輪，強力援護先發投手李東洺，為他奪下生涯新高的本季第3勝，終場以7：1賞給樂天桃猿4連敗，本季勝率重返5成。\r\n富邦是全聯盟最會打第一局的隊伍，昨在首局2出局大爆發，從張育成帶頭連續6打席擊出安打，猛灌4分大局…",
-        "image": ""
-      },
-      {
-        "title": "中信與台灣高球系列報導4》中信公開賽邁入第15年 觀賽人次可望破萬人",
-        "link": "https://sports.ltn.com.tw/news/paper/1753884",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者粘藐云／綜合報導〕中國信託今年成立60周年，為台灣最早投入推廣高爾夫運動的企業之一，與女子高球淵源可追溯至1977年贊助第一屆中華女子高爾夫公開賽，被視為高球性別平權之先驅。\r\n累計獎金逾7千萬元\r\n中國信託自2011年起扶植多位潛力優秀女子高球選手，截至今年已贊助140人次；2012年起與台…",
-        "image": ""
-      },
-      {
-        "title": "解羅戈的渴 兄弟止3連敗",
-        "link": "https://sports.ltn.com.tw/news/paper/1753892",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者羅志朋／台北報導〕身為全聯盟最悲情的男人，中信兄弟洋投羅戈昨繳6局無失分優質先發，再靠牛棚順利守成，隊友在9局上一輪猛攻灌進5分，最終兄弟就以6：0完封勝味全龍中止3連敗，「週三狂龍」本季在禮拜三4戰全勝後苦吞首敗。\r\n得分援護率在谷底\r\n昨賽前為止，羅戈得分援護率僅1.25，在全聯盟投超過2…",
-        "image": ""
-      },
-      {
-        "title": "TPBL》轟垮特攻 國王挺進季後賽",
-        "link": "https://sports.ltn.com.tw/news/paper/1753880",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "首輪對決龍頭台啤雲豹\r\n〔記者粘藐云／台北報導〕新北國王昨在季後挑戰賽最後一戰中防守策略調整，加上杰倫和奧帝合力攻下43分，林書緯進帳17分，終場以96：90擊敗中信特攻，以2連勝「下剋上」晉級季後賽，將在首輪對決龍頭台啤雲豹。\r\n例行賽第4的特攻在季後挑戰賽取得1勝優勢，但前役不敵國王，雙方戰成1…",
-        "image": ""
-      },
-      {
-        "title": "看破投捕手腳 張政禹盜無不克",
-        "link": "https://sports.ltn.com.tw/news/paper/1753893",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者羅志朋／台北報導〕本季味全龍發動41次盜壘、成功36次高居全聯盟第一，其中張政禹發動9盜全數成功，與隊友郭天信並列聯盟榜首，兩人包辦全隊過半數盜壘成功數。\r\n發揮盜壘影響力 \r\n靠1支安打得分\r\n龍隊是全聯盟壘間破壞力最強大的球隊，張政禹指出，打擊教練張建銘、彼得森非常強調盜壘，灌輸選手的觀念…",
-        "image": ""
-      },
-      {
-        "title": "林靖凱秀美技 獅4連勝同樂",
-        "link": "https://sports.ltn.com.tw/news/paper/1753896",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者林宥辰／台北報導〕統一獅、台鋼雄鷹昨在嘉義市立棒球場交手。獅隊洋投銳力獅5局失1分，打線則從剛拿下4月MVP的江承諺手中拿到4分，終場4：1贏球，獅隊近期4連勝，銳力獅來台首勝到手。單場2支2的陳重羽，在家鄉嘉義拿下MVP。\r\n銳力獅開季前兩場都交出優質先發、兩戰合計12局0保送，昨僅投5局就…",
-        "image": ""
-      },
-      {
-        "title": "日職》高橋遙人「連三封」 創阪神虎60年紀錄",
-        "link": "https://sports.ltn.com.tw/news/paper/1753885",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T21:30:00.000Z",
-        "description": "〔記者林宥辰／綜合報導〕阪神虎隊高橋遙人、中日龍隊高橋宏斗兩位姓氏相同的王牌強投，昨上演投手大戰，高橋遙人不僅技高一籌投出完封勝，還締造連續3場完封紀錄，也帶領阪神2：0險勝。\r\n高橋遙人開賽連投2次三振，前5局僅被敲出2支安打、無失分，與中日王牌髙橋宏斗形成精采投手戰。6局上，高橋遙人自己敲安，下…",
-        "image": ""
-      },
-      {
-        "title": "中職》好感人！  羅戈賽後衝向外野送球有暖心故事",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428202",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T15:06:57.000Z",
-        "description": "中信兄弟洋投羅戈今天用109球繳6局無失分優質先發，拿下本季第2勝和單場MVP，率隊以6：0擊敗味全龍，羅戈退場後，江忠城、錢可倫、呂彥青、陳琥依序登板後援也都沒失分，5...…",
-        "image": ""
-      },
-      {
-        "title": "TPBL》特攻無緣季後賽還折損大將 馬可疑似「腳跟腱撕裂」",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428198",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T15:00:32.000Z",
-        "description": "中信特攻今天在季後賽挑戰賽最後一戰不敵新北國王，陣中主力洋將馬可僅打了14分鐘，繳出12分、4籃板，下半場都未出賽。賽後特攻總經理劉志威透露，疑似是「腳跟腱撕裂」，但詳細...…",
-        "image": ""
-      },
-      {
-        "title": "中職》許庭綸踉蹌跌坐在地離譜失誤  平野惠一「膝」望他能體會",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428191",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:55:16.000Z",
-        "description": "今天大巨蛋龍象戰，中信兄弟先發左外野手許庭綸，1局下就出現嚴重的接球失誤，當時陳子豪擊出左外野深遠飛球，許庭綸原本已就定位準備接球，沒想到他一個踉蹌跌坐在地，球在他眼前落...…",
-        "image": ""
-      },
-      {
-        "title": "TPBL》季後挑戰賽關鍵兩戰狀態不理想 阿巴西吐露心聲",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428190",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:53:07.000Z",
-        "description": "中信特攻今天在季後賽挑戰賽最後一戰以90：96不敵新北國王，連續兩季無緣季後賽。這季回歸的「黑豹」阿巴西此役19投4中，拿下14分，但命中率只有21.1%，他自認這兩場低...…",
-        "image": ""
-      },
-      {
-        "title": "全大運游泳》「仰式之王」莊沐倫再奪8金 締賽史50金傳奇紀錄",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428189",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:49:18.000Z",
-        "description": "115年全國大專校院運動會落幕，台北市大「仰式之王」莊沐倫成為最大贏家，連續3屆8金進帳，累計賽史集滿50金，而且傳奇紀錄還有望持續翻新。\n\n\n本屆全大運由中央大學承辦，...…",
-        "image": ""
-      },
-      {
-        "title": "TPBL》國王2連勝特攻闖季後賽 洪志善點名王柏智首節表現是關鍵",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428171",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:29:36.000Z",
-        "description": "新北國王今天在季後賽挑戰賽最後一場以96：90擊敗中信特攻，2連勝收下季後賽門票。今天賽後國王總教練洪志善表示，球隊這兩場比賽啟用了有別於例行賽的防守策略，球員也執行得很...…",
-        "image": ""
-      },
-      {
-        "title": "中職》高宇杰右手指挨球吻提前傷退  平野惠一坦言非常擔心",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428170",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:27:19.000Z",
-        "description": "今天大巨蛋龍象戰，中信兄弟先發捕手高宇杰遭對方打者擦棒球擊中右手食指提前傷退，由陳統恩接替蹲捕，賽後兄弟總教練平野惠一坦言，非常擔心高宇杰的狀況。\n\n\n對於高宇杰的狀況，...…",
-        "image": ""
-      },
-      {
-        "title": "中職》21歲先發新星陳品宏突然中繼亮相 富邦教頭解釋原因",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428165",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:23:45.000Z",
-        "description": "富邦悍將後天晚上在新莊跟味全龍進行3連戰系列賽，總教練後藤光尊賽前已明言，生涯44勝的陳仕朋將本季初登板，扛下其中一場先發，而另一位21歲先發土投陳品宏今晚首度以中繼身份...…",
-        "image": ""
-      },
-      {
-        "title": "中職》全聯盟最會打先發洋投！ 富邦悍將復仇成功",
-        "link": "https://sports.ltn.com.tw/news/breakingnews/5428157",
-        "source": "自由體育",
-        "pubDate": "2026-05-06T14:16:29.000Z",
-        "description": "富邦是全聯盟最會打第一局的隊伍，今在首局2出局大爆發，從張育成帶頭連續6打席擊出安打，猛灌4分大局，本季在首局猛攻24分，不僅高居全聯盟第1名，也是富邦本季進帳最多分的半...…",
-        "image": ""
       }
     ],
     "tech": [
       {
-        "title": "群聯 4 月份 EPS 達 34.56 元，累計前四個月 EPS 超過百元賺逾 10 個股本",
+        "title": "閱讀能力太差，美研究：學生成績倒退十年",
+        "link": "https://technews.tw/2026/05/14/reading-ability-get-worse-in-decades/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:55:02.000Z",
+        "description": "智慧手機出現後，全世界都進入閱讀能力大倒退的時代。這幾年美國教師稱許多學生缺乏閱讀和理解能力，甚至對學生識字率 […]",
+        "image": ""
+      },
+      {
+        "title": "思科財報優、大幅裁員聚焦 AI  盤後飆 21%",
+        "link": "https://finance.technews.tw/2026/05/14/cisco-reports-third-quarter-earnings-2/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:50:56.000Z",
+        "description": "全球網通設備龍頭思科（Cisco）受惠人工智慧（AI）基建訂單激增，上季財報表現出色，並宣布裁員 4,000  […]",
+        "image": ""
+      },
+      {
+        "title": "汽車巨頭福特進軍儲能「沾邊 AI」  股價飆漲 13%",
+        "link": "https://technews.tw/2026/05/14/ford-stock-surges-13-percent-on-investor-optimism-for-new-energy-storage-business/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:40:42.000Z",
+        "description": "美國汽車大廠福特（Ford Motor）儲能事業獲市場期待，帶動股價 14 日大漲 13%，創近六年來最大單日 […]",
+        "image": ""
+      },
+      {
+        "title": "PCB 廠 Meiko 營收、獲利破紀錄  高掛漲停",
+        "link": "https://finance.technews.tw/2026/05/14/meiko-electronics-fy2025-financial-results-briefing/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:30:55.000Z",
+        "description": "衛星通訊用、AI 伺服器用需求暴增，日本印刷電路板（PCB）大廠名幸電子（Meiko Electronics） […]",
+        "image": ""
+      },
+      {
+        "title": "輝達 CPO 夥伴 Coherent 飆史高  CEO 赴中、毛利率俏",
+        "link": "https://finance.technews.tw/2026/05/14/coherent-and-lumentum-stocks-rise-as-the-ai-networking-trade-stays-hot/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:20:49.000Z",
+        "description": "受到投資人期待美國總統川普（Donald Trump）打開中國市場、光通訊產品產能擴充前景俏的激勵，輝達（Nv […]",
+        "image": ""
+      },
+      {
+        "title": "騰訊 Q1 經調整獲利年增 11%；下半年加大 AI 投入",
+        "link": "https://finance.technews.tw/2026/05/14/tencent-announces-2026-first-quarter-results/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:10:01.000Z",
+        "description": "綜合港媒及中媒報導，騰訊公布今年第一季營收 1,964.58 億元（人民幣，下同）、年增 9%，低於預期；淨利 […]",
+        "image": ""
+      },
+      {
+        "title": "身分安全威脅成為勒索軟體主要侵入途徑，三分之二受害組織認為源頭是身分攻擊",
+        "link": "https://www.ithome.com.tw/news/175780",
+        "source": "iThome",
+        "pubDate": "2026-05-14T01:05:42.000Z",
+        "description": "企業採用雲端服務與AI的比例水漲船高，伴隨而來的是數量暴增的應用程式與服務，以及各種真人與非人的數位身分，導致龐大的管理與安全性問題，單就數位身分而言，包含使用者的帳號與密碼、API金鑰、服務帳號、OAuth權杖，一旦攻擊者掌握到這些重要資訊，就可能得以進入公司內部系統，導致資料外洩與勒索軟體等資安事故的發生，因此，遭竊的帳號與密碼、遭駭的服務帳號，以及鎖定企業員工發動的社交工程攻擊，都成為當前全球資料外洩事故中最常見的初始存取管道。",
+        "image": ""
+      },
+      {
+        "title": "美 4 月 PPI 飆至 6%、四年新高  Fed 可能轉向升息？",
+        "link": "https://finance.technews.tw/2026/05/14/us-april-ppi-6-percent-four-year-high-fed-rate-hike-pivot/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:00:54.000Z",
+        "description": "美伊戰爭導致能源成本飆升的通膨壓力持續，美國 4 月生產者物價指數（PPI）年增率飆至 6%，創四年來最大增幅 […]",
+        "image": ""
+      },
+      {
+        "title": "AI 醫療與長照科技齊發！Medical Taiwan 2026 開放預先參觀登記",
+        "link": "https://technews.tw/2026/05/14/ai-powered-healthcare-medical-taiwan-2026/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T01:00:08.000Z",
+        "description": "由外貿協會（TAITRA）主辦的「台灣醫療暨健康照護展（Medical Taiwan 2026）」將於 6 月 […]",
+        "image": ""
+      },
+      {
+        "title": "AMD 揭露持股、ASIC 設計巨頭邁威爾飆史高",
+        "link": "https://finance.technews.tw/2026/05/14/marvell-in-focus-as-amd-discloses-stake/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:50:01.000Z",
+        "description": "超微（AMD）揭露多檔持股，當中包括 ASIC 設計服務巨擘邁威爾（Marvell Technology, I […]",
+        "image": ""
+      },
+      {
+        "title": "AI 晶片新星 Cerebras IPO 倒數  估值衝 564 億美元",
+        "link": "https://finance.technews.tw/2026/05/14/cerebras-prices-ipo-at-185-per-share-to-raise-5-55-billion/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:40:27.000Z",
+        "description": "美國人工智慧（AI）晶片新創公司 Cerebras 首次公開發行（IPO）需求火爆，承銷價格大幅高於原定區間。 […]",
+        "image": ""
+      },
+      {
+        "title": "美通膨數據高於預期，華爾街早盤走跌道瓊挫 0.5%",
+        "link": "https://finance.technews.tw/2026/05/14/us-inflation-data-exceeds-expectations-wall-street-declines-early-trading-dow-jones-falls-0-5/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:30:18.000Z",
+        "description": "市場消化通膨數據大幅高於預期的消息，同時美國總統川普抵達北京，準備與中國領導人習近平舉行高峰會，華爾街股市今天 […]",
+        "image": ""
+      },
+      {
+        "title": "改造益生菌在腸道發揮作用，重塑肝與腦的代謝連動",
+        "link": "https://technews.tw/2026/05/14/engineered-commensals-for-metabolic-modulation-of-the-gut-liver-brain-axis/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:20:30.000Z",
+        "description": "最近新加坡國立大學（National University of Singapore）提出與傳統藥物開發不同的 […]",
+        "image": ""
+      },
+      {
+        "title": "投資 OpenAI 大豐收，軟銀願景基金一年 460 億美元收益進帳",
+        "link": "https://finance.technews.tw/2026/05/14/softbank-posts-46-billion-gain-at-vision-fund/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:14:42.000Z",
+        "description": "軟銀（SoftBank）旗下願景基金（Vision Fund）全年帳列 460 億美元投資收益，主要是因投資  […]",
+        "image": ""
+      },
+      {
+        "title": "移工經濟的幻夢：從印度移工大邦的失落，到台灣 3K 產業的依賴危機",
+        "link": "https://technews.tw/2026/05/14/the-illusion-of-the-migrant-labor-economy-from-indias-worker-sending-states-to-taiwans-dependence-on-3k-industries/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:10:33.000Z",
+        "description": "全球化的勞動力版圖，印度南部的喀拉拉邦長期視為「匯款經濟」的奇蹟典範。透過向波灣國家輸出數以百萬計的勞動力，該 […]",
+        "image": ""
+      },
+      {
+        "title": "再談 x86 vs. Arm：勝負已分？",
+        "link": "https://technews.tw/2026/05/14/x86-vs-arm/",
+        "source": "科技新報",
+        "pubDate": "2026-05-14T00:00:48.000Z",
+        "description": "今年 COMPUTEX 快到了，也代表當初挾 Copilot+ PC 衝擊市場的 WoA（Windows on […]",
+        "image": ""
+      },
+      {
+        "title": "AI 基建超級循環是否過熱？從「電力瓶頸」與「Agent 推論」看下半場機會",
+        "link": "https://finance.technews.tw/2026/05/14/ai-infrastructure-supercycle-overheating-opportunities-second-half-power-bottlenecks-agent-inference/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:50:11.000Z",
+        "description": "5 月美股財報季進入尾聲，北美四大雲端服務商（AWS、Google、Meta、微軟）資本支出年增率高達 70% […]",
+        "image": ""
+      },
+      {
+        "title": "辦公室裡的隱形殺手，久坐如何一步步傷害你的身體",
+        "link": "https://technews.tw/2026/05/14/scientists-warn-sitting-too-much-can-harm-your-body-in-surprising-ways/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:40:54.000Z",
+        "description": "根據最新研究，長時間久坐不僅會影響新陳代謝、血液循環和姿勢，還可能導致一系列意想不到的健康問題。許多成年人每天 […]",
+        "image": ""
+      },
+      {
+        "title": "被 AI 垃圾淹沒的電子書架，月產 30 萬本「水貨」背後的出版界災難",
+        "link": "https://technews.tw/2026/05/14/best-selling-books-written-by-non-human-authors/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:30:32.000Z",
+        "description": "你花錢買了一本書，卻發現作者壓根不存在，這是知名心臟病專家艾瑞克·托波爾（Eric Topol）教授的真實遭遇 […]",
+        "image": ""
+      },
+      {
+        "title": "AI 幻覺成律師犯錯甩鍋好藉口？問題其實出在人身上",
+        "link": "https://technews.tw/2026/05/14/are-there-attorneys-crying-wolf-about-ai-hallucinations-when-human-lawyer-slop-is-really-to-blame/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:20:34.000Z",
+        "description": "近來生成式人工智慧（AI）「幻覺」引發的法庭文件爭議，使法律界不得不面對尖銳質疑：是否有律師文件出錯或偽造引文 […]",
+        "image": ""
+      },
+      {
+        "title": "蘋果影像版圖再擴張，低調收購調色神器 Color.io 強化創作生態",
+        "link": "https://technews.tw/2026/05/14/apple-bought-color-grading-tool-color-io-in-january/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:10:00.000Z",
+        "description": "蘋果公司於今年 1 月透過子公司完成對德國獨立開發商 Patchflyer GmbH 的收購，創辦人 Jona […]",
+        "image": ""
+      },
+      {
+        "title": "Schaeffler 攜手 Hexagon 等廠商，以雙重身分強化人型機器人生態系",
+        "link": "https://technews.tw/2026/05/14/schaeffler-partners-hexagon-manufacturers-strengthen-humanoid-robot-ecosystem-dual-role/",
+        "source": "科技新報",
+        "pubDate": "2026-05-13T23:00:35.000Z",
+        "description": "德國工業零組件大廠 Schaeffler 於今年 4 月底擴大與 Hexagon Robotics 合作，導入 […]",
+        "image": ""
+      },
+      {
+        "title": "群聯 4 月 EPS 達 34.56 元，前四個月 EPS 超過百元賺逾 10 個股本",
         "link": "https://finance.technews.tw/2026/05/13/phisons-cumulative-eps-for-the-first-four-months-exceeded-nt100-earning-more-than-10-times-its-share-capital/",
         "source": "科技新報",
         "pubDate": "2026-05-13T13:45:53.000Z",
-        "description": "記憶體大廠群聯電子依監管機構台北證券交易所的要求，於13日公布2026年4月自結財務報告，繳出極為亮眼的成績單 […]",
+        "description": "記憶體大廠群聯電子依監管機構台北證券交易所的要求，於 13 日公布 2026 年 4 月自結財務報告，繳出極為 […]",
         "image": ""
       },
       {
@@ -17964,214 +18220,6 @@
         "source": "iThome",
         "pubDate": "2026-05-07T02:05:36.000Z",
         "description": "不少企業看上GAI強大的資料處理能力，想要用來處理繁雜的資安作業，像是分析龐大的Log，篩選複雜的告警等，根據iThome今年CIO&CISO大調查，30%的資訊主管認為AI可以緩解資安人力不足的問題，每三家企業也就有一家今年要導入資安流程的AI Agent來輔助。\n針對這波企業想用AI來強化資安的浪潮，靖本行策執行長盧建成認為，AI只是讓問題變快，不代表責任或決策變得更清楚。\n早在AI資安爆紅之前，過去幾年，企業最夯的話題是DevSecOps，因為DevOps在臺發展十年，逐漸成了企業開發的主流方法論，但是速度變化了，安全的壓力也隨之而來，企業開始積極在開發流程的不同階段，採用各種DevSecOps資安工具或機制。",
-        "image": ""
-      },
-      {
-        "title": "量子 AI 新創 Qutwo，天使輪融資逾 9 億元創芬蘭紀錄",
-        "link": "https://technews.tw/2026/05/07/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:40:08.000Z",
-        "description": "Silo AI 前執行長彼得·薩林（Peter Sarlin）賣掉公司不到兩年，又一手創立量子 AI 新創 Q […]",
-        "image": ""
-      },
-      {
-        "title": "台積電 2,345 元新天價，台股早盤衝 42,131 點新高漲 992 點",
-        "link": "https://finance.technews.tw/2026/05/07/tsmc-2345-stock-price/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:30:10.000Z",
-        "description": "美科技股和台積電 ADR 飆高，台指期夜盤收歷史新高 42,320 點。台股今天開盤氣勢如虹，在台積電創 2, […]",
-        "image": ""
-      },
-      {
-        "title": "致茂 4 月營收再創高！花旗看好 SLT、CPO 成長動能，目標價喊 2,500 元",
-        "link": "https://technews.tw/2026/05/07/citi-see-chroma-2026-q1-financial-report/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:25:17.000Z",
-        "description": "致茂 4 月營收再創單月歷史新高，達新台幣 48.66 億元，年增 129%、月增 11%，目前已達彭博（BB […]",
-        "image": ""
-      },
-      {
-        "title": "Arm 搶攻 AI 晶片新戰場  預告本季延續強勁動能",
-        "link": "https://finance.technews.tw/2026/05/07/arm-holdings-plc-q4-fye26-investor-presentation/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:20:27.000Z",
-        "description": "半導體矽智財（IP）龍頭 Arm 公布最新財報，受惠生成式 AI 需求爆發，上季營收優於預期，並預告本季仍將延 […]",
-        "image": ""
-      },
-      {
-        "title": "奇鋐 4 月營收低於預期，亞系券商：GPU 平台轉換影響短期表現",
-        "link": "https://finance.technews.tw/2026/05/07/avc-apr26-revenue/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:19:16.000Z",
-        "description": "AI 散熱大廠奇鋐 4 月營收表現低於外界預期，亞系券商 DAIWA 認為，這是受到 GPU 平台轉換影響，進 […]",
-        "image": ""
-      },
-      {
-        "title": "川習會在即，川普：有望訪中前與伊朗達成協議",
-        "link": "https://technews.tw/2026/05/07/trump-tells-pbs-news-that-iran-war-has-a-very-good-chance-of-ending/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:10:02.000Z",
-        "description": "美國總統川普今天上午接受公共電視網（PBS）電話訪問時表示，他認為「很有機會」與伊朗敲定協議，有望在他訪問中國 […]",
-        "image": ""
-      },
-      {
-        "title": "AMD第一季營收成長38%，資料中心業務成主要成長動能",
-        "link": "https://www.ithome.com.tw/news/175608",
-        "source": "iThome",
-        "pubDate": "2026-05-07T01:05:26.000Z",
-        "description": "半導體業者AMD週二（5/5）公布截至3月28日的2026財年第一季財報，該季AMD創下102.5億美元的營收，成長38%，其中，在AI需求的帶動下，其資料中心部門營收成長幅度更達57%。",
-        "image": ""
-      },
-      {
-        "title": "三星宣布停止在中國市場銷售家電產品",
-        "link": "https://technews.tw/2026/05/07/samsung-says-to-discontinue-china-sales-of-some-consumer-electronics-products/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T01:00:11.000Z",
-        "description": "綜合中媒報導，有關三星在中國區家電業務調整，三星（中國）投資有限公司 6 日正式發布公告表示，為應對急劇變化的 […]",
-        "image": ""
-      },
-      {
-        "title": "迪士尼財報優、新 CEO 推進變革  股價勁揚 7%",
-        "link": "https://finance.technews.tw/2026/05/07/disneys-q2-fy26-earnings-results-webcast/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:50:14.000Z",
-        "description": "娛樂巨頭迪士尼（Disney）財報出色並發布更明確的獲利預測數字，新任執行長達馬羅（Josh DAmaro）也 […]",
-        "image": ""
-      },
-      {
-        "title": "桌面版 Chrome 內藏 4GB 模型惹議，Google：電腦資源不足便解除安裝",
-        "link": "https://technews.tw/2026/05/07/google-chrome-silently-installs-a-4gb-ai-model-on-your-device/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:44:27.000Z",
-        "description": "The Privacy Guy 網站近日一篇文章指出，桌面版 Chrome 瀏覽器會悄悄地在你的電腦安裝多達  […]",
-        "image": ""
-      },
-      {
-        "title": "傳中國大基金洽談領投，DeepSeek 估值料達 450 億美元",
-        "link": "https://technews.tw/2026/05/07/deepseek-nears-45bn-valuation-as-chinas-big-fund-leads-investment-talks/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:40:04.000Z",
-        "description": "綜合港媒報導，據英國《金融時報》引述知情人士指出，俗稱中國「國家大基金」的國家集成電路產業投資基金正在洽談領投 […]",
-        "image": ""
-      },
-      {
-        "title": "康寧結盟輝達、美光通訊產能將擴充 10 倍  股價飆",
-        "link": "https://technews.tw/2026/05/07/nvidia-and-corning-announce-long-term-partnership/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:30:16.000Z",
-        "description": "輝達（Nvidia Corp.）、康寧（Corning）宣布合作，將攜手擴充美國用於 AI 資料中心的光學連接 […]",
-        "image": ""
-      },
-      {
-        "title": "台股周轉率飆高引「泡沫」疑慮？分析師蔡明翰：台積電本益比尚在均值",
-        "link": "https://finance.technews.tw/2026/05/07/turnover-rate/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:21:02.000Z",
-        "description": "台股近期交投熱絡，成交量屢創新高，周轉率攀升至 1.716% 相對高點，雖然離 1990 年 3.736% 的 […]",
-        "image": ""
-      },
-      {
-        "title": "電力，就是城市競爭力",
-        "link": "https://technews.tw/2026/05/07/electricity-urban-competitiveness/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:20:50.000Z",
-        "description": "當 AI 成為有史以來最耗能的科技新浪潮，能源與電力問題也躍升影響城市與科技競爭的重要變數。台灣這座科技島無論 […]",
-        "image": ""
-      },
-      {
-        "title": "系統性打壓安全證據？FDA 阻發表多篇疫苗研究，專家批政治干預科學",
-        "link": "https://technews.tw/2026/05/07/fda-officials-block-vaccine-safety-study-experts-criticize/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:10:18.000Z",
-        "description": "美國《紐約時報》報導，美國衛生與公共服務部（HHS）證實，美國食品暨藥物管理局（FDA）官員近月來阻止多篇研究 […]",
-        "image": ""
-      },
-      {
-        "title": "完美變得廉價？2026 年「數位真實感」成為 AI 氾濫時代的科技新貨幣",
-        "link": "https://technews.tw/2026/05/07/unpacking-the-viral-trend-in-a-stuffed-tote/",
-        "source": "科技新報",
-        "pubDate": "2026-05-07T00:00:31.000Z",
-        "description": "當 Sora2 產出的極光影片比肉眼所見更壯麗、Midjourney v8 繪製的人像比真實皮膚更無暇，「完美 […]",
-        "image": ""
-      },
-      {
-        "title": "誰在說謊？當企業開始用假訊息抓內鬼，你的資安治理還撐得住嗎？",
-        "link": "https://finance.technews.tw/2026/05/07/cybersecurity-governance/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:50:25.000Z",
-        "description": "近期，全球遊戲產業龍頭任天堂（Nintendo）陷入了一場前所未有的洩密風暴。從 2026 年到 2027 年 […]",
-        "image": ""
-      },
-      {
-        "title": "動口就能設計分子：Synthegy 能以日常語言規劃化學合成",
-        "link": "https://technews.tw/2026/05/07/ai-lets-chemists-design-molecules-by-simply-describing-them/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:40:18.000Z",
-        "description": "合成新分子是化學界最艱難的工作之一，化學家通常得花數年才能掌握策略。瑞士洛桑聯邦理工學院（EPFL）團隊開發全 […]",
-        "image": ""
-      },
-      {
-        "title": "伊朗戰爭影響聚酯纖維供應，亞洲紡織業傷腦筋",
-        "link": "https://technews.tw/2026/05/07/polyester-prices-surge-amid-war-textile-industry-struggles/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:30:30.000Z",
-        "description": "伊朗戰爭造成的荷莫茲海峽航運停擺持續，全球石油市場大亂，以石油為原料的石化產品也連帶受影響，其中的化纖原料再影 […]",
-        "image": ""
-      },
-      {
-        "title": "用過時資料訓練語言模型的「AI 時光機」，能否準確預測現在？",
-        "link": "https://technews.tw/2026/05/07/turning-back-the-clock-by-making-an-ai-time-machine-chatbot-based-only-on-information-available-before-the-1930s/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:20:49.000Z",
-        "description": "富比士專欄作者蘭斯·艾略特（Lance Eliot） 5 日撰文指出，AI 業界又興起以「過時資料」訓練大型語 […]",
-        "image": ""
-      },
-      {
-        "title": "日本研討手機統一回收價，蘋果反對並罕見批評競爭對手",
-        "link": "https://technews.tw/2026/05/07/japan-considers-unified-phone-recycling-prices-apple-opposes/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:10:58.000Z",
-        "description": "日本總務省早前召開「利用者視角審視流動市場專門委員會」第六次會議，研究所有智慧手機的統一回收價計算比率。蘋果（ […]",
-        "image": ""
-      },
-      {
-        "title": "貿易壁壘重塑全球生產格局，「中國+1」成企業降低風險選擇",
-        "link": "https://technews.tw/2026/05/07/trade-barriers-reshape-global-production-landscape-china-1-companies-risk-reduction-choice/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:00:45.000Z",
-        "description": "隨著全球供應鏈日益複雜，地緣政治不確定性持續上升，全球多數企業紛紛重新思考其產品採購、生產方式與地點，其中「中 […]",
-        "image": ""
-      },
-      {
-        "title": "美軍著手研發「緊湊版」AIM-9X 響尾蛇飛彈，射程還將提高 1.5 倍",
-        "link": "https://technews.tw/2026/05/07/us-navy-and-air-force-are-developing-compact-version-of-aim-9x/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T23:00:25.000Z",
-        "description": "美國海空軍正聯手開發全新緊湊版（Compact Variant，CV）AIM-9X 響尾蛇空對空飛彈，這款縮小 […]",
-        "image": ""
-      },
-      {
-        "title": "突破地表極限！Anthropic 結盟 SpaceX 開發數吉瓦「太空 AI 算力」",
-        "link": "https://finance.technews.tw/2026/05/07/colossus-1/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T22:36:31.000Z",
-        "description": "美國 AI 新創 Anthropic 重磅宣布與 SpaceX 達成合作協議，預計將取得超級電腦「Coloss […]",
-        "image": ""
-      },
-      {
-        "title": "汎銓第一季 EPS 虧損 0.61 元，虧損幅度收斂",
-        "link": "https://finance.technews.tw/2026/05/07/msscorp-reported-a-first-quarter-eps-loss-of-0-61-yuan/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T22:30:37.000Z",
-        "description": "半導體檢測廠汎銓公布 2026 年第一季合併營收達 5.79 億元，年增 24.54%，創歷年同期新高，稅前淨 […]",
-        "image": ""
-      },
-      {
-        "title": "威剛第一季 EPS 高達 30.05 元，目前仍手握逾 400 億元庫存能支應至第四季",
-        "link": "https://finance.technews.tw/2026/05/07/adatas-first-quarter-eps-reached-nt30-05/",
-        "source": "科技新報",
-        "pubDate": "2026-05-06T22:00:45.000Z",
-        "description": "記憶體模組大廠威剛 6 日舉辦法人說明會，並公布 2026 年第一季營收情況。受惠於記憶體價格飆升與低價庫存優 […]",
         "image": ""
       }
     ]
