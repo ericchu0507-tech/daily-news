@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:59:14.606Z",
+  "updated": "2026-09-12T14:38:11.188Z",
   "stocks": [
     {
       "symbol": "^GSPC",
@@ -14,7 +14,7 @@
       "name": "NASDAQ",
       "short": "NDQ",
       "price": 26333.04,
-      "change": 251.31,
+      "change": 251.32,
       "changePct": 0.96
     },
     {
