@@ -1,20 +1,20 @@
 {
-  "updated": "2026-11-02T21:02:46.778Z",
+  "updated": "2026-11-03T04:26:06.748Z",
   "stocks": [
     {
       "symbol": "^GSPC",
       "name": "S&P 500",
       "short": "SPX",
-      "price": 7541.68,
-      "change": -38.39,
+      "price": 7541.4,
+      "change": -38.67,
       "changePct": -0.51
     },
     {
       "symbol": "^IXIC",
       "name": "NASDAQ",
       "short": "NDQ",
-      "price": 25164.32,
-      "change": -272.68,
+      "price": 25164.36,
+      "change": -272.64,
       "changePct": -1.07
     },
     {
@@ -29,9 +29,9 @@
       "symbol": "^TWII",
       "name": "台灣加權",
       "short": "TWI",
-      "price": 45211.83,
-      "change": -1156.5,
-      "changePct": -2.49
+      "price": 43408.21,
+      "change": -1511.93,
+      "changePct": -3.37
     }
   ]
 }
