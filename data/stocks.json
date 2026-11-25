@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:46:49.673Z",
+  "updated": "2026-11-25T06:02:17.666Z",
   "stocks": [
     {
       "symbol": "^GSPC",
@@ -14,7 +14,7 @@
       "name": "NASDAQ",
       "short": "NDQ",
       "price": 23733.54,
-      "change": -356.03,
+      "change": -356.02,
       "changePct": -1.48
     },
     {
@@ -29,9 +29,9 @@
       "symbol": "^TWII",
       "name": "台灣加權",
       "short": "TWI",
-      "price": 36811.89,
-      "change": 778.6,
-      "changePct": 2.16
+      "price": 38195.43,
+      "change": -1926.92,
+      "changePct": -4.8
     }
   ]
 }
